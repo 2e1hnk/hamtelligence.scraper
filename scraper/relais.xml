@@ -1,0 +1,2516 @@
+<?xml version="1.0"?>
+<markers>
+	<marker indicatif="INDICATIF" locator="LOCATO" lat="0.000000"
+		lng="0.000000" HS="0" type="BANDE" categorie="Typ" canal="CANAL"
+		qrg_in="QRG d'entr" qrg_out="QRG de sor" ville="RELAIS dit de" nom="EMPLACEMENT"
+		dpt="DP" alt="0" resp="RESPONSABLE" decl="Acc&#xE8;s" infos="INFOS" />
+	<marker indicatif="F1ZKM" locator="JN25IW" lat="45.942501" lng="4.733200"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.9000"
+		qrg_out="439.5000" ville="Saint-Bernard" nom="Chemin du relais" dpt="01"
+		alt="180" resp="F4HIN" decl="DMR" infos="Hardware RD985" />
+	<marker indicatif="F1ZKZ" locator="JN26QE" lat="46.194698" lng="5.338600"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.6000"
+		qrg_out="439.2000" ville="Ramasse" nom="Mont July" dpt="01" alt="585"
+		resp="F4HIN" decl="DMR" />
+	<marker indicatif="F1ZPY" locator="JN26TE" lat="46.206402" lng="5.641100"
+		HS="0" type="UHF" categorie="ana" canal="RU 6H" qrg_in="439.5500"
+		qrg_out="430.1500" ville="Apremont" nom="Mont Jora" dpt="01" alt="1035"
+		resp="F1GTH" decl="squelch" infos="Intercom 144&amp;#46;775 MHz" />
+	<marker indicatif="F5ZDT" locator="JN26TE" lat="46.206402" lng="5.641100"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4625"
+		qrg_out="432.5375" ville="Apremont" nom="Mont Jora" dpt="01" alt="1035"
+		resp="F5IDF" decl="CTCSS" infos="91&amp;#46;5 Hz ADRASEC 01" />
+	<marker indicatif="F6ZJD" locator="JN26RE" lat="46.172199" lng="5.494400"
+		HS="0" type="VHF" categorie="ana" canal="R1x" qrg_in="145.0375"
+		qrg_out="145.6375" ville="Nurieux" nom="Col du Berthiand" dpt="01"
+		alt="810" resp="F1GTH" decl="1750 Hz" />
+	<marker indicatif="F1ZFS" locator="JN19RN" lat="49.576900" lng="3.430800"
+		HS="0" type="VHF" categorie="ana" canal="R3" qrg_in="145.0750"
+		qrg_out="145.6750" ville="Saint-Gobain" nom="La Fontaine &#xE0; la Goutte"
+		dpt="02" alt="220" resp="F1BAY" decl="1750 Hz" />
+	<marker indicatif="F1ZJK" locator="JN19TV" lat="49.907398" lng="3.647400"
+		HS="0" type="UHF" categorie="ana" canal="RU 5XH" qrg_in="439.5375"
+		qrg_out="430.1375" ville="Guise" nom="Rue Jean Monnet" dpt="02" alt="149"
+		resp="F4DVK" decl="CTCSS" infos="67 Hz" />
+	<marker indicatif="F1ZRC" locator="JN19PU" lat="49.849701" lng="3.287400"
+		HS="0" type="UHF" categorie="ana" canal="FRU 20" qrg_in="431.5000"
+		qrg_out="433.1000" ville="Saint-Quentin" nom="Rue Raspail" dpt="02"
+		alt="104" resp="F5TYN" decl="squelch" />
+	<marker indicatif="F1ZRE" locator="JN19RN" lat="49.576900" lng="3.430800"
+		HS="0" type="UHF" categorie="ana" canal="FRU 10" qrg_in="431.8500"
+		qrg_out="430.2500" ville="Saint-Gobain" nom="La Fontaine &#xE0; la Goutte"
+		dpt="02" alt="220" resp="F1BAY" decl="1750 Hz" />
+	<marker indicatif="F5ZBC" locator="JN19PG" lat="49.250801" lng="3.297200"
+		HS="0" type="SHF" categorie="ana" canal="RM 0" qrg_in="1297.000"
+		qrg_out="1291.000" ville="Soissons" nom="St-R&#xE9;my-Blanzy" dpt="02"
+		alt="210" resp="F1EGV" decl="squelch" />
+	<marker indicatif="F5ZBC" locator="JN19PG" lat="49.250801" lng="3.297200"
+		HS="0" type="UHF" categorie="num" canal="FRU 1" qrg_in="431.6250"
+		qrg_out="430.0250" ville="Soissons" nom="St-R&#xE9;my-Blanzy" dpt="02"
+		alt="210" resp="F1EGV" decl="C4FM" />
+	<marker indicatif="F5ZVU" locator="JN19TN" lat="49.564201" lng="3.621000"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.5250" ville="Laon" nom="Mairie" dpt="02" alt="160" resp="F6HDV"
+		decl="squelch" infos="ADRASEC 02" />
+	<marker indicatif="F1ZGF" locator="JN16SD" lat="46.151402" lng="3.516600"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.4000" ville="Cusset" nom="Les Acarins" dpt="03" alt="480"
+		resp="F1IBO" decl="squelch" />
+	<marker indicatif="F1ZHY" locator="JN16LH" lat="46.318001" lng="2.948000"
+		HS="0" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="Montmarault" nom="Route de Montlu&#xE7;on"
+		dpt="03" alt="480" resp="F4ARJ" decl="DMR" infos="bi-mode D-Star" />
+	<marker indicatif="F1ZHY" locator="JN16LH" lat="46.318001" lng="2.948000"
+		HS="0" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="Montmarault" nom="Route de Montlu&#xE7;on"
+		dpt="03" alt="480" resp="F4ARJ" decl="D-STAR" />
+	<marker indicatif="F1ZXA" locator="JN16II" lat="46.351601" lng="2.667700"
+		HS="0" type="UHF" categorie="ana" canal="RU 9H" qrg_in="439.6250"
+		qrg_out="430.2250" ville="Montlu&#xE7;on" nom="Saint-Angel" dpt="03"
+		alt="400" resp="F4COT" decl="squelch" infos="Int&amp;#46;VHF programmable" />
+	<marker indicatif="F5ZOQ" locator="JN16LE" lat="46.174301" lng="2.956100"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2000"
+		qrg_out="431.0000" ville="Echassi&#xE8;re" nom="La Bosse" dpt="03"
+		alt="745" resp="F4EFL" decl="1750 Hz" />
+	<marker indicatif="F1ZEQ" locator="JN24VC" lat="44.121899" lng="5.803000"
+		HS="0" type="UHF" categorie="ana" canal="FRU 12R" qrg_in="430.3000"
+		qrg_out="431.9000" ville="Digne" nom="Montagne de Lure" dpt="04" alt="1806"
+		resp="F6BXM" decl="squelch" />
+	<marker indicatif="F1ZTQ" locator="JN23VX" lat="43.959400" lng="5.779900"
+		HS="1" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2625"
+		qrg_out="431.1500" ville="Forcalquier" nom="Chemin des cabanons pointus"
+		dpt="04" alt="700" resp="F4EGG" decl="squelch" />
+	<marker indicatif="F1ZVH" locator="JN24VC" lat="44.121899" lng="5.803000"
+		HS="0" type="VHF" categorie="ana" canal="R4" qrg_in="145.1000"
+		qrg_out="145.7000" ville="Digne" nom="Montagne de Lure" dpt="04" alt="1806"
+		resp="F6BXM" decl="1750 Hz" />
+	<marker indicatif="F5ZLU" locator="JN34HD" lat="44.166302" lng="6.602000"
+		HS="0" type="UHF" categorie="num" canal="RU 21HR" qrg_in="430.5250"
+		qrg_out="439.9250" ville="Villars-Colmar" nom="Chalet Laurance" dpt="04"
+		alt="1290" resp="F5CPW" decl="D-STAR" />
+	<marker indicatif="F1ZDF" locator="JN34HV" lat="44.911800" lng="6.645200"
+		HS="0" type="TRP" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="145.2625" ville="Brian&#xE7;on" nom="La Croix de Toulouse"
+		dpt="05" alt="1962" resp="F4EGG" decl="D-STAR" />
+	<marker indicatif="F1ZDF" locator="JN34HV" lat="44.911800" lng="6.645200"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Brian&#xE7;on" nom="La Croix de Toulouse"
+		dpt="05" alt="1962" resp="F4EGG" decl="D-STAR" />
+	<marker indicatif="F1ZXM" locator="JN34HO" lat="44.611099" lng="6.612700"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="144.8875"
+		qrg_out="144.8875" ville="Risoul"
+		nom="Belv&#xE9;d&#xE8;re L&amp;#39;homme de pierre" dpt="05" alt="2374"
+		resp="F4EGG" decl="D-STAR" infos="en test" />
+	<marker indicatif="F1ZXM" locator="JN34HO" lat="44.611099" lng="6.612700"
+		HS="0" type="UHF" categorie="ana" canal="FRU 4" qrg_in="431.7000"
+		qrg_out="430.1000" ville="Risoul"
+		nom="Belv&#xE9;d&#xE8;re L&amp;#39;homme de pierre" dpt="05" alt="2374"
+		resp="F4EGG" decl="squelch" infos="Int&amp;#46; avec F1ZVH" />
+	<marker indicatif="F1ZYH" locator="JN34BO" lat="44.614799" lng="6.114800"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="144.8375"
+		qrg_out="144.8375" ville="Gap" nom="Col de Manse" dpt="05" alt="1370"
+		resp="F4EGG" decl="D-STAR" />
+	<marker indicatif="F1ZYH" locator="JN34BO" lat="44.614799" lng="6.114800"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Gap" nom="Col de Manse" dpt="05" alt="1370"
+		resp="F4EGG" decl="D-STAR" />
+	<marker indicatif="F1ZYI" locator="JN35EA" lat="45.035301" lng="6.405500"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.9000"
+		qrg_out="439.5000" ville="Le Monetier-les-Bains" nom="Col du Lautaret"
+		dpt="05" alt="2058" resp="F4EGG" decl="D-STAR" />
+	<marker indicatif="F5ZAF" locator="JN34HV" lat="44.895500" lng="6.633800"
+		HS="0" type="VHF" categorie="ana" canal="R7x" qrg_in="145.1875"
+		qrg_out="145.7875" ville="Brian&#xE7;on" nom="Rue Alphand" dpt="05"
+		alt="1232" resp="F6EIB" decl="1750 Hz" />
+	<marker indicatif="F5ZAI" locator="JN34HV" lat="44.895500" lng="6.633800"
+		HS="0" type="UHF" categorie="ana" canal="FRU 5" qrg_in="431.7250"
+		qrg_out="430.1250" ville="Brian&#xE7;on" nom="Rue Alphand" dpt="05"
+		alt="1232" resp="F6EIB" decl="squelch" />
+	<marker indicatif="F5ZHT" locator="JN34BP" lat="44.628601" lng="6.150500"
+		HS="0" type="UHF" categorie="ana" canal="RU 10H" qrg_in="439.6500"
+		qrg_out="430.2500" ville="Col de Manse" nom="Forest-Saint-Julien" dpt="05"
+		alt="1299" resp="F5HII" decl="squelch" infos="Int&amp;#46; vers F1ZCQ" />
+	<marker indicatif="F5ZNA" locator="JN34CL" lat="44.495800" lng="6.218800"
+		HS="0" type="UHF" categorie="ana" canal="FRU 22" qrg_in="431.5500"
+		qrg_out="433.1500" ville="Gap" nom="Mont Colombis" dpt="05" alt="1743"
+		resp="F5IDA" decl="squelch" infos="Int&amp;#46; VHF" />
+	<marker indicatif="F5ZNB" locator="JN35EB" lat="45.060501" lng="6.364700"
+		HS="0" type="UHF" categorie="ana" canal="RB10" qrg_in="434.8500"
+		qrg_out="433.2500" ville="Brian&#xE7;on" nom="Col du Galibier" dpt="05"
+		alt="2777" resp="F6EIB" decl="squelch" infos="Intercom" />
+	<marker indicatif="F1ZPU" locator="JN33PR" lat="43.727501" lng="7.322700"
+		HS="0" type="UHF" categorie="ana" canal="FRU 11" qrg_in="431.8750"
+		qrg_out="430.2750" ville="Mont Leuze" nom="Plateau de la Justice" dpt="06"
+		alt="517" resp="F1BDB" decl="squelch" />
+	<marker indicatif="F1ZPV" locator="JN33OV" lat="43.908001" lng="7.222200"
+		HS="1" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3750"
+		qrg_out="439.0000" ville="Utelle" nom="Sanctuaire de la Madone" dpt="06"
+		alt="1194" resp="F1BDB" decl="CTCSS" infos="88&amp;#46;5 Hz Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F5ZAX" locator="JN33NV" lat="43.894699" lng="7.152700"
+		HS="0" type="VHF" categorie="ana" canal="R6" qrg_in="145.1500"
+		qrg_out="145.7500" ville="Antibes" nom="Mont Vial" dpt="06" alt="1550"
+		resp="F6FLC" decl="CTCSS" infos="88&amp;#46;5 Hz" />
+	<marker indicatif="F5ZAY" locator="JN33RS" lat="43.770000" lng="7.419400"
+		HS="0" type="VHF" categorie="ana" canal="R3" qrg_in="145.0750"
+		qrg_out="145.6750" ville="Nice" nom="Mont Agel" dpt="06" alt="1025"
+		resp="F1BDB" decl="CTCSS" infos="88&amp;#46;5 Hz" />
+	<marker indicatif="F5ZAZ" locator="JN33KQ" lat="43.692200" lng="6.899900"
+		HS="0" type="UHF" categorie="ana" canal="FRU 3" qrg_in="431.6750"
+		qrg_out="430.0750" ville="Mont Doublier" nom="St-Vallier de Thiey"
+		dpt="06" alt="1245" resp="F1BDB" decl="squelch" />
+	<marker indicatif="F5ZEU" locator="JN33KQ" lat="43.692501" lng="6.896100"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.7000"
+		qrg_out="432.6750" ville="St-Vallier de Thiey" nom="Mont Doublier"
+		dpt="06" alt="1245" resp="F1BDB" decl="CTCSS" infos="88&amp;#46;5 Hz" />
+	<marker indicatif="F5ZIG" locator="JN33NR" lat="43.749298" lng="7.149000"
+		HS="1" type="UHF" categorie="ana" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.3500" ville="Saint-Jeannet" nom="Promenade Ste Petronille"
+		dpt="06" alt="400" resp="F5SFU" decl="CTCSS"
+		infos="88&amp;#46;5 Hz Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F5ZKP" locator="JN33PQ" lat="43.697201" lng="7.254700"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.9625"
+		qrg_out="439.5625" ville="Nice" nom="Avenue des Orangers" dpt="06"
+		alt="30" resp="F6HBI" decl="D-STAR" />
+	<marker indicatif="F5ZSU" locator="JN33RS" lat="43.772598" lng="7.421400"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="432.5250"
+		qrg_out="145.4500" ville="Peille" nom="Mont Agel BA943" dpt="06" alt="1130"
+		resp="F5BHA" decl="cod&#xE9;" infos="ADRASEC 06" />
+	<marker indicatif="F5ZVL" locator="JN33NV" lat="43.882198" lng="7.143200"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="432.5375"
+		qrg_out="145.4500" ville="Tourette du Ch&#xE2;teau" nom="Centre de secours"
+		dpt="06" alt="1500" resp="F5BHA" decl="cod&#xE9;" infos="ADRASEC 06" />
+	<marker indicatif="F5ZVT" locator="JN33KQ" lat="43.692501" lng="6.896100"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="432.5500"
+		qrg_out="145.4500" ville="St-Vallier de Thiey" nom="Mont Doublier"
+		dpt="06" alt="1245" resp="F5BHA" decl="cod&#xE9;" infos="ADRASEC 06" />
+	<marker indicatif="F1ZBA" locator="JN24DQ" lat="44.687199" lng="4.313000"
+		HS="0" type="VHF" categorie="ana" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="Val-les-bains" nom="Montagne Ste Marguerite"
+		dpt="07" alt="985" resp="F6CEG" decl="1750 Hz" />
+	<marker indicatif="F1ZCX" locator="JN24DQ" lat="44.687199" lng="4.313000"
+		HS="0" type="UHF" categorie="ana" canal="FRU 14R" qrg_in="430.3500"
+		qrg_out="431.9500" ville="Val-les-bains" nom="Montagne Ste Marguerite"
+		dpt="07" alt="1000" resp="F1ABQ" decl="1750 Hz" />
+	<marker indicatif="F1ZEM" locator="JN24JX" lat="44.974201" lng="4.801600"
+		HS="0" type="UHF" categorie="num" canal="FRU 22" qrg_in="431.5500"
+		qrg_out="433.1500" ville="St-Romain de Lerps" nom="La Serre de la Chavas"
+		dpt="07" alt="635" resp="F4FAA" decl="D-STAR" />
+	<marker indicatif="F1ZEU" locator="JN24JX" lat="44.974201" lng="4.801600"
+		HS="0" type="UHF" categorie="ana" canal="FRU 20" qrg_in="431.5000"
+		qrg_out="433.1000" ville="St-Romain de Lerps" nom="La Serre de la Chavas"
+		dpt="07" alt="635" resp="F4FAA" decl="squelch" infos="bi-mode C4FM" />
+	<marker indicatif="F1ZEU" locator="JN24JX" lat="44.974201" lng="4.801600"
+		HS="0" type="UHF" categorie="num" canal="FRU 20" qrg_in="431.5000"
+		qrg_out="433.1000" ville="St-Romain de Lerps" nom="La Serre de la Chavas"
+		dpt="07" alt="635" resp="F4FAA" decl="C4FM" infos="bi-mode" />
+	<marker indicatif="F5ZCJ" locator="JN24JX" lat="44.964401" lng="4.800800"
+		HS="0" type="UHF" categorie="ana" canal="FRU 21" qrg_in="431.5250"
+		qrg_out="433.1250" ville="St-Romain de Lerps" nom="La Serre de la Chavas"
+		dpt="07" alt="640" resp="F5LUZ" decl="1750 Hz" />
+	<marker indicatif="F5ZCJ" locator="JN24JX" lat="44.964401" lng="4.800800"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.5250"
+		qrg_out="145.2000" ville="St-Romain de Lerps" nom="La Serre de la Chavas"
+		dpt="07" alt="640" resp="F5LUZ" decl="1750 Hz" />
+	<marker indicatif="F5ZFG" locator="JN24JX" lat="44.959400" lng="4.799100"
+		HS="0" type="SHF" categorie="ana" canal="RM 5" qrg_in="1291.125"
+		qrg_out="1297.125" ville="Valence" nom="La Chavas" dpt="07" alt="640"
+		resp="F5LUZ" decl="1750 Hz" />
+	<marker indicatif="F1ZEK" locator="JN29JW" lat="49.933899" lng="4.766700"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2500"
+		qrg_out="432.5375" ville="Montherme" nom="Site de St-Antoine" dpt="08"
+		alt="457" resp="F4ELD" decl="cod&#xE9;" infos="ADRASEC 08" />
+	<marker indicatif="F5ZCE" locator="JN29HP" lat="49.630001" lng="4.618600"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4500"
+		qrg_out="432.5375" ville="Mazerny" nom="Site de La Bascule" dpt="08"
+		alt="329" resp="F4ELD" decl="cod&#xE9;" infos="ADRASEC 08" />
+	<marker indicatif="F5ZFT" locator="JN29LS" lat="49.758999" lng="4.940800"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.5375" ville="Saint-Menges" nom="Poste des Douanes" dpt="08"
+		alt="338" resp="F4ELD" decl="cod&#xE9;" infos="ADRASEC 08" />
+	<marker indicatif="F1ZCZ" locator="JN02TW" lat="42.920399" lng="1.588400"
+		HS="0" type="VHF" categorie="ana" canal="R7x" qrg_in="145.1875"
+		qrg_out="145.7875" ville="Foix" nom="Prat d&amp;#39;Albis" dpt="09"
+		alt="1205" resp="cach&#xE9;" decl="1750 Hz" infos="ou CTCSS 118&amp;#46;8 Hz" />
+	<marker indicatif="F1ZDB" locator="JN02TW" lat="42.919701" lng="1.589700"
+		HS="0" type="UHF" categorie="ana" canal="FRU 10R" qrg_in="430.2500"
+		qrg_out="431.8500" ville="Foix" nom="Prat d&amp;#39;Albis" dpt="09"
+		alt="1205" resp="F1ACF" decl="1750 Hz" />
+	<marker indicatif="F1ZDB" locator="JN02TW" lat="42.919701" lng="1.589700"
+		HS="0" type="SHF" categorie="ana" canal="RM 10" qrg_in="1291.250"
+		qrg_out="1297.250" ville="Foix" nom="Prat d&amp;#39;Albis" dpt="09"
+		alt="1205" resp="F1ACF" decl="1750 Hz" />
+	<marker indicatif="F1ZEY" locator="JN02TW" lat="42.919701" lng="1.589700"
+		HS="0" type="VHF" categorie="ana" canal="RF85" qrg_in="051.2500"
+		qrg_out="051.8500" ville="Foix" nom="Prat d&amp;#39;Albis" dpt="09"
+		alt="1190" resp="F1ACF" decl="CTCSS" infos="118&amp;#46;8 Hz" />
+	<marker indicatif="F1ZHZ" locator="JN02TW" lat="42.920101" lng="1.589900"
+		HS="0" type="UHF" categorie="num" canal="RU 18H" qrg_in="439.8500"
+		qrg_out="430.4500" ville="Foix" nom="Prat d&amp;#39;Albis" dpt="09"
+		alt="1161" resp="F1BBG" decl="D-STAR" />
+	<marker indicatif="F1ZIP" locator="JN03TC" lat="43.103001" lng="1.647400"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="144.9875"
+		qrg_out="144.9875" ville="La Tour du Crieu" nom="Chemin du Carrerot"
+		dpt="09" alt="310" resp="F1IZL" decl="D-STAR" />
+	<marker indicatif="F1ZJD" locator="JN03TC" lat="43.103001" lng="1.647400"
+		HS="0" type="UHF" categorie="num" canal="RU 15HR" qrg_in="430.3750"
+		qrg_out="439.7750" ville="La Tour du Crieu" nom="Chemin du Carrerot"
+		dpt="09" alt="310" resp="F1IZL" decl="C4FM" />
+	<marker indicatif="F1ZXS" locator="JN02TW" lat="42.920101" lng="1.589900"
+		HS="0" type="UHF" categorie="ana" canal="RU 19HR" qrg_in="430.4750"
+		qrg_out="439.8750" ville="Foix" nom="Prat d&amp;#39;Albis" dpt="09"
+		alt="1200" resp="F1BBG" decl="1750 Hz"
+		infos="Int&amp;#46; &amp;amp;gt;F1ZAY/144&amp;#46;875 MHz" />
+	<marker indicatif="F5ZTO" locator="JN03QD" lat="43.141602" lng="1.397400"
+		HS="0" type="VHF" categorie="ana" canal="R2" qrg_in="145.0500"
+		qrg_out="145.6500" ville="Carla Bayle" nom="Le Carla Bayle" dpt="09"
+		alt="362" resp="F6DEV" decl="1750 Hz" infos="Int&amp;#46; avec F1ZCZ" />
+	<marker indicatif="F5ZTO" locator="JN03QD" lat="43.141602" lng="1.397400"
+		HS="0" type="UHF" categorie="ana" canal="FRU 8R" qrg_in="430.2000"
+		qrg_out="431.8000" ville="Carla Bayle" nom="Le Carla Bayle" dpt="09"
+		alt="362" resp="F6DEV" decl="1750 Hz" />
+	<marker indicatif="F5ZWU" locator="JN02WS" lat="42.755100" lng="1.860100"
+		HS="0" type="UHF" categorie="ana" canal="FRU 8R" qrg_in="430.2000"
+		qrg_out="431.8000" ville="Prades" nom="Refuge du Chioula" dpt="09"
+		alt="1439" resp="F6GZM" decl="squelch" infos="ADRASEC 09" />
+	<marker indicatif="F5ZWU" locator="JN02WS" lat="42.755100" lng="1.860100"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2625"
+		qrg_out="431.8000" ville="Prades" nom="Refuge du Chioula" dpt="09"
+		alt="1439" resp="F6GZM" decl="squelch" infos="ADRASEC 09" />
+	<marker indicatif="F1ZCU" locator="JN18XH" lat="48.298599" lng="3.957700"
+		HS="0" type="UHF" categorie="ana" canal="FRU 19" qrg_in="431.4750"
+		qrg_out="433.0750" ville="Troyes" nom="Montgueux" dpt="10" alt="240"
+		resp="F1GZH" decl="squelch" />
+	<marker indicatif="F1ZCV" locator="JN18XH" lat="48.298599" lng="3.957700"
+		HS="0" type="VHF" categorie="ana" canal="R0x" qrg_in="145.0125"
+		qrg_out="145.6125" ville="Troyes" nom="Montgueux" dpt="10" alt="240"
+		resp="F1GZH" decl="1750 Hz" />
+	<marker indicatif="F1ZAY" locator="JN12IV" lat="42.912701" lng="2.678300"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="144.8750"
+		qrg_out="144.8750" ville="Tuchan" nom="Mont Tauch" dpt="11" alt="890"
+		resp="F1BBG" decl="1750 Hz" infos="Intercom de F1ZXS Foix" />
+	<marker indicatif="F1ZHV" locator="JN13CI" lat="43.369900" lng="2.248300"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2250"
+		qrg_out="432.5500" ville="Fontiers-Cabardes" nom="Tour de guet" dpt="11"
+		alt="640" resp="F4FOH" decl="CTCSS" infos="131&amp;#46;8 Hz ADRASEC 11" />
+	<marker indicatif="F1ZLD" locator="JN12MV" lat="42.882401" lng="3.049400"
+		HS="0" type="UHF" categorie="num" canal="RU 22H" qrg_in="439.9500"
+		qrg_out="430.5500" ville="Leucate" nom="Village Ulysse" dpt="11" alt="30"
+		resp="F1TUV" decl="DMR" />
+	<marker indicatif="F1ZLQ" locator="JN13ME" lat="43.187302" lng="3.019100"
+		HS="0" type="UHF" categorie="num" canal="RU 11HR" qrg_in="430.2750"
+		qrg_out="439.6750" ville="Narbonne" nom="Rue Antoine Fuet" dpt="11"
+		alt="200" resp="F4GKZ" decl="DMR" />
+	<marker indicatif="F5ZJI" locator="JN13FG" lat="43.252499" lng="2.449300"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.5250"
+		qrg_out="432.6750" ville="Malves-en-Minervois" nom="Rue des Parfaits"
+		dpt="11" alt="130" resp="F6DSP" decl="squelch" />
+	<marker indicatif="F5ZVR" locator="JN23HD" lat="43.147598" lng="2.627900"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="144.4750"
+		qrg_out="432.5250" ville="Moux" nom="Tour de guet Mont Alaric" dpt="11"
+		alt="600" resp="F6CPQ" decl="CTCSS" infos="131&amp;#46;8 Hz ADRASEC 11" />
+	<marker indicatif="F5ZXP" locator="JN13NE" lat="43.184200" lng="3.092700"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3250"
+		qrg_out="432.6750" ville="Armissan" nom="La Clape" dpt="11" alt="200"
+		resp="F6DSP" decl="squelch" />
+	<marker indicatif="F5ZZT" locator="JN12CS" lat="42.789700" lng="2.170700"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4500"
+		qrg_out="432.5250" ville="Le Clat" nom="Col del Bosc" dpt="11" alt="1275"
+		resp="F6CPQ" decl="CTCSS" infos="131&amp;#46;8 Hz ADRASEC 11" />
+	<marker indicatif="F5ZBW" locator="JN14ME" lat="44.128601" lng="3.022400"
+		HS="0" type="UHF" categorie="ana" canal="FRU 6" qrg_in="431.7500"
+		qrg_out="430.1500" ville="Millau" nom="Roullens" dpt="12" alt="735"
+		resp="F4FEM" decl="1750 Hz" infos="vers TRP F5ZSV" />
+	<marker indicatif="F5ZGE" locator="JN14GI" lat="44.362598" lng="2.549300"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="433.0750"
+		qrg_out="144.6375" ville="Rodez" nom="Passage de Calcomier" dpt="12"
+		alt="600" resp="F5FPI" decl="squelch" />
+	<marker indicatif="F5ZGF" locator="JN14II" lat="44.333801" lng="2.721300"
+		HS="0" type="UHF" categorie="ana" canal="FRU 12" qrg_in="431.9000"
+		qrg_out="430.3000" ville="Vibal" nom="Le Barry" dpt="12" alt="925"
+		resp="F4BRT" decl="squelch" infos="relais local" />
+	<marker indicatif="F5ZSV" locator="JN13KX" lat="43.982399" lng="2.889900"
+		HS="1" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2125"
+		qrg_out="431.7500" ville="Saint-Afrique" nom="Nougayrolles" dpt="12"
+		alt="695" resp="F5SIZ" decl="DTMF" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F5ZZR" locator="JN14KD" lat="44.149899" lng="2.883300"
+		HS="0" type="VHF" categorie="ana" canal="R4x" qrg_in="145.1125"
+		qrg_out="145.7125" ville="Millau" nom="Bouloc" dpt="12" alt="1100"
+		resp="F1PTO" decl="1750 Hz" />
+	<marker indicatif="F1ZJN" locator="JN23QK" lat="43.418999" lng="5.370500"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Marseille" nom="Bd de Brian&#xE7;on" dpt="13"
+		alt="20" resp="F4AAG" decl="D-STAR" />
+	<marker indicatif="F1ZLW" locator="JN23OK" lat="43.457298" lng="5.233200"
+		HS="0" type="UHF" categorie="num" canal="RU 16XHR" qrg_in="430.4125"
+		qrg_out="439.8125" ville="Vitrolles" nom="All&#xE9;e du Belv&#xE9;d&#xE8;re"
+		dpt="13" alt="20" resp="cach&#xE9;" decl="D-STAR" />
+	<marker indicatif="F5ZAT" locator="JN23RJ" lat="43.383900" lng="5.425700"
+		HS="0" type="UHF" categorie="ana" canal="RU 1HR" qrg_in="430.0250"
+		qrg_out="439.4250" ville="Simiane Collongue" nom="La Grande Etoile"
+		dpt="13" alt="442" resp="F6AST" decl="1750 Hz" />
+	<marker indicatif="F5ZHW" locator="JN23MK" lat="43.454700" lng="5.024300"
+		HS="0" type="UHF" categorie="ana" canal="RU 10XH" qrg_in="439.6625"
+		qrg_out="430.2625" ville="St-Mitres Les Remparts" nom="Local technique Bal trap"
+		dpt="13" alt="120" resp="F6DHI" decl="CTCSS" infos="94&amp;#46;8 Hz" />
+	<marker indicatif="F5ZJQ" locator="JN23SH" lat="43.298801" lng="5.564800"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="144.8375"
+		qrg_out="144.8375" ville="Aubagne" nom="Route d&amp;#39;Eoure" dpt="13"
+		alt="110" resp="F5LKW" decl="D-STAR" />
+	<marker indicatif="F5ZJQ" locator="JN23SH" lat="43.298801" lng="5.564800"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Aubagne" nom="Route d&amp;#39;Eoure" dpt="13"
+		alt="110" resp="F5LKW" decl="D-STAR" />
+	<marker indicatif="F5ZLB" locator="JN23QJ" lat="43.376202" lng="5.336200"
+		HS="0" type="UHF" categorie="num" canal="RU 19HR" qrg_in="430.4750"
+		qrg_out="439.8750" ville="Les Pennes Mirabeau" nom="R&#xE9;servoir SEM D47E"
+		dpt="13" alt="244" resp="F6HTG" decl="D-STAR" />
+	<marker indicatif="F5ZMV" locator="JN23RM" lat="43.530499" lng="5.496300"
+		HS="1" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2000"
+		qrg_out="431.3750" ville="Aix-en-Provence" nom="Chemin de Bibemus"
+		dpt="13" alt="343" resp="F6DHI" decl="squelch" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F5ZOF" locator="JN23SI" lat="43.341900" lng="5.551100"
+		HS="0" type="UHF" categorie="ana" canal="RU 15H" qrg_in="439.7750"
+		qrg_out="430.3750" ville="Roquevaire" nom="Plan de l&amp;#39;Aigle"
+		dpt="13" alt="731" resp="F6BMO" decl="squelch" />
+	<marker indicatif="F5ZOF" locator="JN23SI" lat="43.341900" lng="5.551100"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4000"
+		qrg_out="430.3750" ville="Roquevaire" nom="Plan de l&amp;#39;Aigle"
+		dpt="13" alt="731" resp="F6BMO" decl="squelch" />
+	<marker indicatif="F5ZQH" locator="JN23UH" lat="43.311600" lng="5.689100"
+		HS="0" type="UHF" categorie="ana" canal="RU 9XH" qrg_in="439.6375"
+		qrg_out="430.2375" ville="Aubagne" nom="Pic de Bertagne" dpt="13" alt="1041"
+		resp="F6DHI" decl="1750 Hz" />
+	<marker indicatif="F5ZTH" locator="JN23UH" lat="43.311600" lng="5.689100"
+		HS="0" type="VHF" categorie="ana" canal="R7" qrg_in="145.1750"
+		qrg_out="145.7750" ville="Aubagne" nom="Pic de Bertagne" dpt="13" alt="1041"
+		resp="F6DHI" decl="1750 Hz" />
+	<marker indicatif="F5ZBF" locator="IN99OA" lat="49.006500" lng="-0.761800"
+		HS="0" type="VHF" categorie="ana" canal="R8b" qrg_in="144.7250"
+		qrg_out="145.3250" ville="Caen" nom="La cabosse" dpt="14" alt="360"
+		resp="F5NS" decl="1750 Hz" />
+	<marker indicatif="F5ZWC" locator="IN99OA" lat="49.006901" lng="-0.763600"
+		HS="0" type="UHF" categorie="ana" canal="FRU 1" qrg_in="431.6250"
+		qrg_out="430.0250" ville="Caen" nom="La Cabosse" dpt="14" alt="360"
+		resp="F6BLS" decl="1750 Hz" />
+	<marker indicatif="F1ZFT" locator="JN14GV" lat="44.895500" lng="2.542200"
+		HS="0" type="UHF" categorie="ana" canal="RU 15H" qrg_in="439.7750"
+		qrg_out="430.3750" ville="Carlat" nom="Puy-Basset" dpt="15" alt="750"
+		resp="F1IYY" decl="squelch" />
+	<marker indicatif="F1ZGT" locator="JN14FW" lat="44.941299" lng="2.484000"
+		HS="0" type="UHF" categorie="ana" canal="FRU 21" qrg_in="431.5500"
+		qrg_out="433.1500" ville="Saint-Simon" nom="Route du Croizet" dpt="15"
+		alt="861" resp="F1IZA" decl="squelch" infos="TRP/145&amp;#46;2625 MHz" />
+	<marker indicatif="F5ZDK" locator="JN14GV" lat="44.895500" lng="2.542200"
+		HS="0" type="VHF" categorie="ana" canal="R3" qrg_in="145.0750"
+		qrg_out="145.6750" ville="Carlat" nom="Puy-Basset" dpt="15" alt="750"
+		resp="F6IOJ" decl="1750 Hz" infos="Echolink/144&amp;#46;550 MHz" />
+	<marker indicatif="F1ZGB" locator="IN95VO" lat="45.604000" lng="-0.197100"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="432.5125"
+		qrg_out="144.5125" ville="S&#xE9;gonzac" nom="Le Pible" dpt="16" alt="125"
+		resp="F1MMR" decl="squelch" infos="Lin&#xE9;aire USB" />
+	<marker indicatif="F5ZTB" locator="JN05DR" lat="45.726101" lng="0.260200"
+		HS="0" type="VHF" categorie="ana" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="Angoul&#xEA;me" nom="Commune de Brie" dpt="16"
+		alt="165" resp="F6IHA" decl="1750 Hz" />
+	<marker indicatif="F1ZAG" locator="IN95TM" lat="45.532398" lng="-0.359400"
+		HS="0" type="SHF" categorie="ana" canal="RS 01" qrg_in="1296.025"
+		qrg_out="1298.025" ville="Archiac" nom="Sainte Lheurine" dpt="17" alt="132"
+		resp="F1MMR" decl="1750 Hz" />
+	<marker indicatif="F1ZEW" locator="IN96JD" lat="46.160198" lng="-1.180300"
+		HS="0" type="UHF" categorie="ana" canal="FRU 1" qrg_in="431.6250"
+		qrg_out="430.0250" ville="La Rochelle" nom="Rue de l&amp;#39;Artois"
+		dpt="17" alt="100" resp="F1MMR" decl="1750 Hz" infos="Remplace F5ZSI" />
+	<marker indicatif="F1ZIS" locator="IN96JD" lat="46.165001" lng="-1.141800"
+		HS="1" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="La Rochelle" nom="Rue Jean Jaur&#xE8;s" dpt="17"
+		alt="80" resp="F1UGZ" decl="DMR" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F1ZMB" locator="IN95IW" lat="45.943802" lng="-1.307200"
+		HS="0" type="VHF" categorie="ana" canal="R4x" qrg_in="145.1125"
+		qrg_out="145.7125" ville="Ile d&amp;#39;Ol&#xE9;ron" nom="St-Pierre d&amp;#39;Ol&#xE9;ron"
+		dpt="17" alt="11" resp="F1USA" decl="1750 Hz" infos="ou CTCSS 77 Hz" />
+	<marker indicatif="F1ZMD" locator="IN95QP" lat="45.661098" lng="-0.612400"
+		HS="0" type="VHF" categorie="ana" canal="R6" qrg_in="145.1500"
+		qrg_out="145.7500" ville="Saintes" nom="Berneuil" dpt="17" alt="60"
+		resp="F1MMR" decl="1750 Hz" />
+	<marker indicatif="F1ZME" locator="IN95QP" lat="45.661098" lng="-0.612400"
+		HS="0" type="UHF" categorie="ana" canal="FRU 7R" qrg_in="430.1750"
+		qrg_out="431.7750" ville="Saintes" nom="Berneuil" dpt="17" alt="60"
+		resp="F1MMR" decl="squelch" />
+	<marker indicatif="F1ZZG" locator="IN95TM" lat="45.532398" lng="-0.359400"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2375"
+		qrg_out="433.2500" ville="Archiac" nom="Sainte Lheurine" dpt="17" alt="132"
+		resp="F1MMR" decl="squelch" infos="Sortie d&#xE9;port&#xE9;e" />
+	<marker indicatif="F5ZPJ" locator="IN96JD" lat="46.160198" lng="-1.179900"
+		HS="0" type="VHF" categorie="ana" canal="R0" qrg_in="145.0000"
+		qrg_out="145.6000" ville="La Rochelle" nom="Rue du Stade" dpt="17"
+		alt="60" resp="F1SEN" decl="1750 Hz" infos="Ant 5/8" />
+	<marker indicatif="F5ZJG" locator="IN95RH" lat="45.311600" lng="-0.509900"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3000"
+		qrg_out="433.4500" ville="Courpignac" nom="Impasse d&amp;#39;Air Blanc"
+		dpt="17" alt="102" resp="F5PON" decl="squelch" infos="Echolink" />
+	<marker indicatif="F5ZLD" locator="IN96JD" lat="46.160301" lng="-1.179600"
+		HS="0" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="La Rochelle" nom="Rue de l&amp;#39;Artois"
+		dpt="17" alt="60" resp="F6FOH" decl="DMR" infos="Remplace F1ZIS" />
+	<marker indicatif="F1ZIE" locator="JN17FF" lat="47.238602" lng="2.423800"
+		HS="1" type="UHF" categorie="num" canal="RU 4H" qrg_in="439.5000"
+		qrg_out="430.1000" ville="Saint-Palais" nom="Route de Grangeneuve"
+		dpt="18" alt="160" resp="F1EDG" decl="D-STAR" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F1ZUX" locator="JN17FG" lat="47.264702" lng="2.443400"
+		HS="0" type="VHF" categorie="ana" canal="R4x" qrg_in="145.1125"
+		qrg_out="145.7125" ville="Ach&#xE8;res" nom="Le Buisson de Sales" dpt="18"
+		alt="340" resp="F4FAU" decl="CTCSS" infos="94&amp;#46;8 Hz bi-mode C4FM" />
+	<marker indicatif="F1ZUX" locator="JN17FG" lat="47.264702" lng="2.443400"
+		HS="0" type="VHF" categorie="num" canal="R4x" qrg_in="145.1125"
+		qrg_out="145.7125" ville="Ach&#xE8;res" nom="Le Buisson de Sales" dpt="18"
+		alt="340" resp="F4FAU" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F1ZWB" locator="JN17EB" lat="47.071400" lng="2.404500"
+		HS="0" type="UHF" categorie="ana" canal="FRU 1" qrg_in="431.6250"
+		qrg_out="430.0250" ville="Bourges" nom="Rue de l&amp;#39;abb&#xE9; Moreux"
+		dpt="18" alt="160" resp="F4FAU" decl="squelch" />
+	<marker indicatif="F1ZHX" locator="JN05SD" lat="45.150799" lng="1.526600"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="145.3125"
+		qrg_out="145.3125" ville="Brive la Gaillarde" nom="Avenue Ribot" dpt="19"
+		alt="150" resp="F4BQN" decl="CTCSS" infos="82&amp;#46;5 Hz Echolink" />
+	<marker indicatif="F1ZJO" locator="JN05SC" lat="45.101101" lng="1.549800"
+		HS="0" type="UHF" categorie="num" canal="RU 17HR" qrg_in="430.4250"
+		qrg_out="439.8250" ville="Jugeals-Nazareth" nom="La Brande" dpt="19"
+		alt="300" resp="F1ULK" decl="D-STAR" />
+	<marker indicatif="F1ZJY" locator="JN05SK" lat="45.437500" lng="1.566600"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="145.3125"
+		qrg_out="145.3125" ville="Uzerche" nom="Rue Jean-Paul Sartre" dpt="19"
+		alt="342" resp="F1IGY" decl="squelch" infos="Echolink" />
+	<marker indicatif="F5ZED" locator="JN05SF" lat="45.228100" lng="1.582100"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2625"
+		qrg_out="431.4000" ville="Sainte-F&#xE9;r&#xE9;ole" nom="Ch&#xE2;reau d&amp;#39;eau"
+		dpt="19" alt="454" resp="F6CQU" decl="squelch" infos="ADRASEC 19" />
+	<marker indicatif="F5ZOE" locator="JN05VG" lat="45.259399" lng="1.766300"
+		HS="0" type="UHF" categorie="ana" canal="FRU 19" qrg_in="431.4750"
+		qrg_out="433.0750" ville="Tulle" nom="La Pi&#xE8;ce Haute" dpt="19"
+		alt="340" resp="F5MIW" decl="squelch" infos="Int&amp;#46; VHF/UHF" />
+	<marker indicatif="F5ZRZ" locator="JN05WL" lat="45.484402" lng="1.839700"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4125"
+		qrg_out="431.4000" ville="Veix" nom="Puy de la Mon&#xE9;di&#xE8;res"
+		dpt="19" alt="920" resp="F6CQU" decl="squelch" infos="ADRASEC 19" />
+	<marker indicatif="F5ZVE" locator="JN05VE" lat="45.190800" lng="1.752700"
+		HS="0" type="VHF" categorie="ana" canal="R0x" qrg_in="145.0125"
+		qrg_out="145.6125" ville="Sainte-Fortunade" nom="Les Bussi&#xE8;res"
+		dpt="19" alt="578" resp="F5GLB" decl="1750 Hz" infos="veille 431&amp;#46;275/F5ZUF" />
+	<marker indicatif="F5ZZW" locator="JN05RM" lat="45.533298" lng="1.461700"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4375"
+		qrg_out="431.4000" ville="Benayes" nom="Ch&#xE2;teau d&amp;#39;eau Les Landes"
+		dpt="19" alt="501" resp="F6CQU" decl="squelch" infos="ADRASEC 19" />
+	<marker indicatif="TK1ZAL" locator="JN42JF" lat="42.223999" lng="8.826400"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4125"
+		qrg_out="432.8125" ville="Renno" nom="Col de S&#xE9;vi" dpt="2A" alt="1230"
+		resp="TK1ND" decl="cod&#xE9;" infos="ADRASEC 2A" />
+	<marker indicatif="TK1ZAM" locator="JN41JW" lat="41.920700" lng="8.804400"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.4250" ville="Ajaccio" nom="Campo Delle Oro" dpt="2A" alt="12"
+		resp="TK1ND" decl="cod&#xE9;" infos="ADRASEC 2A" />
+	<marker indicatif="TK1ZAN" locator="JN41JS" lat="41.769199" lng="8.772900"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4125"
+		qrg_out="432.4750" ville="Coti-Chiavari" nom="Coti-Chiavari" dpt="2A"
+		alt="625" resp="TK1ND" decl="cod&#xE9;" infos="ADRASEC 2A" />
+	<marker indicatif="TK5ZCF" locator="JN41KU" lat="41.854000" lng="8.887800"
+		HS="0" type="VHF" categorie="ana" canal="R1x" qrg_in="145.0375"
+		qrg_out="145.6375" ville="Albitreccia" nom="La Punta Cozzanicciu" dpt="2A"
+		alt="780" resp="TK5EP" decl="CTCSS" infos="88&amp;#46;5 Hz" />
+	<marker indicatif="TK5ZCG" locator="JN41JS" lat="41.768101" lng="8.765300"
+		HS="0" type="UHF" categorie="ana" canal="RU 6H" qrg_in="439.5500"
+		qrg_out="430.1500" ville="Coti-Chiavari" nom="Chemin des antennes"
+		dpt="2A" alt="600" resp="TK5EP" decl="CTCSS" infos="88&amp;#46;5 Hz" />
+	<marker indicatif="TK1ZAR" locator="JN42OJ" lat="42.398201" lng="9.190800"
+		HS="0" type="UHF" categorie="ana" canal="RU 6H" qrg_in="439.5500"
+		qrg_out="430.1500" ville="Corte" nom="Monte Ceccu" dpt="2B" alt="758"
+		resp="TK1CX" decl="squelch" />
+	<marker indicatif="TK5ZAO" locator="JN42QQ" lat="42.695202" lng="9.399100"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4125"
+		qrg_out="430.9125" ville="Bastia" nom="Serra di Pigno" dpt="2B" alt="960"
+		resp="TK5AP" decl="cod&#xE9;" infos="ADRASEC 2B" />
+	<marker indicatif="TK5ZAP" locator="JN42QQ" lat="42.695202" lng="9.399100"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.5375" ville="Bastia" nom="Serra di Pigno" dpt="2B" alt="960"
+		resp="TK5AP" decl="cod&#xE9;" infos="ADRASEC 2B" />
+	<marker indicatif="TK5ZPS" locator="JN42QQ" lat="42.695202" lng="9.399100"
+		HS="0" type="VHF" categorie="ana" canal="R5x" qrg_in="145.1375"
+		qrg_out="145.7375" ville="Bastia" nom="Serra di Pigno" dpt="2B" alt="960"
+		resp="TK5AP" decl="1750 Hz" />
+	<marker indicatif="TK1ZAR" locator="JN42OJ" lat="42.398201" lng="9.190800"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="144.8500"
+		qrg_out="144.8500" ville="Corte" nom="Monte Ceccu" dpt="2B" alt="758"
+		resp="TK1CX" decl="D-STAR" />
+	<marker indicatif="TK1ZBG" locator="JN42RH" lat="42.331001" lng="9.488100"
+		HS="0" type="UHF" categorie="num" canal="RU 4XH" qrg_in="439.5125"
+		qrg_out="430.1125" ville="Cervione" nom="Traversa Fran&#xE7;ois Giacobbi"
+		dpt="2B" alt="350" resp="TK1LG" decl="D-STAR" infos="depuis juin 2016" />
+	<marker indicatif="F1ZJP" locator="JN27MA" lat="47.289700" lng="5.008600"
+		HS="0" type="UHF" categorie="num" canal="RU 23XH" qrg_in="439.9875"
+		qrg_out="430.5875" ville="Chenove" nom="Rue de Longvic" dpt="21" alt="280"
+		resp="F4ALM" decl="DMR" infos="Hardware MMDVM" />
+	<marker indicatif="F1ZJP" locator="JN27MA" lat="47.289700" lng="5.008600"
+		HS="0" type="UHF" categorie="num" canal="RU 23XH" qrg_in="439.9875"
+		qrg_out="430.5875" ville="Chenove" nom="Rue de Longvic" dpt="21" alt="280"
+		resp="F4ALM" decl="D-STAR" infos="Hardware MMDVM" />
+	<marker indicatif="F5ZHB" locator="JN27LK" lat="47.455799" lng="4.968300"
+		HS="0" type="UHF" categorie="ana" canal="FRU 10" qrg_in="431.8500"
+		qrg_out="430.2500" ville="Dijon" nom="Saussy" dpt="21" alt="554" resp="F8CUG"
+		decl="squelch" />
+	<marker indicatif="F1ZEE" locator="IN88HL" lat="48.462200" lng="-3.368800"
+		HS="0" type="VHF" categorie="ana" canal="R0" qrg_in="145.0000"
+		qrg_out="145.6000" ville="Plougonvert" nom="Menez Keresperts" dpt="22"
+		alt="320" resp="F1LHC" decl="1750 Hz" infos="bi-mode D-STAR" />
+	<marker indicatif="F1ZEE" locator="IN88HL" lat="48.462200" lng="-3.368800"
+		HS="0" type="UHF" categorie="ana" canal="RU 16HR" qrg_in="430.4000"
+		qrg_out="439.8000" ville="Plougonvert" nom="Menez Keresperts" dpt="22"
+		alt="320" resp="F1LHC" decl="squelch" />
+	<marker indicatif="F1ZEE" locator="IN88HL" lat="48.462200" lng="-3.368800"
+		HS="0" type="VHF" categorie="num" canal="R0" qrg_in="145.0000"
+		qrg_out="145.6000" ville="Plougonvert" nom="Menez Keresperts" dpt="22"
+		alt="320" resp="F1LHC" decl="D-STAR" />
+	<marker indicatif="F5ZIN" locator="IN88GN" lat="48.556801" lng="-3.464700"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="029.1300"
+		qrg_out="430.4000" ville="Plounevez-Moedec" nom="Beg Ar Menez" dpt="22"
+		alt="233" resp="F5NLG" decl="CTCSS" infos="71&amp;#46;9 Hz Echolink" />
+	<marker indicatif="F5ZIN" locator="IN88GN" lat="48.556801" lng="-3.464700"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4000"
+		qrg_out="430.4000" ville="Plounevez-Moedec" nom="Beg Ar Menez" dpt="22"
+		alt="233" resp="F5NLG" decl="CTCSS" infos="71&amp;#46;9 Hz Echolink" />
+	<marker indicatif="F5ZIN" locator="IN88GN" lat="48.556801" lng="-3.464700"
+		HS="0" type="TRP" categorie="ana" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="Plounevez-Moedec" nom="Beg Ar Menez" dpt="22"
+		alt="233" resp="F5NLG" decl="CTCSS" infos="71&amp;#46;9 Hz Echolink" />
+	<marker indicatif="F5ZIN" locator="IN88GN" lat="48.556801" lng="-3.464700"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="029.1300"
+		qrg_out="145.4000" ville="Plounevez-Moedec" nom="Beg Ar Menez" dpt="22"
+		alt="233" resp="F5NLG" decl="CTCSS" infos="71&amp;#46;9 Hz Echolink" />
+	<marker indicatif="F5ZIS" locator="IN88UO" lat="48.607800" lng="-2.276300"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2375"
+		qrg_out="432.6500" ville="Matignon" nom="Le Houet" dpt="22" alt="57"
+		resp="F6HRP" decl="CTCSS" infos="71&amp;#46;9 Hz ADRASEC 22" />
+	<marker indicatif="F5ZIT" locator="IN88GT" lat="48.805698" lng="-3.474600"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2250"
+		qrg_out="432.6500" ville="Perros-Guirec" nom="ZA de kergadic" dpt="22"
+		alt="82" resp="F6HRP" decl="CTCSS" infos="71&amp;#46;9 Hz ADRASEC 22" />
+	<marker indicatif="F5ZIU" locator="IN88LI" lat="48.364399" lng="-3.009700"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4625"
+		qrg_out="432.6500" ville="La Harmoye" nom="Cimes de Kerchouan" dpt="22"
+		alt="318" resp="F6HRP" decl="CTCSS" infos="71&amp;#46;9 Hz ADRASEC 22" />
+	<marker indicatif="F5ZIV" locator="IN88OM" lat="48.515999" lng="-2.798100"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4875"
+		qrg_out="432.6500" ville="Saint-Brieuc" nom="Rue de Guernesey" dpt="22"
+		alt="119" resp="F6HRP" decl="CTCSS" infos="71&amp;#46;9 Hz ADRASEC 22" />
+	<marker indicatif="F5ZJR" locator="IN88RH" lat="48.322300" lng="-2.583300"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2875"
+		qrg_out="432.6500" ville="Plessala" nom="R&#xE9;servoir de Bel Air"
+		dpt="22" alt="335" resp="F6HRP" decl="CTCSS" infos="71&amp;#46;9 Hz ADRASEC 22" />
+	<marker indicatif="F5ZJF" locator="JN06WD" lat="46.155800" lng="1.838000"
+		HS="1" type="VHF" categorie="ana" canal="R5" qrg_in="145.1250"
+		qrg_out="145.7250" ville="Gu&#xE9;ret" nom="Signal du Maupuy" dpt="23"
+		alt="675" resp="F5VMR" decl="1750 Hz" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F5ZQF" locator="JN06WE" lat="46.169899" lng="1.881600"
+		HS="0" type="VHF" categorie="ana" canal="R0" qrg_in="145.0000"
+		qrg_out="145.6000" ville="Gu&#xE9;ret" nom="Rue de Braconne" dpt="23"
+		alt="570" resp="F5HX" decl="1750 Hz" />
+	<marker indicatif="F1ZKP" locator="JN05HE" lat="45.178799" lng="0.656300"
+		HS="0" type="UHF" categorie="num" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.3500" ville="Marsac-sur-l&amp;#39;Isle" nom="Impasse des Mondines"
+		dpt="24" alt="100" resp="F4BQH" decl="D-STAR" />
+	<marker indicatif="F1ZWT" locator="JN05ID" lat="45.155201" lng="0.691100"
+		HS="1" type="VHF" categorie="ana" canal="R2x" qrg_in="145.0625"
+		qrg_out="145.6625" ville="P&#xE9;rigueux" nom="Coulounieix-Chamiers"
+		dpt="24" alt="250" resp="F1OYP" decl="1750 Hz" infos="arr&#xEA;t&#xE9;" />
+	<marker indicatif="F5ZFX" locator="JN04OS" lat="44.791100" lng="1.243300"
+		HS="0" type="VHF" categorie="ana" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="P&#xE9;rigord Noir" nom="Domme-Plaine de Bord"
+		dpt="24" alt="310" resp="F5FS" decl="1750 Hz" infos="et UHF RU 8" />
+	<marker indicatif="F5ZFX" locator="JN04OS" lat="44.791100" lng="1.243300"
+		HS="0" type="UHF" categorie="ana" canal="FRU 8" qrg_in="431.8000"
+		qrg_out="430.2000" ville="P&#xE9;rigord Noir" nom="Domme-Plaine de Bord"
+		dpt="24" alt="310" resp="F5FS" decl="1750 Hz" infos="et VHF R1" />
+	<marker indicatif="F5ZGW" locator="JN04FT" lat="44.801899" lng="0.452700"
+		HS="0" type="UHF" categorie="ana" canal="RU 232" qrg_in="431.3000"
+		qrg_out="432.9000" ville="Bergerac" nom="Monbazillac" dpt="24" alt="145"
+		resp="F8CNC" decl="squelch" infos="Int&amp;#46; avec F1ZWT" />
+	<marker indicatif="F5ZKG" locator="JN04OV" lat="44.878899" lng="1.249200"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="144.8750"
+		qrg_out="144.8750" ville="Sarlat-la-Can&#xE9;da" nom="Ch&#xE2;teau d&amp;#39;eau de Coste Vert"
+		dpt="24" alt="290" resp="F5FS" decl="squelch" infos="ADRASEC 24" />
+	<marker indicatif="F5ZKH" locator="JN04OW" lat="44.925800" lng="1.203000"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="144.6750"
+		qrg_out="144.6750" ville="Sarlat-la-Can&#xE9;da" nom="Pech Planchou"
+		dpt="24" alt="326" resp="F5FS" decl="squelch" infos="ADRASEC 24" />
+	<marker indicatif="F5ZKI" locator="JN05KJ" lat="45.411400" lng="0.908900"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="144.7750"
+		qrg_out="144.7750" ville="Thiviers" nom="Ch&#xE2;teau d&amp;#39;eau du Dognon"
+		dpt="24" alt="303" resp="F5FS" decl="squelch" infos="ADRASEC 24" />
+	<marker indicatif="F5ZKJ" locator="JN04FT" lat="44.796700" lng="0.461700"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="144.5500"
+		qrg_out="144.5500" ville="Monbazillac" nom="La Tour des Vents" dpt="24"
+		alt="198" resp="F5FS" decl="squelch" infos="ADRASEC 24" />
+	<marker indicatif="F5ZKK" locator="JN05HF" lat="45.233898" lng="0.614700"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="144.7250"
+		qrg_out="144.7250" ville="La Chapelle-Gonaguet"
+		nom="Ch&#xE2;teau d&amp;#39;eau du Cimeti&#xE8;re" dpt="24" alt="240"
+		resp="F5FS" decl="squelch" infos="ADRASEC 24" />
+	<marker indicatif="F1ZIF" locator="JN36EV" lat="46.891701" lng="6.391300"
+		HS="0" type="UHF" categorie="num" canal="RU 20HR" qrg_in="430.5000"
+		qrg_out="439.9000" ville="Pontarlier" nom="Site du Larmont" dpt="25"
+		alt="1167" resp="F4EWI" decl="DMR" infos="nouveau site" />
+	<marker indicatif="F5ZCV" locator="JN36EV" lat="46.891701" lng="6.391300"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="144.8500"
+		qrg_out="144.8500" ville="Pontarlier" nom="Site du Larmont" dpt="25"
+		alt="1167" resp="F8FFP" decl="D-STAR" />
+	<marker indicatif="F5ZIQ" locator="JN27XG" lat="47.251701" lng="5.980500"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="432.5500"
+		qrg_out="145.5500" ville="Besan&#xE7;on" nom="Chemin de la clair&#xE8;re"
+		dpt="25" alt="370" resp="F5AOD" decl="squelch" infos="SDIS" />
+	<marker indicatif="F5ZSJ" locator="JN36ES" lat="46.751301" lng="6.353800"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="144.7500"
+		qrg_out="430.2000" ville="M&#xE9;tabief" nom="Le Morond" dpt="25" alt="1400"
+		resp="F5AOD" decl="squelch" />
+	<marker indicatif="F1ZJL" locator="JN24LP" lat="44.627102" lng="4.973500"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.8000"
+		qrg_out="439.4000" ville="Puy-Saint-Martin" nom="Mont&#xE9;e du Teron"
+		dpt="26" alt="220" resp="F4FAA" decl="D-STAR" infos="d&#xE9;clar&#xE9; ANFR/dpt 07" />
+	<marker indicatif="F1ZJL" locator="JN24LP" lat="44.627102" lng="4.973500"
+		HS="1" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.8000"
+		qrg_out="439.4000" ville="Puy-Saint-Martin" nom="Mont&#xE9;e du T&#xE9;ron"
+		dpt="26" alt="230" resp="F4FAA" decl="C4FM" infos="d&#xE9;clar&#xE9; ANFR/dpt 07" />
+	<marker indicatif="F5ZDU" locator="JN24MM" lat="44.501598" lng="5.000200"
+		HS="0" type="UHF" categorie="ana" canal="FRU 7" qrg_in="431.7750"
+		qrg_out="430.1750" ville="Le Poet Laval" nom="Le mont Rachas" dpt="26"
+		alt="900" resp="F5LGJ" decl="1750 Hz" infos="ou CTCSS 94&amp;#46;8 Hz " />
+	<marker indicatif="F5ZOK" locator="JN24IL" lat="44.470200" lng="4.724100"
+		HS="0" type="UHF" categorie="ana" canal="RU 4XH" qrg_in="439.5125"
+		qrg_out="430.1125" ville="Malataverne" nom="Le Navon" dpt="26" alt="340"
+		resp="F5IOG" decl="squelch" />
+	<marker indicatif="F5ZCH" locator="JN24NV" lat="44.886700" lng="5.158000"
+		HS="0" type="UHF" categorie="ana" canal="FRU 23" qrg_in="431.5750"
+		qrg_out="433.1750" ville="Ch&#xE2;teaudouble" nom="Col des Limouches"
+		dpt="26" alt="1086" resp="F5LUZ" decl="squelch" />
+	<marker indicatif="F1ZKA" locator="JN09TD" lat="49.148102" lng="1.643000"
+		HS="0" type="VHF" categorie="ana" canal="R2x" qrg_in="145.0625"
+		qrg_out="145.6625" ville="Bus Saint-Remy" nom="Le Faudy RD645" dpt="27"
+		alt="200" resp="F1IKD" decl="1750 Hz" infos="ex F5ZCR" />
+	<marker indicatif="F5ZBJ" locator="JN09NA" lat="49.009102" lng="1.159700"
+		HS="0" type="UHF" categorie="ana" canal="FRU 6" qrg_in="431.7500"
+		qrg_out="430.1500" ville="Evreux" nom="Tour Aulne" dpt="27" alt="220"
+		resp="cach&#xE9;" decl="1750 Hz" infos="Trs&amp;#46; simplex 145&amp;#46;250 MHz" />
+	<marker indicatif="F1ZII" locator="JN08QR" lat="48.739300" lng="1.352500"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Dreux" nom="Rue Constantin Gauthier " dpt="28"
+		alt="132" resp="F4EGG" decl="D-STAR" />
+	<marker indicatif="F5ZIC" locator="JN28PL" lat="48.498600" lng="1.309700"
+		HS="1" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Mittainvilliers" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="28" alt="222" resp="F6HEQ" decl="D-STAR" infos="Projet" />
+	<marker indicatif="F5ZNX" locator="JN08PL" lat="48.498600" lng="1.309700"
+		HS="0" type="VHF" categorie="ana" canal="R4x" qrg_in="145.1125"
+		qrg_out="145.7125" ville="Mittain Villiers" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="28" alt="222" resp="F6HEQ" decl="CTCSS" infos="88&amp;#46;5 Hz bimode C4FM" />
+	<marker indicatif="F5ZNX" locator="JN08PL" lat="48.498600" lng="1.309700"
+		HS="0" type="VHF" categorie="num" canal="R4x" qrg_in="145.1125"
+		qrg_out="145.7125" ville="Mittain Villiers" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="28" alt="222" resp="F6HEQ" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F5ZSQ" locator="JN08QE" lat="48.174400" lng="1.365200"
+		HS="0" type="UHF" categorie="ana" canal="FRU 11" qrg_in="431.8750"
+		qrg_out="430.2750" ville="Bonneval" nom="La Jouanni&#xE8;re" dpt="28"
+		alt="176" resp="F1JSU" decl="squelch" />
+	<marker indicatif="F1ZGS" locator="IN78SA" lat="48.015800" lng="-4.486200"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2625"
+		qrg_out="431.4250" ville="Plouhinec" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="29" alt="104" resp="F1EVF" decl="CTCSS" infos="71&amp;#46;9 Hz ADRASEC 29" />
+	<marker indicatif="F1ZJT" locator="IN88BD" lat="48.135799" lng="-3.851100"
+		HS="0" type="UHF" categorie="num" canal="RU 4H" qrg_in="439.5000"
+		qrg_out="430.1000" ville="Laz" nom="Goarem Vraz" dpt="29" alt="240"
+		resp="F1NNI" decl="C4FM" infos="multi-mode" />
+	<marker indicatif="F1ZJT" locator="IN88BD" lat="48.135799" lng="-3.851100"
+		HS="0" type="UHF" categorie="num" canal="RU 4H" qrg_in="439.5000"
+		qrg_out="430.1000" ville="Laz" nom="Goarem Vraz" dpt="29" alt="240"
+		resp="F1NNI" decl="DMR" infos="multi-mode" />
+	<marker indicatif="F1ZJT" locator="IN88BD" lat="48.135799" lng="-3.851100"
+		HS="0" type="UHF" categorie="num" canal="RU 4H" qrg_in="439.5000"
+		qrg_out="430.1000" ville="Laz" nom="Goarem Vraz" dpt="29" alt="240"
+		resp="F1NNI" decl="D-STAR" infos="multi-mode" />
+	<marker indicatif="F1ZJT" locator="IN88BD" lat="48.135799" lng="-3.851100"
+		HS="0" type="UHF" categorie="num" canal="RU 4H" qrg_in="439.5000"
+		qrg_out="430.1000" ville="Laz" nom="Goarem Vraz" dpt="29" alt="240"
+		resp="F1NNI" decl="P25" infos="multi-mode" />
+	<marker indicatif="F5ZDF" locator="IN88BD" lat="48.135799" lng="-3.851100"
+		HS="0" type="VHF" categorie="num" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="Laz" nom="Goarem Vraz" dpt="29" alt="240"
+		resp="F4GWG" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F5ZDF" locator="IN88BD" lat="48.135799" lng="-3.851100"
+		HS="0" type="VHF" categorie="ana" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="Laz" nom="Goarem Vraz" dpt="29" alt="240"
+		resp="F4GWG" decl="CTCSS" infos="71&amp;#46;9 Hz bi-mode" />
+	<marker indicatif="F5ZDV" locator="IN88CN" lat="48.569401" lng="-3.829100"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2625"
+		qrg_out="438.7000" ville="Morlaix" nom="Centre hospitalier" dpt="29"
+		alt="80" resp="F5LEB" decl="CTCSS" infos="71&amp;#46;9 Hz ADRASEC 29" />
+	<marker indicatif="F5ZIR" locator="IN78RA" lat="48.004799" lng="-4.563900"
+		HS="1" type="UHF" categorie="num" canal="FRU 9" qrg_in="431.8250"
+		qrg_out="430.2250" ville="Esquibien" nom="Route du s&#xE9;maphore Lervily"
+		dpt="29" alt="50" resp="F6BNM" decl="inconnu" infos="code inconnu" />
+	<marker indicatif="F5ZJK" locator="IN88CE" lat="48.174400" lng="-3.831400"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="144.8250"
+		qrg_out="144.8250" ville="Ch&#xE2;teauneuf du Faou" nom="Treuskoat"
+		dpt="29" alt="102" resp="F8FKD" decl="D-STAR" />
+	<marker indicatif="F5ZJK" locator="IN88CE" lat="48.174400" lng="-3.831400"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Ch&#xE2;teauneuf du Faou" nom="Treuskoat"
+		dpt="29" alt="102" resp="F8FKD" decl="D-STAR" />
+	<marker indicatif="F5ZJX" locator="IN88BN" lat="48.579201" lng="-3.847400"
+		HS="0" type="VHF" categorie="ana" canal="R2" qrg_in="145.0500"
+		qrg_out="145.6500" ville="St-Martin des Champs" nom="Impasse G&amp;#46; Mondaven"
+		dpt="29" alt="170" resp="F5NLG" decl="CTCSS" infos="71&amp;#46;9 Hz" />
+	<marker indicatif="F5ZJX" locator="IN88BN" lat="48.579201" lng="-3.847400"
+		HS="1" type="VHF" categorie="ana" canal="RH2" qrg_in="029.5300"
+		qrg_out="029.6300" ville="St-Martin des Champs" nom="Impasse G&amp;#46; Mondaven"
+		dpt="29" alt="170" resp="F5NLG" decl="CTCSS" infos="71&amp;#46;9 Hz" />
+	<marker indicatif="F5ZJX" locator="IN88BN" lat="48.579201" lng="-3.847400"
+		HS="1" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="029.5300"
+		qrg_out="145.6500" ville="St-Martin des Champs" nom="Impasse G&amp;#46; Mondaven"
+		dpt="29" alt="170" resp="F5NLG" decl="CTCSS" infos="71&amp;#46;9 Hz" />
+	<marker indicatif="F5ZJX" locator="IN88BN" lat="48.579201" lng="-3.847400"
+		HS="1" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.6500"
+		qrg_out="029.6300" ville="St-Martin des Champs" nom="Impasse G&amp;#46; Mondaven"
+		dpt="29" alt="170" resp="F5NLG" decl="CTCSS" infos="71&amp;#46;9 Hz" />
+	<marker indicatif="F5ZZL" locator="IN78WD" lat="48.160702" lng="-4.084000"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4500"
+		qrg_out="431.3750" ville="Cast" nom="Menez Kerque" dpt="29" alt="252"
+		resp="F5JGS" decl="CTCSS" infos="71&amp;#46;9 Hz ADRASEC 29" />
+	<marker indicatif="F1ZBM" locator="JN24AC" lat="44.116100" lng="4.060000"
+		HS="0" type="VHF" categorie="ana" canal="R0" qrg_in="145.0000"
+		qrg_out="145.6000" ville="Al&#xE8;s" nom="Colline ST-Germain" dpt="30"
+		alt="360" resp="F4AYK" decl="1750 Hz" />
+	<marker indicatif="F1ZLM" locator="JN24EF" lat="44.224499" lng="4.353300"
+		HS="0" type="UHF" categorie="num" canal="RU 2H" qrg_in="439.4500"
+		qrg_out="430.0500" ville="Mejannes-le-Cap" nom="Les Majannelles" dpt="30"
+		alt="300" resp="F1MXG" decl="DMR" />
+	<marker indicatif="F1ZOS" locator="JN24AC" lat="44.116100" lng="4.060000"
+		HS="0" type="UHF" categorie="ana" canal="FRU 3" qrg_in="431.6750"
+		qrg_out="430.0750" ville="Al&#xE8;s" nom="Colline St-Germain" dpt="30"
+		alt="360" resp="F1DKP" decl="squelch" />
+	<marker indicatif="F5ZOR" locator="JN23FV" lat="43.881901" lng="4.498500"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2500"
+		qrg_out="431.2500" ville="Bezouce" nom="Impasse des puisatiers" dpt="30"
+		alt="165" resp="F5IHN" decl="squelch" />
+	<marker indicatif="F5ZSZ" locator="JN24BE" lat="44.198299" lng="4.145800"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3000"
+		qrg_out="431.8750" ville="Rousson" nom="Le Plateau" dpt="30" alt="315"
+		resp="F5ONG" decl="squelch" infos="Echolink" />
+	<marker indicatif="F1ZGG" locator="JN03RO" lat="43.615002" lng="1.453600"
+		HS="0" type="VHF" categorie="num" canal="R0x" qrg_in="145.0125"
+		qrg_out="145.6125" ville="Toulouse Matabiau" nom="Gare SNCF" dpt="31"
+		alt="160" resp="F1PVR" decl="D-STAR" />
+	<marker indicatif="F1ZGG" locator="JN03RO" lat="43.615002" lng="1.453600"
+		HS="0" type="UHF" categorie="num" canal="RU 20H" qrg_in="439.9000"
+		qrg_out="430.5000" ville="Toulouse Matabiau" nom="Gare SNCF" dpt="31"
+		alt="160" resp="F1PVR" decl="D-STAR" />
+	<marker indicatif="F1ZIM" locator="JN03OK" lat="43.425098" lng="1.203000"
+		HS="0" type="UHF" categorie="num" canal="RU 10XHR" qrg_in="430.2625"
+		qrg_out="439.6625" ville="Lherm" nom="Route de Rieumes" dpt="31" alt="200"
+		resp="F4GRL" decl="C4FM" />
+	<marker indicatif="F1ZKO" locator="JN03OL" lat="43.467098" lng="1.244800"
+		HS="0" type="UHF" categorie="num" canal="RU 20HR" qrg_in="430.5000"
+		qrg_out="439.9000" ville="Labastidette" nom="Route St-Clar" dpt="31"
+		alt="200" resp="F1PVR" decl="D-STAR" />
+	<marker indicatif="F1ZLS" locator="JN03TC" lat="43.109402" lng="1.648800"
+		HS="0" type="UHF" categorie="num" canal="RU 10XHR" qrg_in="430.2625"
+		qrg_out="439.6625" ville="La Tour du Crieu" nom="R&#xE9;sidence St-Michel"
+		dpt="31" alt="233" resp="F4GRL" decl="DMR" infos="Site r&#xE9;el" />
+	<marker indicatif="F5ZJP" locator="JN03OH" lat="43.302299" lng="1.221600"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="145.0375"
+		qrg_out="145.0375" ville="Carbonne" nom="Route de l&amp;#39;Arise"
+		dpt="31" alt="200" resp="F5BYL" decl="DMR" infos="En test" />
+	<marker indicatif="F5ZKL" locator="JN03QQ" lat="43.684399" lng="1.413700"
+		HS="0" type="UHF" categorie="num" canal="RU 16HR" qrg_in="430.4000"
+		qrg_out="439.8000" ville="Saint-Alban" nom="Rue Deodat de Severac"
+		dpt="31" alt="130" resp="F5UFI" decl="D-STAR" />
+	<marker indicatif="F5ZLG" locator="JN03RN" lat="43.581600" lng="1.499600"
+		HS="0" type="UHF" categorie="num" canal="RU 21HR" qrg_in="430.5250"
+		qrg_out="439.9250" ville="Toulouse" nom="Rue Brindejonc" dpt="31" alt="200"
+		resp="F5LSR" decl="D-STAR" />
+	<marker indicatif="F5ZRA" locator="JN03KV" lat="43.908298" lng="0.840500"
+		HS="0" type="VHF" categorie="ana" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="Mauroux" nom="St-Martin de las Oumettes"
+		dpt="32" alt="253" resp="F4BPJ" decl="1750 Hz" />
+	<marker indicatif="F1ZCW" locator="IN94UR" lat="44.710800" lng="-0.298800"
+		HS="0" type="VHF" categorie="ana" canal="R5" qrg_in="145.1250"
+		qrg_out="145.7250" ville="Capian" nom="Lieu-dit Bertrand" dpt="33"
+		alt="120" resp="F5OZF" decl="1750 Hz" />
+	<marker indicatif="F1ZIG" locator="IN94QR" lat="44.736099" lng="-0.658300"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3375"
+		qrg_out="432.6500" ville="Cestas" nom="Ch&#xE2;teau de Choisy" dpt="33"
+		alt="20" resp="F4HLV" decl="CTCSS" infos="82&amp;#46;5 Hz Echolink" />
+	<marker indicatif="F1ZIG" locator="IN94QR" lat="44.736099" lng="-0.658300"
+		HS="0" type="TRP" categorie="num" canal="sans r&#xE9;f" qrg_in="432.6500"
+		qrg_out="145.3375" ville="Cestas" nom="Ch&#xE2;teau de Choisy" dpt="33"
+		alt="50" resp="F4HLV" decl="C4FM" infos="bi-mode et Echolink" />
+	<marker indicatif="F1ZLF" locator="IN94QV" lat="44.881199" lng="-0.647300"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="430.8000"
+		qrg_out="438.4000" ville="Eysines" nom="Rue Paul Dumont" dpt="33" alt="87"
+		resp="F4HLV" decl="C4FM" infos="multi-mode" />
+	<marker indicatif="F1ZLF" locator="IN94QV" lat="44.881199" lng="-0.647300"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="430.8000"
+		qrg_out="438.4000" ville="Eysines" nom="Rue Paul Dumont" dpt="33" alt="87"
+		resp="F4HLV" decl="DMR" infos="multi-mode" />
+	<marker indicatif="F1ZLF" locator="IN94QV" lat="44.881199" lng="-0.647300"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="430.8000"
+		qrg_out="438.4000" ville="Eysines" nom="Rue Paul Dumont" dpt="33" alt="87"
+		resp="F4HLV" decl="D-STAR" infos="multi-mode" />
+	<marker indicatif="F5ZAQ" locator="IN94UR" lat="44.710800" lng="-0.298800"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="434.9750"
+		qrg_out="433.3750" ville="Capian" nom="Lieu-dit Bertrand" dpt="33"
+		alt="120" resp="F5OZF" decl="1750 Hz" />
+	<marker indicatif="F5ZCT" locator="IN95WB" lat="45.069000" lng="-0.141800"
+		HS="0" type="SHF" categorie="ana" canal="RM 3" qrg_in="1291.075"
+		qrg_out="1297.075" ville="Lagorce" nom="15 Vignon" dpt="33" alt="20"
+		resp="F8ARR" decl="squelch" />
+	<marker indicatif="F5ZFW" locator="IN94KO" lat="44.621799" lng="-1.149100"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2250"
+		qrg_out="433.5250" ville="Arcachon" nom="La Teste de Buch" dpt="33"
+		alt="30" resp="F8IHE" decl="squelch" />
+	<marker indicatif="F5ZJY" locator="IN94OP" lat="44.657902" lng="-0.807500"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.5500" ville="Le Barp" nom="CEA Cestas" dpt="33" alt="110"
+		resp="F6DHU" decl="squelch" infos="ADRASEC 33" />
+	<marker indicatif="F5ZJZ" locator="IN95OB" lat="45.075100" lng="-0.822800"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.5250" ville="Listrac-M&#xE9;doc" nom="Tour de guet" dpt="33"
+		alt="85" resp="F6DHU" decl="squelch" infos="ADRASEC 33" />
+	<marker indicatif="F5ZKA" locator="IN94QU" lat="44.837200" lng="-0.586500"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.4750" ville="Bordeaux" nom="Pr&#xE9;fecture" dpt="33"
+		alt="45" resp="F6DHU" decl="squelch" infos="ADRASEC 33" />
+	<marker indicatif="F5ZKB" locator="IN94QT" lat="44.799801" lng="-0.613600"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.5000" ville="Pessac" nom="Ch&#xE2;teau d&amp;#39;eau SIGDU"
+		dpt="33" alt="87" resp="F6DHU" decl="squelch" infos="ADRASEC 33" />
+	<marker indicatif="F5ZKZ" locator="IN94RT" lat="44.812500" lng="-0.541500"
+		HS="0" type="UHF" categorie="num" canal="RU 19HR" qrg_in="430.4750"
+		qrg_out="439.8750" ville="Talence" nom="Rue Victor Hugo" dpt="33" alt="25"
+		resp="cach&#xE9;" decl="D-STAR" />
+	<marker indicatif="F1ZGU" locator="JN13TK" lat="43.450802" lng="3.614400"
+		HS="0" type="VHF" categorie="ana" canal="R3x" qrg_in="145.0875"
+		qrg_out="145.6875" ville="S&#xE8;te" nom="Loupian" dpt="34" alt="127"
+		resp="F6IQA" decl="squelch" />
+	<marker indicatif="F1ZSF" locator="JN13TU" lat="43.871601" lng="3.643300"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="144.7500"
+		qrg_out="430.9750" ville="St-Andr&#xE9;-de-Bu&#xE8;gues" nom="Le Roc Blanc"
+		dpt="34" alt="942" resp="F4DVR" decl="squelch" />
+	<marker indicatif="F5ZDX" locator="JN13TU" lat="43.871601" lng="3.643300"
+		HS="0" type="UHF" categorie="ana" canal="FRU 5" qrg_in="431.7250"
+		qrg_out="430.1250" ville="St-Andr&#xE9;-de-Bu&#xE8;gues" nom="Le Roc Blanc"
+		dpt="34" alt="942" resp="F5PRO" decl="squelch" />
+	<marker indicatif="F5ZGH" locator="JN13TU" lat="43.871601" lng="3.643300"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2125"
+		qrg_out="433.4750" ville="St-Andr&#xE9;-de-Bu&#xE8;gues" nom="Le Roc Blanc"
+		dpt="34" alt="942" resp="F5LMB" decl="squelch" />
+	<marker indicatif="F5ZIB" locator="JN13TU" lat="43.871601" lng="3.643300"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.6875"
+		qrg_out="433.4500" ville="St-Andr&#xE9;-de-Bu&#xE8;gues" nom="Le Roc Blanc"
+		dpt="34" alt="942" resp="F5PRO" decl="squelch" />
+	<marker indicatif="F5ZWK" locator="JN13WP" lat="43.648300" lng="3.914900"
+		HS="0" type="UHF" categorie="ana" canal="RU 13H" qrg_in="439.7250"
+		qrg_out="430.3250" ville="Castelnau-le-Lez" nom="Palais des Sports"
+		dpt="34" alt="87" resp="F5LMB" decl="squelch" infos="voie 145&amp;#46;3875 MHz" />
+	<marker indicatif="F1ZBX" locator="IN88VA" lat="48.011600" lng="-2.239300"
+		HS="0" type="VHF" categorie="ana" canal="R3" qrg_in="145.0750"
+		qrg_out="145.6750" ville="Paimpont" nom="For&#xEA;t de Broc&#xE9;liande"
+		dpt="35" alt="262" resp="F1DKN" decl="1750 Hz" />
+	<marker indicatif="F1ZHH" locator="IN88XO" lat="48.618801" lng="-2.043000"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="145.3125"
+		qrg_out="145.3125" ville="Dinard" nom="Les Cognets" dpt="35" alt="30"
+		resp="F1TZO" decl="1750 Hz" infos="Echolink" />
+	<marker indicatif="F1ZHH" locator="IN88XO" lat="48.618801" lng="-2.043000"
+		HS="0" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="Dinard" nom="Les Cognets" dpt="35" alt="30"
+		resp="F1TZO" decl="C4FM" />
+	<marker indicatif="F1ZHH" locator="IN88XO" lat="48.618801" lng="-2.043000"
+		HS="0" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="Dinard" nom="Les Cognets" dpt="35" alt="30"
+		resp="F1TZO" decl="DMR" infos="en test" />
+	<marker indicatif="F1ZHH" locator="IN88XO" lat="48.618801" lng="-2.043000"
+		HS="0" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="Dinard" nom="Les Cognets" dpt="35" alt="30"
+		resp="F1TZO" decl="D-STAR" />
+	<marker indicatif="F5ZEB" locator="IN98EC" lat="48.109600" lng="-1.635800"
+		HS="0" type="UHF" categorie="ana" canal="RU 71" qrg_in="431.0750"
+		qrg_out="438.6750" ville="Rennes" nom="Campus de Beaulieu" dpt="35"
+		alt="36" resp="cach&#xE9;" decl="1750 Hz" infos="Trp&amp;#46; vers R3/F1ZBX" />
+	<marker indicatif="F5ZZH" locator="IN98EC" lat="48.109600" lng="-1.635800"
+		HS="0" type="VHF" categorie="ana" canal="R6x" qrg_in="145.1625"
+		qrg_out="145.7625" ville="Rennes" nom="Campus de Beaulieu" dpt="35"
+		alt="40" resp="cach&#xE9;" decl="1750 Hz" infos="TRP vers FRU3" />
+	<marker indicatif="F5ZBY" locator="IN98DC" lat="48.120998" lng="-1.713200"
+		HS="0" type="UHF" categorie="ana" canal="FRU 3" qrg_in="431.6750"
+		qrg_out="430.0750" ville="Rennes" nom="Villejean" dpt="35" alt="106"
+		resp="F5BEZ" decl="1750 Hz" />
+	<marker indicatif="F5ZDE" locator="JN06VK" lat="46.432999" lng="1.824400"
+		HS="0" type="VHF" categorie="ana" canal="R1x" qrg_in="145.0375"
+		qrg_out="145.6375" ville="Ch&#xE2;teauroux"
+		nom="Ch&#xE2;teau d&amp;#39;eau d&amp;#39;Aigurande" dpt="36" alt="470"
+		resp="F1ABR" decl="1750 Hz" />
+	<marker indicatif="F5ZXW" locator="JN06SN" lat="46.546600" lng="1.505200"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2875"
+		qrg_out="431.0875" ville="Celon" nom="Pyl&#xF4;ne radio DDE 36" dpt="36"
+		alt="220" resp="F5EWV" decl="CTCSS" infos="136&amp;#46;5 Hz" />
+	<marker indicatif="F1ZBW" locator="JN07II" lat="47.356098" lng="0.697600"
+		HS="0" type="UHF" categorie="ana" canal="RU 22HR" qrg_in="430.5500"
+		qrg_out="439.9500" ville="Jou&#xE9;-l&#xE8;s-Tours" nom="All&#xE9;e de l&amp;#39;Etoile"
+		dpt="37" alt="72" resp="F1GXY" decl="squelch" infos="TRP 145&amp;#46;525 par DTMF" />
+	<marker indicatif="F5ZLP" locator="JN07EJ" lat="47.376499" lng="0.405400"
+		HS="0" type="VHF" categorie="ana" canal="R5x" qrg_in="145.1375"
+		qrg_out="145.7375" ville="Mazi&#xE8;res-de-Touraine" nom="La Grande Lande"
+		dpt="37" alt="130" resp="F6CJP" decl="1750 Hz" />
+	<marker indicatif="F5ZPF" locator="JN07IK" lat="47.424000" lng="0.696100"
+		HS="1" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4625"
+		qrg_out="439.4500" ville="Tours"
+		nom="Ch&#xE2;teau d&amp;#39;eau av&amp;#46; de l&amp;#39;Europe" dpt="37"
+		alt="140" resp="F6CGD" decl="cod&#xE9;" infos="ADRASEC 37" />
+	<marker indicatif="F5ZUZ" locator="JN07GD" lat="47.142899" lng="0.555000"
+		HS="0" type="UHF" categorie="ana" canal="RU 13XH" qrg_in="439.7375"
+		qrg_out="430.3375" ville="Saint-Epain" nom="Relais radio" dpt="37"
+		alt="90" resp="F6CJP" decl="1750 Hz" infos="TRP 145&amp;#46;525 par DTMF" />
+	<marker indicatif="F1ZHJ" locator="JN07IJ" lat="47.381599" lng="0.692100"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Tours" nom="Grammont" dpt="37" alt="100"
+		resp="F1GXY" decl="D-STAR" />
+	<marker indicatif="F1ZCD" locator="JN35AJ" lat="45.397099" lng="6.077300"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="144.8500"
+		qrg_out="144.8500" ville="Allevard" nom="Chemin de la Touvi&#xE8;re"
+		dpt="38" alt="475" resp="F1SMF" decl="D-STAR" />
+	<marker indicatif="F1ZCQ" locator="JN25UD" lat="45.144402" lng="5.700200"
+		HS="0" type="VHF" categorie="ana" canal="R2" qrg_in="145.0500"
+		qrg_out="145.6500" ville="Echirolles" nom="Rue de l&amp;#39;Ecureuil"
+		dpt="38" alt="218" resp="F5SFU" decl="squelch" infos="Int&amp;#46; UHF avec F5ZHT" />
+	<marker indicatif="F1ZCR" locator="JN25WD" lat="45.126301" lng="5.878800"
+		HS="0" type="UHF" categorie="ana" canal="FRU 13R" qrg_in="430.3250"
+		qrg_out="431.9250" ville="Chamrousse" nom="Le Recoin" dpt="38" alt="1736"
+		resp="F5SFU" decl="squelch" infos="Intercom VHF" />
+	<marker indicatif="F1ZDC" locator="JN25UD" lat="45.144402" lng="5.700200"
+		HS="0" type="UHF" categorie="ana" canal="FRU 17" qrg_in="431.4250"
+		qrg_out="433.0250" ville="Echirolles" nom="Rue de l&amp;#39;Ecureuil"
+		dpt="38" alt="218" resp="F5SFU" decl="squelch" />
+	<marker indicatif="F1ZFX" locator="JN25TD" lat="45.147701" lng="5.639400"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.4000" ville="Saint-Nizier" nom="Sommet du Moucherotte"
+		dpt="38" alt="1900" resp="F4AEU" decl="squelch" infos="ADRASEC 38" />
+	<marker indicatif="F1ZIC" locator="JN25WA" lat="45.002998" lng="5.833800"
+		HS="0" type="UHF" categorie="num" canal="RU 1XH" qrg_in="439.4375"
+		qrg_out="430.0375" ville="Villard-St-Christophe" nom="Combe Belle"
+		dpt="38" alt="2120" resp="F4AII" decl="DMR" infos="Hardware RD625" />
+	<marker indicatif="F1ZJI" locator="JN25WA" lat="45.002998" lng="5.833800"
+		HS="0" type="UHF" categorie="num" canal="RU 2XH" qrg_in="439.4625"
+		qrg_out="430.0625" ville="Villard-St-Christophe" nom="Combe Belle"
+		dpt="38" alt="2120" resp="F4AII" decl="DMR" />
+	<marker indicatif="F1ZJJ" locator="JN25TI" lat="45.347599" lng="5.591700"
+		HS="0" type="UHF" categorie="num" canal="RU 3XH" qrg_in="439.4875"
+		qrg_out="430.0875" ville="St-Jean de Moirans" nom="Rue de la Manche"
+		dpt="38" alt="304" resp="F5TSQ" decl="DMR" infos="nouveau site" />
+	<marker indicatif="F1ZJQ" locator="JN25WI" lat="45.338799" lng="5.903300"
+		HS="0" type="UHF" categorie="num" canal="RU 22XH" qrg_in="439.9625"
+		qrg_out="430.5625" ville="Saint-Bernard" nom="Route du col de Marcieu"
+		dpt="38" alt="1065" resp="F4CZX" decl="DMR" />
+	<marker indicatif="F5ZKE" locator="JN25OL" lat="45.498798" lng="5.231000"
+		HS="0" type="UHF" categorie="num" canal="RU 18HR" qrg_in="430.4500"
+		qrg_out="439.8500" ville="Ste-Anne du Gervonde" nom="Route du Muraillon"
+		dpt="38" alt="510" resp="F5ANP" decl="D-STAR" />
+	<marker indicatif="F1ZCA" locator="JN26WX" lat="46.972198" lng="5.886500"
+		HS="0" type="UHF" categorie="ana" canal="FRU 12" qrg_in="431.9000"
+		qrg_out="430.3000" ville="Salins" nom="Mont Poupet" dpt="39" alt="850"
+		resp="F5AOD" decl="1750 Hz" />
+	<marker indicatif="F1ZIK" locator="JN26TO" lat="46.609402" lng="5.591000"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4000"
+		qrg_out="432.5250" ville="Saint-Maur" nom="Route de la Rochette" dpt="39"
+		alt="600" resp="F4SCI" decl="cod&#xE9;" infos="ADRASEC 39" />
+	<marker indicatif="F1ZJR" locator="JN26UK" lat="46.436298" lng="5.723300"
+		HS="0" type="UHF" categorie="num" canal="RU 18H" qrg_in="439.8500"
+		qrg_out="430.4500" ville="Moirans-en-Montagne" nom="Rue du Coll&#xE8;ge"
+		dpt="39" alt="367" resp="F4ALM" decl="D-STAR" />
+	<marker indicatif="F1ZKS" locator="JN26UK" lat="46.436298" lng="5.723300"
+		HS="0" type="VHF" categorie="ana" canal="R4" qrg_in="145.1000"
+		qrg_out="145.7000" ville="Moirans-en-Montagne" nom="Rue du Coll&#xE8;ge"
+		dpt="39" alt="367" resp="F4ALM" decl="1750 Hz" />
+	<marker indicatif="F5ZBP" locator="JN26WX" lat="46.972198" lng="5.886500"
+		HS="0" type="VHF" categorie="ana" canal="R7" qrg_in="145.1750"
+		qrg_out="145.7750" ville="Salins" nom="Mont Poupet" dpt="39" alt="850"
+		resp="F5SN" decl="1750 Hz" infos="bi-mode C4FM" />
+	<marker indicatif="F5ZBP" locator="JN26WX" lat="46.972198" lng="5.886600"
+		HS="0" type="VHF" categorie="num" canal="R7" qrg_in="145.1750"
+		qrg_out="145.7750" ville="Salins" nom="Mont Poupet" dpt="39" alt="850"
+		resp="F5SN" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F5ZBP" locator="JN26WX" lat="46.972198" lng="5.886500"
+		HS="0" type="UHF" categorie="num" canal="RU 23H" qrg_in="439.9750"
+		qrg_out="430.5750" ville="Salins" nom="Mont Poupet" dpt="39" alt="850"
+		resp="F5SN" decl="C4FM" infos="multi-mode" />
+	<marker indicatif="F5ZBP" locator="JN26WX" lat="46.972198" lng="5.886500"
+		HS="0" type="UHF" categorie="num" canal="RU 23H" qrg_in="439.9750"
+		qrg_out="430.5750" ville="Salins" nom="Mont Poupet" dpt="39" alt="850"
+		resp="F5SN" decl="DMR" infos="multi-mode" />
+	<marker indicatif="F1ZIO" locator="IN94MA" lat="44.030800" lng="-0.919500"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.5750" ville="Morcenx" nom="Impasse Marcel paul" dpt="40"
+		alt="83" resp="F1NUB" decl="cod&#xE9;" infos="ADRASEC 40" />
+	<marker indicatif="F5ZJM" locator="IN93SV" lat="43.893398" lng="-0.499900"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2125"
+		qrg_out="432.5750" ville="Mont de Marsan" nom="Pr&#xE9;fecture" dpt="40"
+		alt="60" resp="F6HRF" decl="cod&#xE9;" infos="ADRASEC 40" />
+	<marker indicatif="F5ZJN" locator="IN93LP" lat="43.644100" lng="-1.045600"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2500"
+		qrg_out="432.5750" ville="Benesse-les-Dax" nom="Chemin du Moulin" dpt="40"
+		alt="98" resp="F5DV" decl="cod&#xE9;" infos="ADRASEC 40" />
+	<marker indicatif="F5ZJO" locator="IN94NF" lat="44.213001" lng="-0.916100"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4875"
+		qrg_out="432.5750" ville="Labouheyre" nom="Rue de Solferino" dpt="40"
+		alt="124" resp="F5GPR" decl="cod&#xE9;" infos="ADRASEC 40" />
+	<marker indicatif="F5ZUL" locator="IN93GO" lat="43.595798" lng="-1.427000"
+		HS="0" type="VHF" categorie="ana" canal="R7" qrg_in="145.1750"
+		qrg_out="145.7750" ville="Labenne" nom="Grange Barb&#xE9;" dpt="40"
+		alt="30" resp="F4DPT" decl="1750 Hz" />
+	<marker indicatif="F1ZIE" locator="JN17FF" lat="47.238602" lng="2.423800"
+		HS="0" type="UHF" categorie="num" canal="RU 4H" qrg_in="439.5000"
+		qrg_out="430.1000" ville="Villefranche/Cher" nom="Rue de la croix David"
+		dpt="41" alt="209" resp="F4BEV" decl="DMR" />
+	<marker indicatif="F5ZQY" locator="JN07QO" lat="47.588299" lng="1.374700"
+		HS="0" type="VHF" categorie="ana" canal="R6" qrg_in="145.1500"
+		qrg_out="145.7500" ville="Vineuil" nom="Rue des &#xE9;coles" dpt="41"
+		alt="92" resp="F1CXI" decl="1750 Hz" />
+	<marker indicatif="F1ZAD" locator="JN25AK" lat="45.430500" lng="4.064700"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.5375" ville="St-Bonnet le Ch&#xE2;teau" nom="Centre de secours"
+		dpt="42" alt="875" resp="F4DYE" decl="squelch" infos="ADRASEC 42" />
+	<marker indicatif="F1ZCK" locator="JN25EJ" lat="45.395599" lng="4.399500"
+		HS="0" type="UHF" categorie="num" canal="RU 9XH" qrg_in="439.6375"
+		qrg_out="430.2375" ville="Planfoy" nom="Croix du Guizay" dpt="42" alt="900"
+		resp="F4EED" decl="DMR" infos="D-STAR et FM" />
+	<marker indicatif="F1ZCK" locator="JN25EJ" lat="45.395599" lng="4.399500"
+		HS="0" type="UHF" categorie="num" canal="RU 9XH" qrg_in="439.6375"
+		qrg_out="430.2375" ville="Planfoy" nom="Croix du Guizay" dpt="42" alt="900"
+		resp="F4EED" decl="D-STAR" infos="DMR et FM" />
+	<marker indicatif="F1ZEV" locator="JN25EJ" lat="45.394901" lng="4.401300"
+		HS="0" type="VHF" categorie="ana" canal="RF95" qrg_in="051.3500"
+		qrg_out="051.9500" ville="Saint-Etienne" nom="Le Guizay" dpt="42" alt="870"
+		resp="F4ASS" decl="CTCSS" infos="91&amp;#46;5 Hz" />
+	<marker indicatif="F1ZID" locator="JN25HI" lat="45.346699" lng="4.646700"
+		HS="0" type="UHF" categorie="num" canal="RU 8H" qrg_in="439.6000"
+		qrg_out="430.2000" ville="Saint-Appolinard" nom="M&#xE9;rignaux" dpt="42"
+		alt="500" resp="F4ASS" decl="D-STAR" />
+	<marker indicatif="F5ZBR" locator="JN25EK" lat="45.429901" lng="4.365500"
+		HS="0" type="VHF" categorie="ana" canal="R0x" qrg_in="145.0125"
+		qrg_out="145.6125" ville="Saint-Etienne" nom="Sainte-Agathe" dpt="42"
+		alt="695" resp="F5LTP" decl="1750 Hz" />
+	<marker indicatif="F5ZBR" locator="JN25EK" lat="45.429901" lng="4.365500"
+		HS="1" type="UHF" categorie="num" canal="FRU 3" qrg_in="431.6750"
+		qrg_out="430.0750" ville="Saint-Etienne" nom="Sainte-Agathe" dpt="42"
+		alt="695" resp="F5LTP" decl="D-STAR" infos="arr&#xEA;t&#xE9;" />
+	<marker indicatif="F1ZFD" locator="JN15TC" lat="45.125500" lng="3.666300"
+		HS="0" type="VHF" categorie="ana" canal="R2x" qrg_in="145.0625"
+		qrg_out="145.6625" ville="Fix-Saint-Geneys" nom="Lieu-dit La Roche"
+		dpt="43" alt="1152" resp="F1HAW" decl="1750 Hz" />
+	<marker indicatif="F1ZKR" locator="JN25AA" lat="45.000000" lng="4.000000"
+		HS="0" type="UHF" categorie="num" canal="RU 11H" qrg_in="439.6750"
+		qrg_out="430.2750" ville="St-Julien Chapteuil" nom="Route de la gare"
+		dpt="43" alt="840" resp="F4GVA" decl="DMR" infos="et D-STAR" />
+	<marker indicatif="F1ZKR" locator="JN25AA" lat="45.000000" lng="4.000000"
+		HS="0" type="UHF" categorie="num" canal="RU 11H" qrg_in="439.6750"
+		qrg_out="430.2750" ville="St-Julien Chapteuil" nom="Route de la gare"
+		dpt="43" alt="840" resp="F4GVA" decl="D-STAR" infos="et DMR" />
+	<marker indicatif="F1ZKV" locator="JN15TC" lat="45.125500" lng="3.666300"
+		HS="0" type="UHF" categorie="num" canal="RU 8H" qrg_in="439.6000"
+		qrg_out="430.2000" ville="Fix-Saint-Geneys" nom="Lieu-dit La Roche"
+		dpt="43" alt="1152" resp="F1HAW" decl="D-STAR" />
+	<marker indicatif="F1ZTL" locator="JN24BW" lat="44.917400" lng="4.153300"
+		HS="0" type="VHF" categorie="ana" canal="R5x" qrg_in="145.1375"
+		qrg_out="145.7375" ville="Mont d&amp;#39;Alambre" nom="Les Estables"
+		dpt="43" alt="1691" resp="F1HAW" decl="1750 Hz" />
+	<marker indicatif="F1ZBJ" locator="IN87XJ" lat="47.397301" lng="-2.004800"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="430.2250"
+		qrg_out="144.5875" ville="Prinquiau" nom="Bellevue" dpt="44" alt="85"
+		resp="F4BJW" decl="squelch" infos="Lin&#xE9;aire USB" />
+	<marker indicatif="F5ZEM" locator="IN97FF" lat="47.241100" lng="-1.541100"
+		HS="0" type="UHF" categorie="ana" canal="RU 2H" qrg_in="439.4500"
+		qrg_out="430.0500" ville="Nantes" nom="Port-Boyer" dpt="44" alt="85"
+		resp="F5BCB" decl="1750 Hz" />
+	<marker indicatif="F5ZJH" locator="IN97FG" lat="47.252800" lng="-1.574500"
+		HS="0" type="UHF" categorie="ana" canal="RU 17H" qrg_in="439.8250"
+		qrg_out="430.4250" ville="Nantes" nom="Bd de la Chauvini&#xE8;re" dpt="44"
+		alt="45" resp="F5BCB" decl="squelch" infos="multi-mode" />
+	<marker indicatif="F5ZJH" locator="IN97FG" lat="47.252800" lng="-1.574500"
+		HS="0" type="UHF" categorie="num" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.3500" ville="Nantes" nom="Bd de la Chauvini&#xE8;re" dpt="44"
+		alt="45" resp="F5BCB" decl="P25" infos="en test" />
+	<marker indicatif="F5ZJH" locator="IN97FG" lat="47.252800" lng="-1.574500"
+		HS="0" type="UHF" categorie="num" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.3500" ville="Nantes" nom="Bd de la Chauvini&#xE8;re" dpt="44"
+		alt="45" resp="F5BCB" decl="DMR" infos="multi-mode" />
+	<marker indicatif="F5ZJH" locator="IN97FG" lat="47.252800" lng="-1.574500"
+		HS="0" type="UHF" categorie="num" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.3500" ville="Nantes" nom="Bd de la Chauvini&#xE8;re" dpt="44"
+		alt="45" resp="F5BCB" decl="C4FM" infos="en test" />
+	<marker indicatif="F5ZJH" locator="IN97FG" lat="47.252800" lng="-1.574500"
+		HS="0" type="UHF" categorie="num" canal="RU 17H" qrg_in="439.8250"
+		qrg_out="430.4250" ville="Nantes" nom="Bd de la Chauvini&#xE8;re" dpt="44"
+		alt="45" resp="F5BCB" decl="D-STAR" infos="multi-mode" />
+	<marker indicatif="F5ZKC" locator="IN87WE" lat="47.183701" lng="-2.091800"
+		HS="0" type="VHF" categorie="ana" canal="R1x" qrg_in="145.0375"
+		qrg_out="145.6375" ville="St-Michel-Chef-Chef" nom="La Haute Aiguillon"
+		dpt="44" alt="30" resp="F8CED" decl="1750 Hz" />
+	<marker indicatif="F5ZLK" locator="IN97FF" lat="47.247299" lng="-1.536500"
+		HS="0" type="UHF" categorie="num" canal="RU 20HR" qrg_in="430.5000"
+		qrg_out="439.9000" ville="Nantes" nom="Rue salles de l&amp;#39;Eraudi&#xE8;re"
+		dpt="44" alt="20" resp="F5ORE" decl="C4FM" infos="multi-mode" />
+	<marker indicatif="F5ZLK" locator="IN97FF" lat="47.247299" lng="-1.536500"
+		HS="0" type="UHF" categorie="num" canal="RU 20HR" qrg_in="430.5000"
+		qrg_out="439.9000" ville="Nantes" nom="Rue salles de l&amp;#39;Eraudi&#xE8;re"
+		dpt="44" alt="20" resp="F5ORE" decl="DMR" infos="multi-mode" />
+	<marker indicatif="F5ZLK" locator="IN97FF" lat="47.247299" lng="-1.536500"
+		HS="0" type="UHF" categorie="num" canal="RU 20HR" qrg_in="430.5000"
+		qrg_out="439.9000" ville="Nantes" nom="Rue salles de l&amp;#39;Eraudi&#xE8;re"
+		dpt="44" alt="20" resp="F5ORE" decl="D-STAR" infos="multi-mode" />
+	<marker indicatif="F1ZFQ" locator="JN17CX" lat="48.115501" lng="2.065800"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="432.4750"
+		qrg_out="145.4750" ville="Crottes-en-Pithiverais" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="45" alt="155" resp="F1AKP" decl="squelch" infos="En test" />
+	<marker indicatif="F1ZFY" locator="JN07WV" lat="47.912701" lng="1.906500"
+		HS="0" type="UHF" categorie="ana" canal="RB12" qrg_in="434.9000"
+		qrg_out="433.3000" ville="Orl&#xE9;ans" nom="Avenue de Munster" dpt="45"
+		alt="166" resp="F4FCE" decl="1750 Hz" />
+	<marker indicatif="F1ZLZ" locator="JN18IA" lat="48.009499" lng="2.742600"
+		HS="1" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="434.7750"
+		qrg_out="433.1750" ville="Montargis" nom="Rue Duchesne Rabier" dpt="45"
+		alt="117" resp="F4HKP" decl="DMR" infos="en projet" />
+	<marker indicatif="F5ZHF" locator="JN07WV" lat="47.912701" lng="1.906500"
+		HS="0" type="VHF" categorie="ana" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="Orl&#xE9;ans" nom="Avenue de Munster" dpt="45"
+		alt="166" resp="F4FCE" decl="1750 Hz" />
+	<marker indicatif="F5ZAP" locator="JN18IA" lat="48.009499" lng="2.742600"
+		HS="0" type="UHF" categorie="num" canal="RU 15H" qrg_in="439.7750"
+		qrg_out="430.3750" ville="Montargis" nom="Rue Duchesne Rabier" dpt="45"
+		alt="117" resp="F6DQL" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F5ZAP" locator="JN18IA" lat="48.009499" lng="2.742600"
+		HS="0" type="UHF" categorie="ana" canal="RU 15H" qrg_in="439.7750"
+		qrg_out="430.3750" ville="Montargis" nom="Rue Duchesne Rabier" dpt="45"
+		alt="117" resp="F6DQL" decl="CTCSS" infos="123 Hz bi-mode" />
+	<marker indicatif="F5ZRY" locator="JN07WV" lat="47.912601" lng="1.906500"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="144.8000"
+		qrg_out="430.4625" ville="Orl&#xE9;ans" nom="Avenue de Munster" dpt="45"
+		alt="170" resp="F1JGP" decl="squelch" />
+	<marker indicatif="F5ZVB" locator="JN17JX" lat="47.975498" lng="2.767500"
+		HS="0" type="VHF" categorie="ana" canal="R3" qrg_in="145.0750"
+		qrg_out="145.6750" ville="Amilly" nom="Place de la Paix" dpt="45" alt="132"
+		resp="F4HKP" decl="1750 Hz" infos="Echolink" />
+	<marker indicatif="F1ZFU" locator="JN04XS" lat="44.773800" lng="1.926100"
+		HS="0" type="UHF" categorie="ana" canal="FRU 18" qrg_in="431.4500"
+		qrg_out="433.0500" ville="Lacapelle-Marival" nom="Espeyroux" dpt="46"
+		alt="628" resp="F4CEQ" decl="squelch" />
+	<marker indicatif="F1ZJA" locator="JN14AO" lat="44.615299" lng="2.025900"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="145.3125"
+		qrg_out="145.3125" ville="Figeac" nom="Avenue des cr&#xEA;tes" dpt="46"
+		alt="300" resp="F4BQN" decl="CTCSS" infos="82&amp;#46;5 Hz Echolink en test" />
+	<marker indicatif="F1ZMQ" locator="JN04XS" lat="44.773800" lng="1.926100"
+		HS="0" type="VHF" categorie="ana" canal="R1x" qrg_in="145.0375"
+		qrg_out="145.6375" ville="Lacapelle-Marival" nom="Espeyroux" dpt="46"
+		alt="628" resp="F4CEQ" decl="squelch" />
+	<marker indicatif="F5ZET" locator="JN04RO" lat="44.615200" lng="1.491100"
+		HS="0" type="VHF" categorie="ana" canal="R3x" qrg_in="145.0875"
+		qrg_out="145.6875" ville="Cahors" nom="Les Moulins de Lamothe" dpt="46"
+		alt="442" resp="F5FFN" decl="1750 Hz" />
+	<marker indicatif="F5ZAO" locator="JN04IJ" lat="44.385502" lng="0.685500"
+		HS="0" type="VHF" categorie="ana" canal="R0" qrg_in="145.0000"
+		qrg_out="145.6000" ville="Villeneuve-sur-Lot" nom="Pujols" dpt="47"
+		alt="200" resp="F6HRY" decl="1750 Hz" />
+	<marker indicatif="F5ZCD" locator="IN97RL" lat="47.467999" lng="-0.553300"
+		HS="0" type="UHF" categorie="ana" canal="FRU 10R" qrg_in="430.2500"
+		qrg_out="431.8500" ville="Angers" nom="Rue des Lices" dpt="49" alt="102"
+		resp="F5IZJ" decl="squelch" />
+	<marker indicatif="F1ZBL" locator="IN99EP" lat="49.641602" lng="-1.657400"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2500"
+		qrg_out="431.2500" ville="Equeurdreville" nom="Rue du T&#xF4;t Neuf"
+		dpt="50" alt="70" resp="F4RTE" decl="squelch" infos="TRP VHF&amp;amp;gt;F5ZHY" />
+	<marker indicatif="F1ZJE" locator="IN99EP" lat="49.641499" lng="-1.657300"
+		HS="0" type="UHF" categorie="num" canal="RU 17XH" qrg_in="439.8350"
+		qrg_out="430.4375" ville="Cherbourg" nom="Octeville" dpt="50" alt="80"
+		resp="F4HGI" decl="D-STAR" />
+	<marker indicatif="F1ZOV" locator="IN99EP" lat="49.641602" lng="-1.657400"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.9750"
+		qrg_out="430.3750" ville="Equeurdreville" nom="Rue du T&#xF4;t Neuf"
+		dpt="50" alt="70" resp="F1ULN" decl="squelch" infos="En test" />
+	<marker indicatif="F5ZHY" locator="IN98JW" lat="48.926201" lng="-1.171800"
+		HS="0" type="VHF" categorie="ana" canal="R3x" qrg_in="145.0875"
+		qrg_out="145.6875" ville="Montabot" nom="La Butte" dpt="50" alt="292"
+		resp="F5HVI" decl="1750 Hz" infos="Voie UHF/431&amp;#46;250" />
+	<marker indicatif="F5ZKX" locator="IN99II" lat="49.373901" lng="-1.285500"
+		HS="1" type="UHF" categorie="num" canal="RU 21HR" qrg_in="430.5250"
+		qrg_out="439.9250" ville="Blosville" nom="Les Vielles Cours" dpt="50"
+		alt="30" resp="F5LIT" decl="DMR" infos="voir si actif" />
+	<marker indicatif="F5ZBD" locator="JN29BD" lat="49.147701" lng="4.110200"
+		HS="0" type="UHF" categorie="ana" canal="FRU 7" qrg_in="431.7750"
+		qrg_out="430.1750" ville="Reims" nom="Mailly-en-Champagne" dpt="51"
+		alt="280" resp="F6AJM" decl="squelch" />
+	<marker indicatif="F5ZDL" locator="JN29IA" lat="49.034000" lng="4.695600"
+		HS="0" type="VHF" categorie="ana" canal="R1x" qrg_in="145.0375"
+		qrg_out="145.6375" ville="Auve" nom="Inconnu" dpt="51" alt="188" resp="F5JNI"
+		decl="squelch" />
+	<marker indicatif="F5ZEC" locator="JN28ME" lat="48.206600" lng="5.042200"
+		HS="0" type="VHF" categorie="ana" canal="R4" qrg_in="145.1000"
+		qrg_out="145.7000" ville="Chaumont" nom="Sexfontaines" dpt="52" alt="425"
+		resp="F8FLN" decl="1750 Hz" infos="Ex F5ZBG" />
+	<marker indicatif="F1ZJZ" locator="IN98RC" lat="48.099701" lng="-0.518300"
+		HS="0" type="UHF" categorie="num" canal="RU 10XH" qrg_in="439.6625"
+		qrg_out="430.2625" ville="La Chapelle-Rainsouin" nom="Rue des Co&#xEB;vrons"
+		dpt="53" alt="120" resp="F4GZR" decl="DMR" />
+	<marker indicatif="F5ZHA" locator="IN98OB" lat="48.069500" lng="-0.766100"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4675"
+		qrg_out="432.5750" ville="Laval" nom="Rue Mazagran" dpt="53" alt="180"
+		resp="F5BUF" decl="squelch" infos="ADRASEC 53" />
+	<marker indicatif="F6ZCE" locator="IN98WK" lat="48.457802" lng="-0.157200"
+		HS="0" type="VHF" categorie="ana" canal="R4" qrg_in="145.1000"
+		qrg_out="145.7000" ville="Pr&#xE9;-en-Pail" nom="Mont des Avalloirs"
+		dpt="53" alt="420" resp="F4AKO" decl="squelch" infos="bi-mode C4FM" />
+	<marker indicatif="F6ZCE" locator="IN98WK" lat="48.457802" lng="-0.157200"
+		HS="0" type="VHF" categorie="num" canal="R4" qrg_in="145.1000"
+		qrg_out="145.7000" ville="Pr&#xE9;-en-Pail" nom="Mont des Avalloirs"
+		dpt="53" alt="420" resp="F4AKO" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F1ZAX" locator="JN29UM" lat="49.528099" lng="5.748700"
+		HS="0" type="VHF" categorie="ana" canal="R6x" qrg_in="145.1625"
+		qrg_out="145.7625" ville="Cosnes et Romain" nom="Cosnes" dpt="54" alt="410"
+		resp="F1SKH" decl="CTCSS" infos="97&amp;#46;4 Hz" />
+	<marker indicatif="F1ZAX" locator="JN29UM" lat="49.528099" lng="5.748700"
+		HS="0" type="VHF" categorie="num" canal="R6x" qrg_in="145.1625"
+		qrg_out="145.7625" ville="Cosnes et Romain" nom="Cosnes" dpt="54" alt="410"
+		resp="F1SKH" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F1ZET" locator="JN38BR" lat="48.716499" lng="6.156800"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.8000"
+		qrg_out="439.4000" ville="Maxeville" nom="Carri&#xE8;re Solval" dpt="54"
+		alt="20" resp="F4GEN" decl="DMR" infos="Hardware RD625" />
+	<marker indicatif="F1ZGK" locator="JN38CQ" lat="48.674500" lng="6.175000"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Nancy" nom="Av&amp;#46; G&#xE9;n&#xE9;ral Leclerc"
+		dpt="54" alt="25" resp="F4GEN" decl="D-STAR" />
+	<marker indicatif="F1ZHQ" locator="JN38BQ" lat="48.700500" lng="6.148300"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="145.3000"
+		qrg_out="145.3000" ville="Nancy" nom="Rue Jean Mihe" dpt="54" alt="395"
+		resp="F4GEN" decl="CTCSS" infos="Int&amp;#46; par DTMF" />
+	<marker indicatif="F1ZHQ" locator="JN38BQ" lat="48.700500" lng="6.148300"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.6000"
+		qrg_out="439.2000" ville="Nancy" nom="Rue Jean Mihe" dpt="54" alt="395"
+		resp="F4GEN" decl="CTCSS" infos="88&amp;#46;5 Hz" />
+	<marker indicatif="F1ZKQ" locator="JN38BP" lat="48.653801" lng="6.109500"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.9000"
+		qrg_out="439.5000" ville="Viller-les-Nancy" nom="Rue de la haut borne"
+		dpt="54" alt="375" resp="F4GEN" decl="DMR" />
+	<marker indicatif="F5ZDI" locator="JN29UM" lat="49.519402" lng="5.714900"
+		HS="0" type="UHF" categorie="ana" canal="FRU 2" qrg_in="431.6500"
+		qrg_out="430.0500" ville="Longwy" nom="Cosnes-et-Romain" dpt="54" alt="454"
+		resp="F6GKD" decl="1750 Hz" />
+	<marker indicatif="F5ZLM" locator="JN28XQ" lat="48.696602" lng="5.969600"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.9500"
+		qrg_out="439.5750" ville="Gondreville" nom="Rue de la Croix Ste-Anne"
+		dpt="54" alt="210" resp="F5LHJ" decl="DMR" infos="et D-STAR" />
+	<marker indicatif="F5ZLM" locator="JN28XQ" lat="48.696602" lng="5.969600"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.9500"
+		qrg_out="439.5750" ville="Gondreville" nom="Rue de la Croix Ste-Anne"
+		dpt="54" alt="210" resp="F5LHJ" decl="D-STAR" infos="et DMR" />
+	<marker indicatif="F5ZRP" locator="JN38FO" lat="48.608601" lng="6.434400"
+		HS="0" type="UHF" categorie="ana" canal="FRU 13" qrg_in="431.9250"
+		qrg_out="430.3250" ville="Lun&#xE9;ville" nom="Le L&#xE9;omont" dpt="54"
+		alt="320" resp="F1DND" decl="squelch" />
+	<marker indicatif="F5ZTY" locator="JN28WQ" lat="48.688000" lng="5.878800"
+		HS="0" type="UHF" categorie="ana" canal="FRU 14R" qrg_in="430.3500"
+		qrg_out="431.9500" ville="Toul" nom="Mont Saint-Michel" dpt="54" alt="350"
+		resp="F6BCD" decl="1750 Hz" />
+	<marker indicatif="F5ZUD" locator="JN38BP" lat="48.647202" lng="6.153000"
+		HS="0" type="VHF" categorie="ana" canal="R4x" qrg_in="145.1125"
+		qrg_out="145.7125" ville="Nancy" nom="Vandoeuvre-l&#xE8;s-Nancy" dpt="54"
+		alt="410" resp="F5GOT" decl="squelch" />
+	<marker indicatif="F1ZGN" locator="JN29RC" lat="49.124802" lng="5.480900"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4500"
+		qrg_out="432.5375" ville="Sommedieue" nom="Rozelier" dpt="55" alt="240"
+		resp="F1SNL" decl="squelch" infos="ADRASEC 55" />
+	<marker indicatif="F1ZGP" locator="JN28NS" lat="48.762699" lng="5.155300"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2875"
+		qrg_out="432.5375" ville="Bar-le-Duc" nom="Place de l&amp;#39;&#xE9;cole normale"
+		dpt="55" alt="220" resp="F1SNL" decl="squelch" infos="ADRASEC 55" />
+	<marker indicatif="F5ZDJ" locator="JN29OD" lat="49.152199" lng="5.247700"
+		HS="0" type="UHF" categorie="ana" canal="FRU 11" qrg_in="431.8750"
+		qrg_out="430.2750" ville="Verdun" nom="Sivry-la-Perche" dpt="55" alt="349"
+		resp="F6DPR" decl="1750 Hz" />
+	<marker indicatif="F1ZBZ" locator="IN87HR" lat="47.748501" lng="-3.367400"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.2000"
+		qrg_out="145.5000" ville="Lorient" nom="Parvis du grand th&#xE9;&#xE2;tre"
+		dpt="56" alt="25" resp="F4EYR" decl="1750 Hz" infos="TRP vers F5ZPE" />
+	<marker indicatif="F1ZKU" locator="IN87LT" lat="47.833199" lng="-3.076500"
+		HS="0" type="UHF" categorie="ana" canal="RU 18H" qrg_in="439.8500"
+		qrg_out="430.4500" ville="Languidic" nom="Kermeriette" dpt="56" alt="185"
+		resp="F1BWT" decl="squelch" />
+	<marker indicatif="F1ZKU" locator="IN87LT" lat="47.833199" lng="-3.076500"
+		HS="0" type="UHF" categorie="num" canal="RU 18H" qrg_in="439.8500"
+		qrg_out="430.4500" ville="Languidic" nom="Kermeriette" dpt="56" alt="185"
+		resp="F1BWT" decl="C4FM" />
+	<marker indicatif="F1ZMU" locator="IN87QR" lat="47.720001" lng="-2.588600"
+		HS="0" type="UHF" categorie="ana" canal="RU 13H" qrg_in="439.7250"
+		qrg_out="430.3250" ville="Saint-Nolff" nom="Saint-Nolff" dpt="56" alt="130"
+		resp="F1BWT" decl="1750 Hz" infos="Int&amp;#46; vers F5ZUJ" />
+	<marker indicatif="F5ZPE" locator="IN87OU" lat="47.857700" lng="-2.786900"
+		HS="0" type="VHF" categorie="ana" canal="R5x" qrg_in="145.1375"
+		qrg_out="145.7375" ville="Bignan" nom="La Ville aux Vents" dpt="56"
+		alt="180" resp="F1BWT" decl="1750 Hz" infos="Int&amp;#46; 431&amp;#46;200 vers F1ZBZ" />
+	<marker indicatif="F1ZAE" locator="JN39AF" lat="49.215500" lng="6.072400"
+		HS="0" type="VHF" categorie="ana" canal="R3" qrg_in="145.0750"
+		qrg_out="145.6750" ville="Metz" nom="Bois La Vierge" dpt="57" alt="347"
+		resp="F1TZU" decl="1750 Hz" />
+	<marker indicatif="F1ZFL" locator="JN39OC" lat="49.104900" lng="7.245800"
+		HS="0" type="UHF" categorie="ana" canal="FRU 5" qrg_in="431.7250"
+		qrg_out="430.1250" ville="Sarreguemines" nom="Rimling" dpt="57" alt="392"
+		resp="F5PPG" decl="squelch" />
+	<marker indicatif="F1ZJS" locator="JN39HG" lat="49.225101" lng="6.587200"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.5250"
+		qrg_out="439.1250" ville="Tromborn" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="57" alt="385" resp="F1NGP" decl="1750 Hz" infos="En test" />
+	<marker indicatif="F1ZTX" locator="JN39CD" lat="48.134800" lng="6.215300"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.5500"
+		qrg_out="439.1500" ville="Metz" nom="St-Julien-les-Metz" dpt="57" alt="315"
+		resp="F1NGP" decl="1750 Hz" />
+	<marker indicatif="F5ZCC" locator="JN39JD" lat="49.146099" lng="6.780800"
+		HS="0" type="UHF" categorie="ana" canal="FRU 6" qrg_in="431.7500"
+		qrg_out="430.1500" ville="Merlebach" nom="Freyming" dpt="57" alt="310"
+		resp="F5GEL" decl="squelch" />
+	<marker indicatif="F5ZDH" locator="JN39BJ" lat="49.375500" lng="6.131300"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2250"
+		qrg_out="439.1000" ville="Thionville" nom="Fort de Guentrange" dpt="57"
+		alt="320" resp="F6HJC " decl="CTCSS" infos="67 Hz" />
+	<marker indicatif="F5ZDH" locator="JN39BJ" lat="49.375500" lng="6.131300"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.5000"
+		qrg_out="439.1000" ville="Thionville" nom="Fort de Guentrange" dpt="57"
+		alt="320" resp="F6HJC " decl="CTCSS" infos="67 Hz" />
+	<marker indicatif="F5ZFM" locator="JN39CC" lat="49.118801" lng="6.200900"
+		HS="0" type="UHF" categorie="num" canal="RU 2HR" qrg_in="430.0500"
+		qrg_out="439.4500" ville="Metz" nom="Bd de l&amp;#39;Europe" dpt="57"
+		alt="230" resp="F8ARO" decl="DMR" infos="actif le 29/9/2017" />
+	<marker indicatif="F5ZKN" locator="JN39BJ" lat="49.375900" lng="6.133200"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="430.9000"
+		qrg_out="438.5000" ville="Thionville" nom="Fort de Guetrange" dpt="57"
+		alt="320" resp="F6HJC " decl="D-STAR" />
+	<marker indicatif="F5ZLC" locator="JN39CD" lat="49.134701" lng="6.215000"
+		HS="0" type="UHF" categorie="num" canal="RU 16HR" qrg_in="430.4000"
+		qrg_out="439.8000" ville="Metz" nom="Rue des Marronniers" dpt="57"
+		alt="290" resp="F5GLS" decl="D-STAR" />
+	<marker indicatif="F5ZVA" locator="JN16XX" lat="46.969601" lng="3.978000"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2500"
+		qrg_out="431.2500" ville="Villapourcon" nom="Villapourcon" dpt="58"
+		alt="850" resp="F5UNH" decl="CTCSS" infos="77 Hz" />
+	<marker indicatif="F5ZXZ" locator="JN17LK" lat="47.437500" lng="2.991700"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2125"
+		qrg_out="431.1000" ville="Cosne-Cours sur Loire" nom="Ch&#xE2;teau d&amp;#39;eau de Villorget"
+		dpt="58" alt="245" resp="F5UNH" decl="squelch" />
+	<marker indicatif="F1ZBE" locator="JO10SI" lat="50.360500" lng="3.500800"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.4250"
+		qrg_out="433.0250" ville="Valenciennes" nom="L&amp;#39;H&#xF4;pital"
+		dpt="59" alt="45" resp="F1MIJ" decl="CTCSS" infos="82&amp;#46;5 Hz TRP vers F1ZGY" />
+	<marker indicatif="F1ZBE" locator="JO10SI" lat="50.360500" lng="3.500800"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.4250"
+		qrg_out="433.0250" ville="Valenciennes" nom="L&amp;#39;H&#xF4;pital"
+		dpt="59" alt="45" resp="F1MIJ" decl="DMR" infos="MMDVM" />
+	<marker indicatif="F1ZBE" locator="JO10SI" lat="50.360500" lng="3.500800"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.4250"
+		qrg_out="433.0250" ville="Valenciennes" nom="L&amp;#39;H&#xF4;pital"
+		dpt="59" alt="45" resp="F1MIJ" decl="D-STAR" infos="MMDVM" />
+	<marker indicatif="F1ZBE" locator="JO10SI" lat="50.360500" lng="3.500800"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.4250"
+		qrg_out="433.0250" ville="Valenciennes" nom="L&amp;#39;H&#xF4;pital"
+		dpt="59" alt="45" resp="F1MIJ" decl="C4FM" infos="MMDVM" />
+	<marker indicatif="F1ZBE" locator="JO10SI" lat="50.360500" lng="3.500800"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.4250"
+		qrg_out="433.0250" ville="Valenciennes" nom="L&amp;#39;H&#xF4;pital"
+		dpt="59" alt="45" resp="F1MIJ" decl="P25" infos="MMDVM" />
+	<marker indicatif="F1ZDN" locator="JO10VE" lat="50.207401" lng="3.812700"
+		HS="0" type="UHF" categorie="ana" canal="FRU 18" qrg_in="431.4500"
+		qrg_out="433.0500" ville="Maubeuge" nom="Berlaimont" dpt="59" alt="140"
+		resp="F1IWQ" decl="1750 Hz" infos="ou DTMF &amp;amp; CTCSS 141 Hz" />
+	<marker indicatif="F1ZDN" locator="JO10VE" lat="50.207401" lng="3.812700"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="430.5750"
+		qrg_out="438.1750" ville="Maubeuge" nom="Berlaimont" dpt="59" alt="140"
+		resp="F1IWQ" decl="C4FM" infos="MMDVM" />
+	<marker indicatif="F1ZDN" locator="JO10VE" lat="50.207401" lng="3.812700"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="430.5750"
+		qrg_out="438.1750" ville="Maubeuge" nom="Berlaimont" dpt="59" alt="140"
+		resp="F1IWQ" decl="DMR" infos="MMDVM" />
+	<marker indicatif="F1ZDN" locator="JO10VE" lat="50.207401" lng="3.812700"
+		HS="1" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="430.5750"
+		qrg_out="438.1750" ville="Maubeuge" nom="Berlaimont" dpt="59" alt="140"
+		resp="F1IWQ" decl="D-STAR" infos="projet" />
+	<marker indicatif="F1ZDN" locator="JO10VE" lat="50.207401" lng="3.812700"
+		HS="1" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="430.5750"
+		qrg_out="438.1750" ville="Maubeuge" nom="Berlaimont" dpt="59" alt="140"
+		resp="F1IWQ" decl="P25" infos="en projet" />
+	<marker indicatif="F1ZDQ" locator="JO10VE" lat="50.207401" lng="3.812700"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="145.2625"
+		qrg_out="145.2625" ville="Maubeuge" nom="Berlaimont" dpt="59" alt="140"
+		resp="F1IWQ" decl="1750 Hz" infos="ou DTMF &amp;amp; CTCSS 141 Hz" />
+	<marker indicatif="F1ZGY" locator="JO10SI" lat="50.360500" lng="3.500800"
+		HS="0" type="VHF" categorie="ana" canal="R7x" qrg_in="145.1875"
+		qrg_out="145.7875" ville="Valenciennes" nom="L&amp;#39;H&#xF4;pital"
+		dpt="59" alt="45" resp="F1MIJ" decl="CTCSS" infos="82&amp;#46;5 Hz TRP vers F1ZBE" />
+	<marker indicatif="F1ZGY" locator="JO10SI" lat="50.360500" lng="3.500800"
+		HS="0" type="VHF" categorie="num" canal="R7x" qrg_in="145.1875"
+		qrg_out="145.7875" ville="Valenciennes" nom="L&amp;#39;H&#xF4;pital"
+		dpt="59" alt="45" resp="F1MIJ" decl="DMR" infos="MMDVM" />
+	<marker indicatif="F1ZGY" locator="JO10SI" lat="50.360500" lng="3.500800"
+		HS="0" type="VHF" categorie="num" canal="R7x" qrg_in="145.1875"
+		qrg_out="145.7875" ville="Valenciennes" nom="L&amp;#39;H&#xF4;pital"
+		dpt="59" alt="45" resp="F1MIJ" decl="D-STAR" infos="MMDVM" />
+	<marker indicatif="F1ZGY" locator="JO10SI" lat="50.360500" lng="3.500800"
+		HS="0" type="VHF" categorie="num" canal="R7x" qrg_in="145.1875"
+		qrg_out="145.7875" ville="Valenciennes" nom="L&amp;#39;H&#xF4;pital"
+		dpt="59" alt="45" resp="F1MIJ" decl="C4FM" infos="MMDVM" />
+	<marker indicatif="F1ZGY" locator="JO10SI" lat="50.360500" lng="3.500800"
+		HS="0" type="VHF" categorie="num" canal="R7x" qrg_in="145.1875"
+		qrg_out="145.7875" ville="Valenciennes" nom="L&amp;#39;H&#xF4;pital"
+		dpt="59" alt="45" resp="F1MIJ" decl="P25" infos="MMDVM" />
+	<marker indicatif="F1ZFK" locator="JO10VG" lat="50.270802" lng="3.792600"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="439.3000"
+		qrg_out="431.7000" ville="Mecquignies" nom="Chemin des vaches" dpt="59"
+		alt="130" resp="F4FHM" decl="CTCSS" infos="186&amp;#46;2 Hz Echolink" />
+	<marker indicatif="F1ZFK" locator="JO10VG" lat="50.270802" lng="3.792600"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="439.3000"
+		qrg_out="431.7000" ville="Mecquignies" nom="Chemin des vaches" dpt="59"
+		alt="130" resp="F4FHM" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F1ZJW" locator="JO10MP" lat="50.630501" lng="3.070000"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="437.6500"
+		qrg_out="430.0500" ville="Lille" nom="Place Augustin Laurent" dpt="59"
+		alt="30" resp="F1FPC" decl="DMR" />
+	<marker indicatif="F1ZKW" locator="JO10NJ" lat="50.400002" lng="3.094900"
+		HS="0" type="UHF" categorie="num" canal="RU 18XHR" qrg_in="430.4625"
+		qrg_out="439.8625" ville="Flers-en-Escrebieux" nom="RC F6KTM" dpt="59"
+		alt="30" resp="F4HTA" decl="DMR" />
+	<marker indicatif="F1ZKY" locator="JO11EA" lat="51.000500" lng="2.378100"
+		HS="0" type="VHF" categorie="ana" canal="R0x" qrg_in="145.0125"
+		qrg_out="145.6125" ville="Capelle-la-Grande" nom="Rue Vatel" dpt="59"
+		alt="10" resp="F4VSE" decl="1750 Hz" infos="Echolink" />
+	<marker indicatif="F1ZKY" locator="JO11EA" lat="51.000500" lng="2.378100"
+		HS="0" type="UHF" categorie="num" canal="RU 7H" qrg_in="439.5750"
+		qrg_out="430.1750" ville="Capelle-la-Grande" nom="Rue Vatel" dpt="59"
+		alt="10" resp="F4VSE" decl="C4FM" infos="Hardware MMDVM" />
+	<marker indicatif="F1ZKY" locator="JO11EA" lat="51.000500" lng="2.378100"
+		HS="0" type="UHF" categorie="num" canal="RU 7H" qrg_in="439.5750"
+		qrg_out="430.1750" ville="Capelle-la-Grande" nom="Rue Vatel" dpt="59"
+		alt="10" resp="F4VSE" decl="DMR" infos="Hardware MMDVM" />
+	<marker indicatif="F1ZKY" locator="JO11EA" lat="51.000500" lng="2.378100"
+		HS="1" type="UHF" categorie="num" canal="RU 7H" qrg_in="439.5750"
+		qrg_out="430.1750" ville="Capelle-la-Grande" nom="Rue Vatel" dpt="59"
+		alt="10" resp="F4VSE" decl="D-STAR" infos="en projet" />
+	<marker indicatif="F1ZKY" locator="JO11EA" lat="51.000500" lng="2.378100"
+		HS="1" type="UHF" categorie="num" canal="RU 7H" qrg_in="439.5750"
+		qrg_out="430.1750" ville="Capelle-la-Grande" nom="Rue Vatel" dpt="59"
+		alt="10" resp="F4VSE" decl="P25" infos="en projet" />
+	<marker indicatif="F1ZLR" locator="JO20AH" lat="50.292599" lng="4.080300"
+		HS="0" type="UHF" categorie="num" canal="RU 17HR" qrg_in="430.4250"
+		qrg_out="439.8250" ville="Marpent" nom="Rue des Fr&#xE8;res Roucheau"
+		dpt="59" alt="140" resp="F4GPC" decl="DMR" />
+	<marker indicatif="F1ZLX" locator="JO10RK" lat="50.437099" lng="3.447900"
+		HS="0" type="UHF" categorie="num" canal="RU 17H" qrg_in="439.8250"
+		qrg_out="430.4250" ville="St-Amand-les-Eaux" nom="Rue du gros pin"
+		dpt="59" alt="32" resp="F4MZI" decl="C4FM" infos="MMDVM" />
+	<marker indicatif="F1ZLX" locator="JO10RK" lat="50.437099" lng="3.447900"
+		HS="0" type="UHF" categorie="num" canal="RU 17H" qrg_in="439.8250"
+		qrg_out="430.4250" ville="St-Amand-les-Eaux" nom="Rue du gros pin"
+		dpt="59" alt="32" resp="F4MZI" decl="DMR" infos="MMDVM" />
+	<marker indicatif="F1ZLX" locator="JO10RK" lat="50.437099" lng="3.447900"
+		HS="0" type="UHF" categorie="num" canal="RU 17H" qrg_in="439.8250"
+		qrg_out="430.4250" ville="St-Amand-les-Eaux" nom="Rue du gros pin"
+		dpt="59" alt="32" resp="F4MZI" decl="D-STAR" infos="MMDVM" />
+	<marker indicatif="F1ZTK" locator="JO10MP" lat="50.630100" lng="3.069700"
+		HS="0" type="VHF" categorie="ana" canal="R6x" qrg_in="145.1625"
+		qrg_out="145.7625" ville="Lille" nom="Beffroi" dpt="59" alt="88" resp="F1FPC"
+		decl="1750 Hz" infos="Echolink" />
+	<marker indicatif="F1ZTK" locator="JO10MP" lat="50.630100" lng="3.069700"
+		HS="0" type="UHF" categorie="num" canal="FRU 3R" qrg_in="430.0750"
+		qrg_out="431.6750" ville="Lille" nom="Beffroi" dpt="59" alt="88" resp="F1FPC"
+		decl="DMR" infos="Hardware RD625" />
+	<marker indicatif="F5ZAG" locator="JO10RJ" lat="50.403000" lng="3.459900"
+		HS="0" type="VHF" categorie="ana" canal="R5" qrg_in="145.1250"
+		qrg_out="145.7250" ville="Raismes" nom="Raismes" dpt="59" alt="50"
+		resp="F5HHI" decl="CTCSS" infos="82&amp;#46;5 Hz" />
+	<marker indicatif="F5ZAG" locator="JO10RJ" lat="50.403000" lng="3.459900"
+		HS="0" type="VHF" categorie="num" canal="R5" qrg_in="145.1250"
+		qrg_out="145.7250" ville="Valenciennes" nom="Raismes" dpt="59" alt="50"
+		resp="F5HHI" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F5ZZP" locator="JO10RJ" lat="50.403000" lng="3.459900"
+		HS="0" type="UHF" categorie="ana" canal="FRU 8" qrg_in="431.8000"
+		qrg_out="430.2000" ville="Raismes" nom="Raismes" dpt="59" alt="50"
+		resp="F5HHI" decl="1750 Hz" infos="bi-mode C4FM" />
+	<marker indicatif="F5ZZP" locator="JO10RJ" lat="50.403000" lng="3.459900"
+		HS="0" type="UHF" categorie="num" canal="FRU 8" qrg_in="431.8000"
+		qrg_out="430.2000" ville="Raismes" nom="Raismes" dpt="59" alt="50"
+		resp="F5HHI" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F1ZCY" locator="JN09XJ" lat="49.376301" lng="1.951500"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.9000"
+		qrg_out="430.3000" ville="Toussures" nom="Rue des Ormes" dpt="60" alt="180"
+		resp="cach&#xE9;" decl="1750 Hz" infos="TRP/145&amp;#46;400 MHz" />
+	<marker indicatif="F1ZCY" locator="JN09XJ" lat="49.376301" lng="1.951500"
+		HS="0" type="UHF" categorie="num" canal="RU 10H" qrg_in="439.6500"
+		qrg_out="430.2500" ville="Troussures" nom="Rue des Ormes" dpt="60"
+		alt="180" resp="cach&#xE9;" decl="DMR" infos="Hardware RD985" />
+	<marker indicatif="F1ZHT" locator="JN19EL" lat="49.487900" lng="2.347600"
+		HS="0" type="UHF" categorie="num" canal="RU 23XH" qrg_in="439.9875"
+		qrg_out="430.5875" ville="Mesnil-les-Bulles" nom="Rue de Picardie"
+		dpt="60" alt="150" resp="F4FSD" decl="DMR" infos="Hardware RD985" />
+	<marker indicatif="F1ZIV" locator="JN19CG" lat="49.285000" lng="2.216500"
+		HS="0" type="VHF" categorie="ana" canal="R7" qrg_in="145.1750"
+		qrg_out="145.7750" ville="Sainte-Genevi&#xE8;ve" nom="Rue de la Fus&#xE9;e"
+		dpt="60" alt="207" resp="F1SFY" decl="squelch" />
+	<marker indicatif="F1ZIX" locator="JN19FG" lat="49.256599" lng="2.425400"
+		HS="0" type="UHF" categorie="num" canal="RU 4H" qrg_in="439.5000"
+		qrg_out="430.1000" ville="Mantataire" nom="Rue Victor Hugo" dpt="60"
+		alt="70" resp="F4FSD" decl="C4FM" />
+	<marker indicatif="F1ZIY" locator="JN19CG" lat="49.285000" lng="2.216500"
+		HS="0" type="UHF" categorie="num" canal="RU 2XH" qrg_in="439.4625"
+		qrg_out="430.0625" ville="Sainte-Genevi&#xE8;ve" nom="Rue de la Fus&#xE9;e"
+		dpt="60" alt="210" resp="F1SFY" decl="DMR" infos="Hardware DR3000" />
+	<marker indicatif="F1ZKE" locator="JN19FG" lat="49.252701" lng="2.467400"
+		HS="1" type="UHF" categorie="num" canal="RU 20H" qrg_in="439.9000"
+		qrg_out="430.5000" ville="Creil" nom="Bd Biondi" dpt="60" alt="107"
+		resp="cach&#xE9;" decl="DMR" infos="ADRASEC 60 ?" />
+	<marker indicatif="F1ZKG" locator="JN09UK" lat="49.417400" lng="1.745400"
+		HS="1" type="UHF" categorie="num" canal="RU 13H" qrg_in="439.7250"
+		qrg_out="430.3250" ville="St-Pierre-es-Champs" nom="Les Binaux" dpt="60"
+		alt="210" resp="cach&#xE9;" decl="DMR" infos="ADRASEC 60 ?" />
+	<marker indicatif="F1ZKH" locator="JN19JK" lat="49.437401" lng="2.802900"
+		HS="1" type="UHF" categorie="num" canal="RU 19H" qrg_in="439.8750"
+		qrg_out="430.4750" ville="Margny-les-Compi&#xE8;gne" nom="Tour av&amp;#46; Octave Butin"
+		dpt="60" alt="106" resp="cach&#xE9;" decl="DMR" infos="ADRASEC 60 ?" />
+	<marker indicatif="F5ZFY" locator="JN09XF" lat="49.209702" lng="1.970500"
+		HS="0" type="UHF" categorie="num" canal="RU 20XHR" qrg_in="430.5125"
+		qrg_out="439.9125" ville="Monneville" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="60" alt="150" resp="F5HCC" decl="D-STAR" />
+	<marker indicatif="F5ZIM" locator="JN09XJ" lat="49.375900" lng="1.951200"
+		HS="0" type="UHF" categorie="num" canal="RU 18XH" qrg_in="439.8625"
+		qrg_out="430.4625" ville="Troussures" nom="Lieu-dit Le Croquet" dpt="60"
+		alt="150" resp="F5HCC" decl="C4FM" />
+	<marker indicatif="F5ZIM" locator="JN09XJ" lat="49.375900" lng="1.951200"
+		HS="0" type="UHF" categorie="num" canal="RU 18XH" qrg_in="439.8625"
+		qrg_out="430.4625" ville="Troussures" nom="Lieu-dit Le Croquet" dpt="60"
+		alt="150" resp="F5HCC" decl="D-STAR" />
+	<marker indicatif="F1ZKC" locator="JN08IS" lat="48.757999" lng="0.686600"
+		HS="1" type="VHF" categorie="ana" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="St-Michel Thubeuf" nom="Ch&#xE2;teau d&amp;#39;eau Les Fichets"
+		dpt="61" alt="233" resp="F4HAQ" decl="squelch" infos="Projet" />
+	<marker indicatif="F1ZKC" locator="JN08IS" lat="48.757999" lng="0.686600"
+		HS="1" type="VHF" categorie="num" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="St-Michel Thubeuf" nom="Ch&#xE2;teau d&amp;#39;eau Les Fichets"
+		dpt="61" alt="233" resp="F4HAQ" decl="C4FM" infos="Projet" />
+	<marker indicatif="F1ZFM" locator="JO10HK" lat="50.418701" lng="2.659600"
+		HS="0" type="VHF" categorie="ana" canal="R3x" qrg_in="145.0875"
+		qrg_out="145.6875" ville="Bouvigny-Boyeffles" nom="Tour Carr&#xE9;"
+		dpt="62" alt="222" resp="F1PSH" decl="1750 Hz" infos="ex F1ZAL" />
+	<marker indicatif="F1ZHC" locator="JO10JH" lat="50.322498" lng="2.803500"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.4000" ville="Roclincourt" nom="Chemin de Blangy" dpt="62"
+		alt="100" resp="F1FFR" decl="squelch" infos="ADRASEC 62" />
+	<marker indicatif="F1ZJB" locator="JO10AR" lat="50.709301" lng="2.043800"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4500"
+		qrg_out="432.4000" ville="Seninghem" nom="La Raiderie" dpt="62" alt="192"
+		resp="F1FFR" decl="squelch" infos="ADRASEC 62" />
+	<marker indicatif="F1ZVV" locator="JO00TR" lat="50.718201" lng="1.650600"
+		HS="0" type="UHF" categorie="num" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.3500" ville="St-Martin-Boulogne" nom="Mont Lambert" dpt="62"
+		alt="259" resp="F4HJG" decl="DMR" infos="FM VHF R2x" />
+	<marker indicatif="F1ZVV" locator="JO00TR" lat="50.718201" lng="1.650600"
+		HS="0" type="VHF" categorie="ana" canal="R2x" qrg_in="145.0250"
+		qrg_out="145.6250" ville="St-Martin-Boulogne" nom="Mont Lambert" dpt="62"
+		alt="259" resp="F4HJG" decl="CTCSS" infos="123 Hz" />
+	<marker indicatif="F5ZGJ" locator="JO10KK" lat="50.443600" lng="2.903700"
+		HS="1" type="VHF" categorie="ana" canal="R0" qrg_in="145.0000"
+		qrg_out="145.6000" ville="Harnes" nom="Rue des Fusill&#xE9;s" dpt="62"
+		alt="53" resp="F4HTN" decl="CTCSS" infos="77 Hz Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F5ZYX" locator="JO10KK" lat="50.444901" lng="2.880100"
+		HS="0" type="UHF" categorie="ana" canal="RU 226" qrg_in="431.2250"
+		qrg_out="432.8250" ville="Harnes" nom="Locaux du RC F8KHW" dpt="62"
+		alt="53" resp="F4HTN" decl="CTCSS" infos="123 Hz" />
+	<marker indicatif="F1ZBS" locator="JN15JM" lat="45.521099" lng="2.831300"
+		HS="0" type="VHF" categorie="ana" canal="R6x" qrg_in="145.1625"
+		qrg_out="145.7625" ville="Clermont-Ferrand" nom="Puy de la Perdrix"
+		dpt="63" alt="1820" resp="F1NYO" decl="1750 Hz" infos="sur site principal" />
+	<marker indicatif="F1ZBT" locator="JN15TX" lat="45.960400" lng="3.631700"
+		HS="1" type="UHF" categorie="ana" canal="RU 5AP" qrg_in="432.7750"
+		qrg_out="431.1750" ville="Le Crest" nom="Col de la Plantade" dpt="63"
+		alt="870" resp="F1NYO" decl="1750 Hz" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F1ZGA" locator="JN15TX" lat="45.960400" lng="3.631700"
+		HS="0" type="SHF" categorie="ana" canal="RM 14" qrg_in="1291.350"
+		qrg_out="1297.350" ville="Le Crest" nom="Col de la Plantade" dpt="63"
+		alt="943" resp="F1SVF" decl="squelch" infos="Nouveau site" />
+	<marker indicatif="F5ZRD" locator="JN15LV" lat="45.915798" lng="2.929900"
+		HS="0" type="VHF" categorie="ana" canal="R4" qrg_in="145.1000"
+		qrg_out="145.7000" ville="Manzat" nom="La Roche Sauterre" dpt="63"
+		alt="950" resp="F5BVJ" decl="squelch" />
+	<marker indicatif="F5ZXY" locator="JN15MV" lat="45.904900" lng="3.029700"
+		HS="1" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4125"
+		qrg_out="431.0750" ville="Charbonni&#xE8;res les Varenne" nom="Site EDF de Montaclier"
+		dpt="63" alt="744" resp="cach&#xE9;" decl="squelch" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F5ZSD" locator="IN93II" lat="43.350201" lng="-1.333000"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2125"
+		qrg_out="432.5500" ville="Hasparren" nom="Mont Ursuya" dpt="64" alt="605"
+		resp="F5MRI" decl="squelch" />
+	<marker indicatif="F5ZUW" locator="IN92OX" lat="42.979301" lng="-0.754900"
+		HS="0" type="UHF" categorie="ana" canal="FRU 13R" qrg_in="430.3250"
+		qrg_out="431.9250" ville="La Pierre St-Martin" nom="Arette-la Pierre St-Martin"
+		dpt="64" alt="1400" resp="F5FGP" decl="1750 Hz" />
+	<marker indicatif="F6ZCV" locator="IN92OX" lat="42.978298" lng="-0.754900"
+		HS="0" type="VHF" categorie="ana" canal="R4" qrg_in="145.1000"
+		qrg_out="145.7000" ville="La Pierre St-Martin" nom="Arette-la Pierre St-Martin"
+		dpt="64" alt="1400" resp="F4API" decl="1750 Hz" />
+	<marker indicatif="F1ZBP" locator="JN12GJ" lat="42.387798" lng="2.561000"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4625"
+		qrg_out="432.5625" ville="St-Laurent de Cerdans" nom="La Sague" dpt="65"
+		alt="750" resp="F1UCG" decl="squelch" infos="ADRASEC 66" />
+	<marker indicatif="F1ZBQ" locator="JN12IT" lat="42.805401" lng="2.776200"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4625"
+		qrg_out="432.5625" ville="Tautavel" nom="Tour del Far" dpt="65" alt="512"
+		resp="F1UCG" decl="squelch" infos="ADRASEC 66" />
+	<marker indicatif="F5ZKT" locator="JN03AB" lat="43.056702" lng="0.059300"
+		HS="0" type="VHF" categorie="ana" canal="R3" qrg_in="145.0750"
+		qrg_out="145.6750" ville="Germs sur l&amp;#39;Houssouet" nom="Pic de Germs"
+		dpt="65" alt="920" resp="F5SDM" decl="squelch" />
+	<marker indicatif="F5ZTU" locator="IN93XB" lat="43.079498" lng="-0.031200"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2375"
+		qrg_out="431.7250" ville="Lourdes" nom="Pic du Jer" dpt="65" alt="948"
+		resp="F6DTZ" decl="1750 Hz" />
+	<marker indicatif="F5ZTU" locator="IN93XB" lat="43.079498" lng="-0.031200"
+		HS="0" type="UHF" categorie="ana" canal="FRU 5R" qrg_in="430.1250"
+		qrg_out="431.7250" ville="Lourdes" nom="Pic du Jer" dpt="65" alt="948"
+		resp="F6DTZ" decl="1750 Hz" infos="et sortie 145&amp;#46;2375 MHz" />
+	<marker indicatif="F5ZSS" locator="JN03AB" lat="43.056702" lng="0.059300"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Germs sur l&amp;#39;Houssouet" nom="Pic de Germs"
+		dpt="65" alt="920" resp="F5SDM" decl="D-STAR" />
+	<marker indicatif="F1ZBP" locator="JN12GJ" lat="42.387798" lng="2.560900"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4625"
+		qrg_out="432.5625" ville="St-Laurent de Cerdans" nom="Le Sague" dpt="66"
+		alt="750" resp="F1UCG" decl="squelch" infos="activit&#xE9; &#xE0; confirmer" />
+	<marker indicatif="F1ZBQ" locator="JN12IT" lat="42.813702" lng="2.745700"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4625"
+		qrg_out="432.5625" ville="Tautavel" nom="Tautavel" dpt="66" alt="512"
+		resp="F1UCG" decl="squelch" infos="activit&#xE9; &#xE0; confirmer" />
+	<marker indicatif="F1ZCM" locator="JN12JK" lat="42.447201" lng="2.755800"
+		HS="0" type="VHF" categorie="ana" canal="R1x" qrg_in="145.0375"
+		qrg_out="145.6375" ville="Ceret" nom="Pic de Fontfr&#xE8;de" dpt="66"
+		alt="1200" resp="F5HBI" decl="1750 Hz" />
+	<marker indicatif="F1ZCN" locator="JN12JK" lat="42.447201" lng="2.755800"
+		HS="0" type="UHF" categorie="ana" canal="FRU 2" qrg_in="431.6500"
+		qrg_out="430.0500" ville="Ceret" nom="Pic de Fontfr&#xE8;de" dpt="66"
+		alt="1200" resp="F5HBI" decl="1750 Hz" />
+	<marker indicatif="F1ZCO" locator="JN12LL" lat="42.482300" lng="2.947300"
+		HS="0" type="SHF" categorie="ana" canal="RM 16" qrg_in="1291.425"
+		qrg_out="1297.425" ville="Perpignan" nom="Pic de Neulos" dpt="66" alt="1256"
+		resp="F5HBI" decl="squelch" infos="Nouveau site" />
+	<marker indicatif="F1ZLB" locator="JN12AM" lat="42.515701" lng="2.038400"
+		HS="0" type="UHF" categorie="num" canal="RU 23H" qrg_in="439.9750"
+		qrg_out="430.5750" ville="Font-Romeu" nom="Rue du Mazerat" dpt="66"
+		alt="1700" resp="F4UEB" decl="DMR" />
+	<marker indicatif="F1ZUA" locator="JN12BL" lat="42.461700" lng="2.115800"
+		HS="0" type="UHF" categorie="ana" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.3500" ville="St-Pierre dels Forcats" nom="Terminal r&#xE9;mont&#xE9;e"
+		dpt="66" alt="2156" resp="F1UCG" decl="squelch" />
+	<marker indicatif="F1ZUC" locator="JN12JS" lat="42.767799" lng="2.780900"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4500"
+		qrg_out="430.3500" ville="Calce" nom="Las coumos de quirro" dpt="66"
+		alt="200" resp="F1UCG" decl="squelch" infos="ADRASEC 66" />
+	<marker indicatif="F1ZXF" locator="JN12JK" lat="42.447201" lng="2.755800"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4500"
+		qrg_out="430.3500" ville="Ceret" nom="Pic de Fonfr&#xE8;de" dpt="66"
+		alt="1200" resp="F1UCG" decl="squelch" infos="ADRASEC 66" />
+	<marker indicatif="F1ZXG" locator="JN12NL" lat="42.493698" lng="3.095300"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="432.5625" ville="Port-Vendres" nom="Batterie" dpt="66" alt="600"
+		resp="F1UCG" decl="squelch" infos="ADRASEC 66" />
+	<marker indicatif="F1ZXH" locator="JN12AK" lat="42.429401" lng="2.024200"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4750"
+		qrg_out="430.3500" ville="Saint-Leocadie" nom="Roque d&amp;#39;En Vert"
+		dpt="66" alt="1400" resp="F1UCG" decl="squelch" infos="ADRASEC 66" />
+	<marker indicatif="F5ZEZ" locator="JN12BL" lat="42.460499" lng="2.114100"
+		HS="0" type="VHF" categorie="ana" canal="R2x" qrg_in="145.0625"
+		qrg_out="145.6625" ville="St-Pierre dels Forcats" nom="Cambre d&amp;#39;Aze"
+		dpt="66" alt="2410" resp="F5ISQ" decl="1750 Hz" />
+	<marker indicatif="F5ZJA" locator="JN12LL" lat="42.493900" lng="2.956900"
+		HS="0" type="UHF" categorie="num" canal="RU 17HR" qrg_in="430.4250"
+		qrg_out="439.8250" ville="Perpignan" nom="Pic du Neulos" dpt="66" alt="1256"
+		resp="F8BSY" decl="DMR" infos="Hardware RD985" />
+	<marker indicatif="F5ZJT" locator="JN12KR" lat="42.722198" lng="2.889500"
+		HS="0" type="UHF" categorie="num" canal="RU 22HR" qrg_in="430.5500"
+		qrg_out="439.9500" ville="Perpignan" nom="Rue Andr&#xE9; Messager"
+		dpt="66" alt="40" resp="F8BSY" decl="DMR" infos="Hardware RD985" />
+	<marker indicatif="F1ZDD" locator="JN38RN" lat="48.556301" lng="7.457200"
+		HS="0" type="UHF" categorie="num" canal="RU 9XH" qrg_in="439.6875"
+		qrg_out="430.2875" ville="Dangolsheim" nom="Im Pflanzlaegert" dpt="67"
+		alt="390" resp="F4AVI" decl="DMR" infos="Hardware DR3000" />
+	<marker indicatif="F1ZDZ" locator="JN38VT" lat="48.821999" lng="7.803400"
+		HS="0" type="UHF" categorie="num" canal="RU 15H" qrg_in="439.7750"
+		qrg_out="430.3750" ville="Haguenau" nom="Rue des Epines" dpt="67" alt="150"
+		resp="F4GDL" decl="C4FM" infos="multi-mode" />
+	<marker indicatif="F1ZDZ" locator="JN38VT" lat="48.821999" lng="7.803400"
+		HS="0" type="UHF" categorie="num" canal="RU 15H" qrg_in="439.7750"
+		qrg_out="430.3750" ville="Haguenau" nom="Rue des Epines" dpt="67" alt="150"
+		resp="F4GDL" decl="DMR" infos="multi-mode" />
+	<marker indicatif="F1ZDZ" locator="JN38VT" lat="48.821999" lng="7.803400"
+		HS="0" type="UHF" categorie="num" canal="RU 15H" qrg_in="439.7750"
+		qrg_out="430.3750" ville="Haguenau" nom="Rue des Epines" dpt="67" alt="150"
+		resp="F4GDL" decl="D-STAR" infos="multi-mode" />
+	<marker indicatif="F1ZGC" locator="JN38RM" lat="48.541100" lng="7.440300"
+		HS="0" type="UHF" categorie="num" canal="RU 10XH" qrg_in="439.6625"
+		qrg_out="430.2625" ville="Mutzig" nom="Refuge Felsbourg" dpt="67" alt="190"
+		resp="F4AVI" decl="DMR" />
+	<marker indicatif="F1ZKT" locator="JN38TN" lat="48.546501" lng="7.631200"
+		HS="0" type="UHF" categorie="num" canal="RU 9XH" qrg_in="439.6875"
+		qrg_out="430.2875" ville="Entzheim" nom="A&#xE9;roport" dpt="67" alt="160"
+		resp="F4AVI" decl="DMR" />
+	<marker indicatif="F1ZUV" locator="JN38UO" lat="48.583801" lng="7.743600"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="144.7500"
+		qrg_out="439.7500" ville="Strasbourg" nom="Tour Valentin Sorg" dpt="67"
+		alt="144" resp="F1GWO" decl="CTCSS" infos="67 Hz CTCSS en UHF" />
+	<marker indicatif="F5ZAU" locator="JN38PP" lat="48.664700" lng="7.306600"
+		HS="0" type="VHF" categorie="ana" canal="R0x" qrg_in="145.0125"
+		qrg_out="145.6125" ville="Du Valsberg" nom="Col du Valsberg" dpt="67"
+		alt="700" resp="F6IRS" decl="1750 Hz" />
+	<marker indicatif="F5ZAV" locator="JN38RL" lat="48.386902" lng="7.271400"
+		HS="0" type="UHF" categorie="num" canal="RU 10XH" qrg_in="439.6625"
+		qrg_out="430.2625" ville="Bischoffsheim" nom="Bischenberg" dpt="67"
+		alt="144" resp="F6BUF" decl="DMR" infos="Hardware RD985" />
+	<marker indicatif="F5ZAW" locator="JN38PJ" lat="48.394402" lng="7.269200"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2125"
+		qrg_out="433.4250" ville="Bellefosse" nom="Champ du Feu" dpt="67" alt="1100"
+		resp="F6BUF" decl="CTCSS" infos="67 Hz" />
+	<marker indicatif="F5ZCQ" locator="JN39WA" lat="49.034100" lng="7.891600"
+		HS="0" type="VHF" categorie="ana" canal="R5" qrg_in="145.1250"
+		qrg_out="145.7250" ville="Wissembourg" nom="Rott/Scherhol" dpt="67"
+		alt="560" resp="F5RCT" decl="1750 Hz" />
+	<marker indicatif="F5ZEE" locator="JN38TX" lat="48.978699" lng="7.615200"
+		HS="0" type="VHF" categorie="num" canal="R3x" qrg_in="145.0875"
+		qrg_out="145.6875" ville="Niederbronn-les-Bains" nom="Le Grand Wintersberg"
+		dpt="67" alt="580" resp="F5RCT" decl="D-STAR" />
+	<marker indicatif="F5ZEE" locator="JN38TX" lat="48.978699" lng="7.615200"
+		HS="0" type="UHF" categorie="num" canal="RU 16HR" qrg_in="430.4000"
+		qrg_out="439.8000" ville="Niederbronn-les-Bains" nom="Le Grand Wintersberg"
+		dpt="67" alt="580" resp="F5RCT" decl="D-STAR" />
+	<marker indicatif="F5ZEW" locator="JN38PJ" lat="48.394402" lng="7.269200"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.8750"
+		qrg_out="433.4750" ville="Bellefosse" nom="Champ du Feu" dpt="67" alt="1100"
+		resp="F6CMB" decl="CTCSS" infos="67 Hz" />
+	<marker indicatif="F6ZLX" locator="JN38XV" lat="48.899502" lng="7.968500"
+		HS="0" type="UHF" categorie="num" canal="RU 21H" qrg_in="439.9250"
+		qrg_out="430.5250" ville="Hatten" nom="Mus&#xE9;e de l&amp;#39;Abri"
+		dpt="67" alt="160" resp="F5BLD" decl="DMR" />
+	<marker indicatif="F5ZNV" locator="JN38WX" lat="48.996700" lng="7.873300"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3750"
+		qrg_out="432.4000" ville="Drachenbronn" nom="Base a&#xE9;rienne" dpt="67"
+		alt="300" resp="F6BUF" decl="squelch" infos="ADRASEC 67" />
+	<marker indicatif="F5ZNW" locator="JN38PJ" lat="48.406601" lng="7.259500"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3750"
+		qrg_out="432.4000" ville="Belmont" nom="Champ du Feu" dpt="67" alt="1100"
+		resp="F6BUF" decl="squelch" infos="ADRASEC 67" />
+	<marker indicatif="F5ZUK" locator="JN38TX" lat="48.978699" lng="7.615200"
+		HS="0" type="UHF" categorie="ana" canal="RU 227" qrg_in="431.2375"
+		qrg_out="432.8375" ville="Niederbronn-les-Bains" nom="Le Grand Wintersberg"
+		dpt="67" alt="580" resp="F5RCT" decl="1750 Hz" />
+	<marker indicatif="F1ZDA" locator="JN37NX" lat="47.980701" lng="7.126100"
+		HS="0" type="UHF" categorie="ana" canal="FRU 3" qrg_in="431.6750"
+		qrg_out="430.0750" ville="Sondernach" nom="Petit Ballon" dpt="68" alt="1267"
+		resp="cach&#xE9;" decl="1750 Hz" infos="Echolink" />
+	<marker indicatif="F1ZDG" locator="JN37NX" lat="47.980701" lng="7.126100"
+		HS="0" type="VHF" categorie="ana" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="Sondernach" nom="Petit Ballon" dpt="68" alt="1267"
+		resp="cach&#xE9;" decl="1750 Hz" />
+	<marker indicatif="F5ZKS" locator="JN37NX" lat="47.980701" lng="7.126100"
+		HS="0" type="UHF" categorie="num" canal="RU 18XHR" qrg_in="430.4625"
+		qrg_out="439.8625" ville="Sondernach" nom="Petit Ballon" dpt="68" alt="1267"
+		resp="cach&#xE9;" decl="DMR" infos="Hardware RD985" />
+	<marker indicatif="F1ZDI" locator="JN25HS" lat="45.775002" lng="4.663300"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="144.8375"
+		qrg_out="144.8375" ville="Pollionnay" nom="Chemin de Valency" dpt="69"
+		alt="400" resp="F1JMN" decl="D-STAR" infos="nouveau site" />
+	<marker indicatif="F1ZDI" locator="JN25HS" lat="45.775002" lng="4.663300"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Pollionnay" nom="Chemin de Valency" dpt="69"
+		alt="400" resp="F1JMN" decl="D-STAR" infos="nouveau site" />
+	<marker indicatif="F1ZFF" locator="JN25JM" lat="45.533600" lng="4.810200"
+		HS="0" type="UHF" categorie="ana" canal="FRU 11R" qrg_in="430.2750"
+		qrg_out="431.8750" ville="St-Romain-en-Gal" nom="Le Grisard" dpt="69"
+		alt="472" resp="F1IMO" decl="squelch"
+		infos="Int&amp;#46;145&amp;#46;225/1291&amp;#46;875 MHz" />
+	<marker indicatif="F1ZFF" locator="JN25JM" lat="45.533600" lng="4.810200"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="1291.875"
+		qrg_out="145.2250" ville="St-Romain-en-Gal" nom="Le Grisard" dpt="69"
+		alt="472" resp="F1IMO" decl="squelch" />
+	<marker indicatif="F1ZFG" locator="JN25JT" lat="45.822899" lng="4.820000"
+		HS="0" type="VHF" categorie="num" canal="simplex" qrg_in="145.3625"
+		qrg_out="145.3625" ville="St-Cyr au Mont d&amp;#39;Or" nom="Tour TDF"
+		dpt="69" alt="505" resp="F4HIN" decl="DMR" />
+	<marker indicatif="F1ZFG" locator="JN25JT" lat="45.822899" lng="4.820000"
+		HS="0" type="VHF" categorie="ana" canal="R0" qrg_in="145.0000"
+		qrg_out="145.6000" ville="St-Cyr au Mont d&amp;#39;Or" nom="Tour TDF"
+		dpt="69" alt="505" resp="F4HIN" decl="squelch" infos="nouveau site" />
+	<marker indicatif="F1ZFG" locator="JN25JT" lat="45.822899" lng="4.820000"
+		HS="0" type="UHF" categorie="ana" canal="RU 23HR" qrg_in="430.5750"
+		qrg_out="439.9750" ville="St-Cyr au Mont d&amp;#39;Or" nom="Tour TDF"
+		dpt="69" alt="505" resp="F4HIN" decl="squelch" infos="bi-mode C4FM" />
+	<marker indicatif="F1ZFG" locator="JN25JT" lat="45.822899" lng="4.820000"
+		HS="0" type="UHF" categorie="num" canal="RU 22XHR" qrg_in="430.5750"
+		qrg_out="439.9750" ville="St-Cyr au Mont d&amp;#39;Or" nom="Tour TDF"
+		dpt="69" alt="505" resp="F4HIN" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F1ZFG" locator="JN25JT" lat="45.822899" lng="4.820000"
+		HS="0" type="UHF" categorie="num" canal="RU 16HR" qrg_in="430.4000"
+		qrg_out="439.8000" ville="St-Cyr au Mont d&amp;#39;Or" nom="Tour TDF"
+		dpt="69" alt="505" resp="F4HIN" decl="DMR" />
+	<marker indicatif="F1ZFG" locator="JN25JT" lat="45.822899" lng="4.820000"
+		HS="0" type="UHF" categorie="num" canal="RU 22XHR" qrg_in="430.5625"
+		qrg_out="439.9625" ville="St-Cyr au Mont d&amp;#39;Or" nom="Tour TDF"
+		dpt="69" alt="505" resp="F4HIN" decl="D-STAR" infos="nouveau site" />
+	<marker indicatif="F1ZFH" locator="JN25HR" lat="45.727699" lng="4.597700"
+		HS="1" type="VHF" categorie="ana" canal="R3x" qrg_in="145.0875"
+		qrg_out="145.6875" ville="Yzeron" nom="Saint-Clair" dpt="69" alt="895"
+		resp="F1IMO" decl="1750 Hz" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F1ZJH" locator="JN25JR" lat="45.744801" lng="4.832000"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.9625"
+		qrg_out="439.5625" ville="Lyon" nom="Rue Victor Lagrange" dpt="69"
+		alt="200" resp="F1JMN" decl="DMR" infos="Hardware MMDVM" />
+	<marker indicatif="F1ZJH" locator="JN25JR" lat="45.744801" lng="4.832000"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.9625"
+		qrg_out="439.5625" ville="Lyon" nom="Rue Victor Lagrange" dpt="69"
+		alt="200" resp="F1JMN" decl="D-STAR" infos="Hardware MMDVM" />
+	<marker indicatif="F1ZDK" locator="JN26FP" lat="46.627998" lng="4.458300"
+		HS="0" type="VHF" categorie="ana" canal="R6" qrg_in="145.1500"
+		qrg_out="145.7500" ville="Mont Saint-Vincent" nom="Le Belv&#xE9;d&#xE8;re"
+		dpt="71" alt="600" resp="F1DRW" decl="1750 Hz" />
+	<marker indicatif="F1ZYL" locator="JN26FP" lat="46.627701" lng="4.477200"
+		HS="1" type="UHF" categorie="ana" canal="RU 237" qrg_in="431.3625"
+		qrg_out="432.9625" ville="Mont Saint-Vincent" nom="Le Belv&#xE9;d&#xE8;re"
+		dpt="71" alt="610" resp="F1DRW" decl="1750 Hz" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F5ZJW" locator="JN26QL" lat="46.498299" lng="5.416100"
+		HS="0" type="UHF" categorie="ana" canal="RU 17HR" qrg_in="430.4250"
+		qrg_out="439.8250" ville="Cuiseaux" nom="La Grande For&#xEA;t" dpt="71"
+		alt="620" resp="F6IKY" decl="squelch" infos="E/144&amp;#46;5-S/432&amp;#46;6 SSTV" />
+	<marker indicatif="F5ZJW" locator="JN26QL" lat="46.498299" lng="5.416100"
+		HS="0" type="UHF" categorie="num" canal="RU 17HR" qrg_in="430.4250"
+		qrg_out="439.8250" ville="Cuiseaux" nom="La Grande For&#xEA;t" dpt="71"
+		alt="620" resp="F6IKY" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F5ZMS" locator="JN26BG" lat="46.268002" lng="4.150200"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2375"
+		qrg_out="431.2375" ville="Sainte-Foy" nom="Heurgue" dpt="71" alt="549"
+		resp="F5LHW" decl="squelch" />
+	<marker indicatif="F5ZTJ" locator="JN36DM" lat="46.287701" lng="4.287700"
+		HS="0" type="UHF" categorie="ana" canal="FRU 24" qrg_in="431.6000"
+		qrg_out="433.2000" ville="Baron" nom="La Montagne" dpt="71" alt="434"
+		resp="F4WBG" decl="squelch" />
+	<marker indicatif="F5ZTJ" locator="JN36DM" lat="46.287701" lng="4.287700"
+		HS="0" type="UHF" categorie="ana" canal="RU 234" qrg_in="431.3250"
+		qrg_out="432.9250" ville="Baron" nom="La Montagne" dpt="71" alt="434"
+		resp="F4WBG" decl="squelch" infos="TRP/145&amp;#46;3375 MHz" />
+	<marker indicatif="F5ZVP" locator="JN26AX" lat="46.996201" lng="4.036300"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.5750"
+		qrg_out="432.5750" ville="Saint-Prix" nom="Sommet du Haut Folin" dpt="71"
+		alt="920" resp="F5PJG" decl="squelch" infos="ADRASEC 71" />
+	<marker indicatif="F5ZGG" locator="JN07CX" lat="47.977798" lng="0.200900"
+		HS="0" type="UHF" categorie="ana" canal="RU 12H" qrg_in="439.7000"
+		qrg_out="430.3000" ville="Le Mans" nom="Rue Jules Ferry" dpt="72" alt="70"
+		resp="F1BJD" decl="squelch" />
+	<marker indicatif="F1ZBN" locator="JN25XQ" lat="45.683601" lng="5.975200"
+		HS="0" type="VHF" categorie="ana" canal="R3" qrg_in="145.0750"
+		qrg_out="145.6750" ville="Mont Revard" nom="Pugny Chatenod" dpt="73"
+		alt="1550" resp="F5ANZ" decl="1750 Hz" />
+	<marker indicatif="F1ZBO" locator="JN25XQ" lat="45.683601" lng="5.975200"
+		HS="0" type="UHF" categorie="num" canal="FRU 2R" qrg_in="430.0500"
+		qrg_out="431.6500" ville="Mont Revard" nom="Pugny Chatenod" dpt="73"
+		alt="1550" resp="F5ANZ" decl="D-STAR" />
+	<marker indicatif="F1ZHE" locator="JN35KO" lat="45.616798" lng="6.845500"
+		HS="0" type="TRP" categorie="num" canal="sans r&#xE9;f" qrg_in="145.4625"
+		qrg_out="431.5125" ville="Montvalezan" nom="La Rosi&#xE8;re" dpt="73"
+		alt="1734" resp="F4CZX" decl="DMR" infos="ADRASEC 73" />
+	<marker indicatif="F1ZHG" locator="JN35FQ" lat="45.678799" lng="6.427400"
+		HS="0" type="TRP" categorie="num" canal="sans r&#xE9;f" qrg_in="145.2875"
+		qrg_out="431.5125" ville="Albertville" nom="Fort du Mont" dpt="73"
+		alt="1112" resp="F4CZX" decl="DMR" infos="ADRASEC 73" />
+	<marker indicatif="F1ZIQ" locator="JN35GK" lat="45.389400" lng="6.576600"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="439.3000"
+		qrg_out="431.7000" ville="M&#xE9;ribel-les-Allues" nom="Proche piste G&amp;#46;Mauduit"
+		dpt="73" alt="1750" resp="cach&#xE9;" decl="squelch" infos="bi-mode C4FM" />
+	<marker indicatif="F1ZIQ" locator="JN35GK" lat="45.389400" lng="6.576600"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="439.3000"
+		qrg_out="431.7000" ville="M&#xE9;ribel-les Allues" nom="Proche piste G&amp;#46;Mauduit"
+		dpt="73" alt="1750" resp="cach&#xE9;" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F5ZGT" locator="JN35GG" lat="45.263802" lng="6.559900"
+		HS="0" type="TRP" categorie="num" canal="sans r&#xE9;f" qrg_in="145.4500"
+		qrg_out="431.5125" ville="St-Martin de Belleville" nom="Cime Caron"
+		dpt="73" alt="3164" resp="F2JD" decl="DMR" infos="ADRASEC 73" />
+	<marker indicatif="F1ZJV" locator="JN36FD" lat="46.165199" lng="6.445500"
+		HS="0" type="VHF" categorie="ana" canal="R7x" qrg_in="145.1875"
+		qrg_out="145.7875" ville="Viuz-en-Sallaz" nom="Pointe de Brasses" dpt="74"
+		alt="1504" resp="F4CXQ" decl="squelch" infos="ADRASEC 74" />
+	<marker indicatif="F5ZLV" locator="JN35BS" lat="45.796902" lng="6.104800"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3875"
+		qrg_out="432.6500" ville="Viuz-la-Chi&#xE9;saz" nom="Maison de Semnoz"
+		dpt="74" alt="1600" resp="F8NZQ" decl="squelch" infos="ADRASEC 01" />
+	<marker indicatif="F1ZPL" locator="JN18EV" lat="48.880001" lng="2.362000"
+		HS="0" type="UHF" categorie="num" canal="RU 10XH" qrg_in="439.6625"
+		qrg_out="430.2625" ville="Paris 10&#xE8;me" nom="Rue du Ch&#xE2;teau-Landon"
+		dpt="75" alt="60" resp="cach&#xE9;" decl="DMR" />
+	<marker indicatif="F1ZPL" locator="JN18EV" lat="48.880001" lng="2.362000"
+		HS="0" type="UHF" categorie="num" canal="RU 10XH" qrg_in="439.6625"
+		qrg_out="430.2625" ville="Paris 10&#xE8;me" nom="Rue du Ch&#xE2;teau-Landon"
+		dpt="75" alt="60" resp="cach&#xE9;" decl="P25" />
+	<marker indicatif="F1ZPL" locator="JN18EV" lat="48.880001" lng="2.362000"
+		HS="0" type="VHF" categorie="num" canal="sans r&#xE9;f" qrg_in="144.9125"
+		qrg_out="145.5125" ville="Paris 10&#xE8;me" nom="Rue du Ch&#xE2;teau-Landon"
+		dpt="75" alt="60" resp="cach&#xE9;" decl="D-STAR" />
+	<marker indicatif="F1ZSY" locator="JN18DU" lat="48.868698" lng="2.285300"
+		HS="0" type="VHF" categorie="ana" canal="R4" qrg_in="145.1000"
+		qrg_out="145.7000" ville="Paris 16&#xE8;me" nom="Av&amp;#46; Raymond Poincar&#xE9;"
+		dpt="75" alt="80" resp="F1VIP" decl="1750 Hz" infos="ou CTCSS" />
+	<marker indicatif="F1ZTC" locator="JN18DU" lat="48.871101" lng="2.291600"
+		HS="0" type="VHF" categorie="num" canal="R7" qrg_in="145.1750"
+		qrg_out="145.7750" ville="Paris 16&#xE8;me" nom="Colline de Chaillot"
+		dpt="75" alt="50" resp="cach&#xE9;" decl="DMR" infos="Hardware RD985" />
+	<marker indicatif="F1ZWD" locator="JN18DU" lat="48.871601" lng="2.291200"
+		HS="0" type="UHF" categorie="num" canal="RU 6H" qrg_in="439.5500"
+		qrg_out="430.1500" ville="Paris 16&#xE8;me" nom="Colline de Chaillot"
+		dpt="75" alt="50" resp="cach&#xE9;" decl="DMR" infos="Hardware RD985" />
+	<marker indicatif="F5ZJV" locator="JN18DU" lat="48.845600" lng="2.308100"
+		HS="0" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="Paris 15&#xE8;me" nom="Rue Daudin" dpt="75"
+		alt="50" resp="F8FJH" decl="DMR" />
+	<marker indicatif="F5ZPA" locator="JN18EU" lat="48.856899" lng="2.348800"
+		HS="0" type="UHF" categorie="ana" canal="RU 6XH" qrg_in="439.5625"
+		qrg_out="430.1625" ville="Paris 4&#xE8;me" nom="Quai de Gesvres" dpt="75"
+		alt="60" resp="F5LRG" decl="CTCSS" infos="74&amp;#46;4 Hz ADRASEC 75" />
+	<marker indicatif="F1ZFR" locator="JN09ER" lat="49.748299" lng="0.390800"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.5875"
+		qrg_out="432.5875" ville="F&#xE9;camp" nom="C&#xF4;te St-Jacques" dpt="76"
+		alt="94" resp="F4GGF" decl="squelch" />
+	<marker indicatif="F1ZIB" locator="JN09BM" lat="49.508099" lng="0.162400"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2375"
+		qrg_out="432.8000" ville="Le Havre" nom="Rue des Iris" dpt="76" alt="95"
+		resp="F4GYB" decl="CTCSS" infos="250&amp;#46;3 Hz Echolink" />
+	<marker indicatif="F1ZLO" locator="JN09BM" lat="49.508099" lng="0.162400"
+		HS="0" type="UHF" categorie="num" canal="RU 16HR" qrg_in="430.4000"
+		qrg_out="439.8000" ville="Le Havre" nom="Rue des Iris" dpt="76" alt="95"
+		resp="F4GYB" decl="C4FM" infos="et DMR" />
+	<marker indicatif="F1ZLO" locator="JN09BM" lat="49.508099" lng="0.162400"
+		HS="0" type="UHF" categorie="num" canal="RU 16HR" qrg_in="430.4000"
+		qrg_out="439.8000" ville="Le Havre" nom="Rue des Iris" dpt="76" alt="95"
+		resp="F4GYB" decl="DMR" infos="et C4FM" />
+	<marker indicatif="F1ZUE" locator="JN09PU" lat="49.870701" lng="1.256800"
+		HS="0" type="VHF" categorie="ana" canal="R7x" qrg_in="145.1875"
+		qrg_out="145.7875" ville="Dieppe" nom="St-Nicolas d&amp;#39;Aliermont"
+		dpt="76" alt="150" resp="F4DCI" decl="1750 Hz" />
+	<marker indicatif="F5ZEV" locator="JN09CM" lat="49.503601" lng="0.208000"
+		HS="0" type="VHF" categorie="ana" canal="R5" qrg_in="145.1250"
+		qrg_out="145.7250" ville="Le Havre" nom="Caucriauville" dpt="76" alt="95"
+		resp="F6IUI" decl="1750 Hz" infos="ADRASEC 76" />
+	<marker indicatif="F5ZFF" locator="JN09ML" lat="49.471802" lng="1.083100"
+		HS="0" type="VHF" categorie="ana" canal="R1x" qrg_in="145.0375"
+		qrg_out="145.6375" ville="Mont St-Aignan" nom="Rue Boucicaut" dpt="76"
+		alt="160" resp="F8CVB" decl="1750 Hz" infos="ADRASEC 76" />
+	<marker indicatif="F5ZKO" locator="JN09KV" lat="49.880798" lng="0.898300"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Le Bourg-Dun" nom="Chemin de Geais" dpt="76"
+		alt="10" resp="F5UBH" decl="D-STAR" />
+	<marker indicatif="F5ZMK" locator="JN09ML" lat="49.471802" lng="1.083100"
+		HS="0" type="UHF" categorie="ana" canal="FRU 2" qrg_in="431.6500"
+		qrg_out="430.0500" ville="Mont St-Aignan" nom="Rue Boucicaut" dpt="76"
+		alt="160" resp="F8CVB" decl="1750 Hz" infos="ADRASEC 76" />
+	<marker indicatif="F1ZDL" locator="JN19IA" lat="49.038601" lng="2.692700"
+		HS="0" type="UHF" categorie="ana" canal="RU 3H" qrg_in="439.4750"
+		qrg_out="430.0750" ville="Saint-Mard" nom="Avenue de la R&#xE9;publique"
+		dpt="77" alt="130" resp="cach&#xE9;" decl="1750 Hz" infos="reprise" />
+	<marker indicatif="F1ZDO" locator="JN19IB" lat="49.053600" lng="2.684800"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="438.6000"
+		qrg_out="431.0000" ville="Dammartin-en-Goele" nom="Av&amp;#46; du g&#xE9;n&#xE9;ral De Gaulle"
+		dpt="77" alt="170" resp="cach&#xE9;" decl="DMR" />
+	<marker indicatif="F1ZDW" locator="JN18KR" lat="48.709099" lng="2.866700"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="438.6000"
+		qrg_out="431.0000" ville="Fontenay-Tr&#xE9;signy" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="77" alt="151" resp="cach&#xE9;" decl="DMR" />
+	<marker indicatif="F1ZDW" locator="JN18KR" lat="48.709099" lng="2.866700"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="438.6000"
+		qrg_out="431.0000" ville="Fontenay-Tr&#xE9;signy" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="77" alt="151" resp="cach&#xE9;" decl="D-STAR" />
+	<marker indicatif="F1ZDW" locator="JN18KR" lat="48.709099" lng="2.866700"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="438.6000"
+		qrg_out="431.0000" ville="Fontenay-Tr&#xE9;signy" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="77" alt="151" resp="cach&#xE9;" decl="P25" />
+	<marker indicatif="F1ZHK" locator="JN18MN" lat="48.552101" lng="3.014900"
+		HS="0" type="VHF" categorie="ana" canal="R6x" qrg_in="145.1625"
+		qrg_out="145.7625" ville="Nangis" nom="Complexe sportif" dpt="77" alt="140"
+		resp="F4DFJ" decl="CTCSS" infos="77 Hz bimode" />
+	<marker indicatif="F1ZHK" locator="JN18MN" lat="48.552101" lng="3.014900"
+		HS="0" type="VHF" categorie="num" canal="R6x" qrg_in="145.1625"
+		qrg_out="145.7625" ville="Nangis" nom="Complexe sportif" dpt="77" alt="140"
+		resp="F4DFJ" decl="DMR" infos="et FM" />
+	<marker indicatif="F1ZJU" locator="JN18PU" lat="48.853001" lng="3.276700"
+		HS="0" type="UHF" categorie="num" canal="RU 22XH" qrg_in="439.9625"
+		qrg_out="430.5625" ville="Saint-L&#xE9;ger" nom="Rue de l&amp;#39;Etang"
+		dpt="77" alt="180" resp="cach&#xE9;" decl="DMR" />
+	<marker indicatif="F1ZNK" locator="JN18KR" lat="48.708599" lng="2.866800"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="439.6250"
+		qrg_out="430.2250" ville="Fontenay-Tr&#xE9;signy" nom="Stade Orly"
+		dpt="77" alt="50" resp="cach&#xE9;" decl="DMR" />
+	<marker indicatif="F1ZOJ" locator="JN18QO" lat="48.611000" lng="3.333400"
+		HS="0" type="UHF" categorie="ana" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.350" ville="Voulton" nom="Cateau d&amp;#39;eau" dpt="77"
+		alt="170" resp="cach&#xE9;" decl="squelch" infos="et C4FM" />
+	<marker indicatif="F1ZOJ" locator="JN18QO" lat="48.611000" lng="3.333400"
+		HS="0" type="UHF" categorie="num" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.350" ville="Voulton" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="77" alt="170" resp="cach&#xE9;" decl="C4FM" infos="et FM" />
+	<marker indicatif="F1ZVK" locator="JN18HN" lat="48.564701" lng="2.608300"
+		HS="0" type="UHF" categorie="num" canal="RU 1H" qrg_in="439.4250"
+		qrg_out="430.0250" ville="Cesson" nom="MLC de Cesson" dpt="77" alt="80"
+		resp="F5TEB" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F5ZDO" locator="JN18KR" lat="48.709099" lng="2.866700"
+		HS="0" type="UHF" categorie="ana" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.3500" ville="Fontenay-Tr&#xE9;signy" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="77" alt="151" resp="cach&#xE9;" decl="CTCSS" infos="77 Hz bimode" />
+	<marker indicatif="F5ZDO" locator="JN18KR" lat="48.709099" lng="2.866700"
+		HS="0" type="UHF" categorie="num" canal="RU 14H" qrg_in="439.7500"
+		qrg_out="430.3500" ville="Fontenay-Tr&#xE9;signy" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="77" alt="151" resp="cach&#xE9;" decl="DMR" infos="et FM" />
+	<marker indicatif="F5ZNN" locator="JN18OT" lat="48.821701" lng="3.246200"
+		HS="0" type="VHF" categorie="ana" canal="R2" qrg_in="145.0500"
+		qrg_out="145.6500" ville="St-R&#xE9;my-la-Vanne " nom="Ch&#xE2;teau d&amp;#39;eau de Montmogis"
+		dpt="77" alt="166" resp="F6ICX" decl="CTCSS" infos="77 Hz" />
+	<marker indicatif="F5ZNN" locator="JN18OT" lat="48.821701" lng="3.246200"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="430.6500"
+		qrg_out="145.6500" ville="St-R&#xE9;my-la-Vanne " nom="Ch&#xE2;teau d&amp;#39;eau de Montmogis"
+		dpt="77" alt="166" resp="F6ICX" decl="CTCSS" infos="77 Hz" />
+	<marker indicatif="F1ZDJ" locator="JN08VP" lat="48.633701" lng="1.828600"
+		HS="0" type="VHF" categorie="ana" canal="R5" qrg_in="145.1250"
+		qrg_out="145.7250" ville="Rambouillet" nom="Rue du mar&#xE9;chal Juin"
+		dpt="78" alt="190" resp="F4GKR" decl="squelch" />
+	<marker indicatif="F1ZPK" locator="JN08UX" lat="48.967400" lng="1.683400"
+		HS="0" type="UHF" categorie="num" canal="RU 22XHR" qrg_in="430.5625"
+		qrg_out="439.9625" ville="Mante-la-Jolie" nom="RC F6KOB" dpt="78" alt="127"
+		resp="F1IKD" decl="D-STAR" />
+	<marker indicatif="F5ZBK" locator="JN09XA" lat="49.015900" lng="1.988300"
+		HS="0" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="431.7750"
+		qrg_out="430.1750" ville="Triel-sur-Seine" nom="For&#xEA;t d&amp;#39;Hautil"
+		dpt="78" alt="190" resp="cach&#xE9;" decl="cod&#xE9;" infos="possible ADRASEC 78" />
+	<marker indicatif="F5ZEQ" locator="JN18BW" lat="48.940399" lng="2.121200"
+		HS="0" type="VHF" categorie="ana" canal="R6" qrg_in="145.1500"
+		qrg_out="145.7500" ville="Mesnil-le-Roi" nom="Rue des Grands champs"
+		dpt="78" alt="104" resp="F6JIG" decl="1750 Hz"
+		infos="Int&amp;#46; 145&amp;#46;225 MHz -&amp;amp;gt; F5ZPX" />
+	<marker indicatif="F5ZPX" locator="JN08XS" lat="48.762501" lng="1.945800"
+		HS="0" type="UHF" categorie="ana" canal="FRU 9" qrg_in="431.8250"
+		qrg_out="430.2250" ville="Maurepas" nom="Place d&amp;#39;Auxois" dpt="78"
+		alt="215" resp="F4AID" decl="squelch"
+		infos="Int&amp;#46; 145&amp;#46;225 MHz -&amp;amp;gt; F5ZEQ" />
+	<marker indicatif="F5ZPX" locator="JN08XS" lat="48.762501" lng="1.945800"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2250"
+		qrg_out="430.2250" ville="Maurepas" nom="Place d&amp;#39;Auxois" dpt="78"
+		alt="215" resp="F4AID" decl="CTCSS" infos="77 Hz" />
+	<marker indicatif="F5ZCB" locator="IN96VI" lat="46.372898" lng="-0.185700"
+		HS="1" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2500"
+		qrg_out="433.5000" ville="Souvign&#xE9;" nom="Rue de la Ch&#xE2;taigneraie"
+		dpt="79" alt="130" resp="F6BKC" decl="squelch" infos="&#xE0; voir si actif" />
+	<marker indicatif="F5ZZK" locator="IN96WO" lat="46.602402" lng="-0.147900"
+		HS="0" type="VHF" categorie="ana" canal="R6x" qrg_in="145.1625"
+		qrg_out="145.7625" ville="Parthenay" nom="St-Martin du Fouilloux" dpt="79"
+		alt="270" resp="F6DZR" decl="1750 Hz" />
+	<marker indicatif="F1ZCS" locator="JO10GB" lat="50.062801" lng="2.512400"
+		HS="0" type="UHF" categorie="ana" canal="FRU 13" qrg_in="431.9250"
+		qrg_out="430.3250" ville="Lealvillers" nom="Parcelle N 151ZB" dpt="80"
+		alt="140" resp="F5BPO" decl="squelch"
+		infos="QTH d&#xE9;clar&#xE9; &#xE0; l&amp;#39;ANFR" />
+	<marker indicatif="F5ZBH" locator="JO10IB" lat="50.042999" lng="2.732100"
+		HS="0" type="VHF" categorie="ana" canal="R6" qrg_in="145.1500"
+		qrg_out="145.7500" ville="Pozi&#xE8;res" nom="Ch&#xE2;teau d&amp;#39;eau de Pozi&#xE8;res"
+		dpt="80" alt="160" resp="F5VPK" decl="1750 Hz" />
+	<marker indicatif="F5ZFV" locator="JO00SB" lat="50.056801" lng="1.514900"
+		HS="0" type="UHF" categorie="ana" canal="FRU 8" qrg_in="431.8000"
+		qrg_out="430.2000" ville="Yzengremer" nom="Ch&#xE2;teau d&amp;#39;eau D19"
+		dpt="80" alt="120" resp="cach&#xE9;" decl="1750 Hz"
+		infos="Remplace l&amp;#39;ex F1ZFC" />
+	<marker indicatif="F5ZTP" locator="JO00SB" lat="50.056801" lng="1.514900"
+		HS="0" type="VHF" categorie="ana" canal="R4x" qrg_in="145.1125"
+		qrg_out="145.7125" ville="Yzengremer" nom="Ch&#xE2;teau d&amp;#39;eau D19"
+		dpt="80" alt="120" resp="cach&#xE9;" decl="1750 Hz" />
+	<marker indicatif="F5ZWL" locator="JO00SI" lat="50.343498" lng="1.574500"
+		HS="1" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4875"
+		qrg_out="434.2125" ville="Fort-Mahon-Plage" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="80" alt="20" resp="cach&#xE9;" decl="squelch" infos="voir si actif" />
+	<marker indicatif="F5ZCL" locator="JN13DL" lat="43.467800" lng="2.252900"
+		HS="0" type="VHF" categorie="ana" canal="R6" qrg_in="145.1500"
+		qrg_out="145.7500" ville="Escoussens" nom="La Borie Rouge" dpt="81"
+		alt="970" resp="F5FDR" decl="1750 Hz" infos="ou CTCSS 88&amp;#46;5 Hz" />
+	<marker indicatif="F5ZJL" locator="JN13DL" lat="43.467800" lng="2.252900"
+		HS="0" type="UHF" categorie="ana" canal="FRU 9" qrg_in="431.8250"
+		qrg_out="430.2250" ville="Escoussens" nom="La Borie Rouge" dpt="81"
+		alt="970" resp="F5FDR" decl="1750 Hz" infos="ou CTCSS 88&amp;#46;5 Hz et bi-mode" />
+	<marker indicatif="F5ZJL" locator="JN13DL" lat="43.467800" lng="2.252900"
+		HS="0" type="UHF" categorie="num" canal="FRU 9" qrg_in="431.8250"
+		qrg_out="430.2250" ville="Escoussens" nom="La Borie Rouge" dpt="81"
+		alt="970" resp="F5FDR" decl="D-STAR" infos="bi-mode FM" />
+	<marker indicatif="F5ZLH" locator="JN13BW" lat="43.918999" lng="2.140100"
+		HS="1" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="Albi" nom="Rue du docteur Campmas" dpt="81"
+		alt="190" resp="F5RSU" decl="DMR" infos="voir si actif" />
+	<marker indicatif="F5ZMZ" locator="JN13FL" lat="43.460400" lng="2.454600"
+		HS="0" type="UHF" categorie="ana" canal="FRU 4" qrg_in="431.7000"
+		qrg_out="430.1000" ville="St-Amans-Soult" nom="La Pierre perc&#xE9;e"
+		dpt="81" alt="965" resp="F5ETM" decl="squelch" />
+	<marker indicatif="F5ZYC" locator="JN13FL" lat="43.460400" lng="2.454600"
+		HS="0" type="SHF" categorie="ana" canal="RM12" qrg_in="1291.325"
+		qrg_out="1297.325" ville="St-Amans-Soult" nom="La Pierre perc&#xE9;e"
+		dpt="81" alt="965" resp="F5BHJ" decl="squelch" />
+	<marker indicatif="F1ZED" locator="JN04PC" lat="44.110802" lng="1.293000"
+		HS="0" type="VHF" categorie="ana" canal="R7" qrg_in="145.1750"
+		qrg_out="145.7750" ville="Montauban" nom="Montastruc" dpt="82" alt="250"
+		resp="F1RHS" decl="1750 Hz" infos="ADRASEC 82" />
+	<marker indicatif="F1ZHI" locator="JN33EO" lat="43.590401" lng="6.367100"
+		HS="0" type="VHF" categorie="ana" canal="R3x" qrg_in="145.0875"
+		qrg_out="145.6875" ville="Ampus" nom="Puy de la Sigue" dpt="83" alt="600"
+		resp="F1VJT" decl="CTCSS" infos="77 Hz" />
+	<marker indicatif="F1ZHR" locator="JN33GE" lat="43.206699" lng="6.522100"
+		HS="0" type="UHF" categorie="ana" canal="RU 14XH" qrg_in="439.7625"
+		qrg_out="430.3625" ville="La Mole" nom="Les Pradels" dpt="83" alt="527"
+		resp="F1VJT" decl="CTCSS" infos="77 Hz" />
+	<marker indicatif="F1ZIL" locator="JN33JK" lat="43.431198" lng="6.799500"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.7500"
+		qrg_out="439.3500" ville="Saint-Raphael" nom="Rue des Chataigniers"
+		dpt="83" alt="500" resp="F1NSR" decl="D-STAR" />
+	<marker indicatif="F1ZKJ" locator="JN33FA" lat="43.018299" lng="6.435800"
+		HS="0" type="UHF" categorie="num" canal="RU 18XHR" qrg_in="430.4625"
+		qrg_out="439.8625" ville="Hy&#xE8;res" nom="Ile du Levant" dpt="83"
+		alt="230" resp="F4AAG" decl="D-STAR" />
+	<marker indicatif="F1ZLG" locator="JN33FL" lat="43.478802" lng="6.455600"
+		HS="0" type="UHF" categorie="num" canal="RU 4XH" qrg_in="439.5125"
+		qrg_out="430.1125" ville="Les Arcs" nom="Route des Nouradons" dpt="83"
+		alt="200" resp="cach&#xE9;" decl="DMR" />
+	<marker indicatif="F1ZLL" locator="JN33AK" lat="43.441200" lng="6.042600"
+		HS="0" type="UHF" categorie="num" canal="RU 22XH" qrg_in="439.9625"
+		qrg_out="430.5625" ville="Le Val" nom="Route de Bras" dpt="83" alt="300"
+		resp="F1SER" decl="DMR" />
+	<marker indicatif="F5ZCG" locator="JN33HR" lat="43.747200" lng="6.661100"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4875"
+		qrg_out="432.5250" ville="Mons" nom="Montagne de Lachens" dpt="83"
+		alt="1714" resp="F6OBD" decl="cod&#xE9;" infos="ADRASEC 83" />
+	<marker indicatif="F5ZFZ" locator="JN23XD" lat="43.151901" lng="5.943100"
+		HS="0" type="UHF" categorie="ana" canal="RU 13H" qrg_in="439.7250"
+		qrg_out="430.3250" ville="Toulon" nom="Mont Faron" dpt="83" alt="540"
+		resp="F6GKF" decl="CTCSS" infos="74&amp;#46;4 Hz" />
+	<marker indicatif="F5ZHD" locator="JN33XE" lat="43.204899" lng="5.952200"
+		HS="1" type="UHF" categorie="ana" canal="FRU 4" qrg_in="431.7000"
+		qrg_out="430.1000" ville="Le Revest-les-Eaux" nom="Le Grand Cap" dpt="83"
+		alt="783" resp="F5NTJ" decl="CTCSS" infos="74&amp;#46;4 Hz Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F5ZKQ" locator="JN23UE" lat="43.177799" lng="5.746600"
+		HS="0" type="UHF" categorie="num" canal="sans r&#xE9;f" qrg_in="431.9625"
+		qrg_out="439.5625" ville="La Cadi&#xE8;re d&amp;#39;Azur" nom="La croix des signaux"
+		dpt="83" alt="300" resp="F5LKW" decl="D-STAR" />
+	<marker indicatif="F5ZLN" locator="JN33AE" lat="43.168098" lng="6.047600"
+		HS="0" type="UHF" categorie="num" canal="RU 2HR" qrg_in="430.0500"
+		qrg_out="439.4500" ville="La Farl&#xE8;de" nom="Place des Amandiers"
+		dpt="83" alt="73" resp="F2VI" decl="DMR" infos="en test" />
+	<marker indicatif="F5ZLQ" locator="JN33AD" lat="43.153000" lng="6.081800"
+		HS="0" type="UHF" categorie="num" canal="RU 1H" qrg_in="439.4250"
+		qrg_out="430.0250" ville="La Crau" nom="Impasse des C&#xE8;dres" dpt="83"
+		alt="50" resp="F2VI" decl="DMR" infos="en test" />
+	<marker indicatif="F5ZOL" locator="JN33BF" lat="43.226398" lng="6.143000"
+		HS="0" type="VHF" categorie="ana" canal="R0" qrg_in="145.0000"
+		qrg_out="145.6000" ville="Pierrefeu du Var" nom="La Chapelle Ste Croix"
+		dpt="83" alt="150" resp="F6GKF" decl="CTCSS"
+		infos="74&amp;#46;4 Hz entr&#xE9;e C4FM" />
+	<marker indicatif="F5ZOL" locator="JN33BF" lat="43.226398" lng="6.143000"
+		HS="0" type="TRP" categorie="num" canal="sans r&#xE9;f" qrg_in="145.0000"
+		qrg_out="430.2250" ville="Pierrefeu du Var" nom="La Chapelle Ste Croix"
+		dpt="83" alt="150" resp="F6GKF" decl="C4FM" infos="entr&#xE9;e sur R0" />
+	<marker indicatif="F5ZOL" locator="JN33BF" lat="43.226398" lng="6.143000"
+		HS="0" type="UHF" categorie="num" canal="RU 9H" qrg_in="439.6250"
+		qrg_out="430.2250" ville="Pierrefeu du Var" nom="La Chapelle Ste Croix"
+		dpt="83" alt="150" resp="F6GKF" decl="C4FM" infos="et DMR" />
+	<marker indicatif="F5ZOL" locator="JN33BF" lat="43.226398" lng="6.143000"
+		HS="0" type="UHF" categorie="num" canal="RU 9H" qrg_in="439.6250"
+		qrg_out="430.2250" ville="Pierrefeu du Var" nom="La Chapelle Ste Croix"
+		dpt="83" alt="150" resp="F6GKF" decl="DMR" infos="et C4FM" />
+	<marker indicatif="F5ZON" locator="JN23XE" lat="43.204899" lng="5.952200"
+		HS="0" type="UHF" categorie="ana" canal="FRU 4" qrg_in="431.7000"
+		qrg_out="430.1000" ville="Le Revest-les-Eaux" nom="Le Grand cap" dpt="83"
+		alt="783" resp="F5NTJ" decl="CTCSS" infos="74&amp;#46;4 Hz" />
+	<marker indicatif="F5ZOO" locator="JN33HI" lat="43.371601" lng="6.608300"
+		HS="0" type="VHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="434.9000"
+		qrg_out="433.3000" ville="Sainte-Maxime" nom="Le Mont Peygros" dpt="83"
+		alt="531" resp="F6FCE" decl="CTCSS" infos="74&amp;#46;4 Hz" />
+	<marker indicatif="F5ZOO" locator="JN33HI" lat="43.371601" lng="6.608300"
+		HS="0" type="VHF" categorie="ana" canal="R1" qrg_in="145.0250"
+		qrg_out="145.6250" ville="Sainte-Maxime" nom="Le Mont Peygros" dpt="83"
+		alt="531" resp="F6FCE" decl="CTCSS" infos="74&amp;#46;4 Hz" />
+	<marker indicatif="F5ZVD" locator="JN23XE" lat="43.204899" lng="5.952200"
+		HS="0" type="VHF" categorie="ana" canal="R5" qrg_in="145.1250"
+		qrg_out="145.7250" ville="Le Revest-les-Eaux" nom="Le Grand Cap" dpt="83"
+		alt="787" resp="F5NTJ" decl="CTCSS" infos="74&amp;#46;4 Hz" />
+	<marker indicatif="F1ZGW" locator="JN24PE" lat="44.173801" lng="5.277700"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4500"
+		qrg_out="431.4750" ville="B&#xE9;douin" nom="Mont Ventoux" dpt="84"
+		alt="1912" resp="F1TH" decl="cod&#xE9;" infos="ADRASEC 84" />
+	<marker indicatif="F1ZGX" locator="JN23TQ" lat="43.689098" lng="5.643800"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="144.4750"
+		qrg_out="433.4750" ville="Auribeau" nom="Le Grand Luberon" dpt="84"
+		alt="1125" resp="F1TH" decl="cod&#xE9;" infos="ADRASEC 84" />
+	<marker indicatif="F1ZMI" locator="JN23TR" lat="43.734501" lng="5.660500"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="144.7000"
+		qrg_out="432.5250" ville="Castellet" nom="Mourre N&#xE8;gre" dpt="84"
+		alt="1100" resp="F1TH" decl="cod&#xE9;" infos="ADRASEC 84" />
+	<marker indicatif="F1ZVB" locator="JN24MD" lat="44.146599" lng="5.006200"
+		HS="0" type="VHF" categorie="ana" canal="R2" qrg_in="145.0500"
+		qrg_out="145.6500" ville="Avignon" nom="Les Platri&#xE8;res" dpt="84"
+		alt="315" resp="F5AMX" decl="1750 Hz" />
+	<marker indicatif="F5ZHC" locator="JN23MT" lat="43.791801" lng="5.063000"
+		HS="1" type="UHF" categorie="ana" canal="RU 4AP" qrg_in="432.7500"
+		qrg_out="431.5000" ville="Cheval Blanc" nom="Petit Luberon" dpt="84"
+		alt="725" resp="F6DHI" decl="squelch" infos="voir si actif" />
+	<marker indicatif="F5ZWV" locator="JN24PD" lat="44.149399" lng="5.318600"
+		HS="0" type="UHF" categorie="ana" canal="RU 8H" qrg_in="439.6000"
+		qrg_out="430.2000" ville="Mont Ventoux" nom="Chalet Reynard" dpt="84"
+		alt="1400" resp="F6EPE" decl="squelch" infos="" />
+	<marker indicatif="F1ZDP" locator="IN96GQ" lat="46.679298" lng="-1.439400"
+		HS="1" type="UHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="434.8750"
+		qrg_out="433.2750" ville="La Roche-sur-Yon" nom="Cit&#xE9; des Forges"
+		dpt="85" alt="95" resp="F4DAI" decl="1750 Hz" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F6ZCU" locator="IN96LV" lat="46.899899" lng="-1.002200"
+		HS="0" type="VHF" categorie="ana" canal="R7" qrg_in="145.1750"
+		qrg_out="145.7750" ville="Mont des Alouettes" nom="Les Herbiers" dpt="85"
+		alt="240" resp="F6GNR" decl="1750 Hz" />
+	<marker indicatif="F5ZCK" locator="JN06EP" lat="46.664902" lng="0.396900"
+		HS="0" type="VHF" categorie="ana" canal="R3x" qrg_in="145.0875"
+		qrg_out="145.6875" ville="Poitiers" nom="St-Georges-l&#xE8;s-Baillargeaux"
+		dpt="86" alt="150" resp="F5EAN" decl="1750 Hz" />
+	<marker indicatif="F1ZCF" locator="JN05LW" lat="45.955200" lng="0.978300"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.5750"
+		qrg_out="431.0250" ville="Javerdat" nom="Ch&#xE2;teau d&amp;#39;eau"
+		dpt="87" alt="276" resp="F5VMR" decl="CTCSS" infos="88&amp;#46;5 Hz" />
+	<marker indicatif="F1ZGZ" locator="JN05MP" lat="45.649300" lng="1.039500"
+		HS="0" type="VHF" categorie="num" canal="sans r&#xE9;f" qrg_in="144.9750"
+		qrg_out="145.5750" ville="Bussi&#xE8;re-Galant" nom="Grelette" dpt="87"
+		alt="517" resp="F4FCE" decl="D-STAR" />
+	<marker indicatif="F1ZHA" locator="JN05PU" lat="45.841301" lng="1.277200"
+		HS="0" type="UHF" categorie="ana" canal="simplex" qrg_in="431.1875"
+		qrg_out="431.1875" ville="Limoges" nom="Rue Justin Ninard" dpt="87"
+		alt="260" resp="F1IGY" decl="CTCSS" infos="250&amp;#46;3 Hz Echolink" />
+	<marker indicatif="F1ZHA" locator="JN05PU" lat="45.841301" lng="1.277200"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3875"
+		qrg_out="431.1875" ville="Limoges" nom="Rue Justin Ninard" dpt="87"
+		alt="260" resp="F1IGY" decl="CTCSS" infos="250&amp;#46;3 Hz Echolink" />
+	<marker indicatif="F1ZHA" locator="JN05PU" lat="45.841301" lng="1.277200"
+		HS="0" type="UHF" categorie="ana" canal="FRU 4" qrg_in="431.7000"
+		qrg_out="430.1000" ville="Limoges" nom="Rue Justin Ninard" dpt="87"
+		alt="260" resp="F1IGY" decl="CTCSS" infos="250&amp;#46;3 Hz" />
+	<marker indicatif="F1ZHP" locator="JN05PV" lat="45.891201" lng="1.322200"
+		HS="0" type="UHF" categorie="num" canal="RU 18H" qrg_in="439.8500"
+		qrg_out="430.4500" ville="Limoges" nom="Rilhac-Rancon" dpt="87" alt="300"
+		resp="F4BQN" decl="D-STAR" infos="en test" />
+	<marker indicatif="F1ZIZ" locator="JN05QT" lat="45.821301" lng="1.341900"
+		HS="0" type="UHF" categorie="num" canal="RU 18HR" qrg_in="430.4500"
+		qrg_out="439.8500" ville="Limoges" nom="Rue M-B Lezaud Feytiat" dpt="87"
+		alt="400" resp="F4BQN" decl="DMR" infos="bi-mode C4FM" />
+	<marker indicatif="F1ZIZ" locator="JN05QT" lat="45.821301" lng="1.341900"
+		HS="0" type="UHF" categorie="num" canal="RU 18HR" qrg_in="430.4500"
+		qrg_out="439.8500" ville="Limoges" nom="Rue M-B Lezaud Feytiat" dpt="87"
+		alt="400" resp="F4BQN" decl="C4FM" infos="bi-mode DMR" />
+	<marker indicatif="F1ZKD" locator="JN05MP" lat="45.649399" lng="1.039500"
+		HS="0" type="UHF" categorie="num" canal="RU 17H" qrg_in="439.8250"
+		qrg_out="430.4000" ville="Bussi&#xE8;re-Galant" nom="Grelette" dpt="87"
+		alt="517" resp="cach&#xE9;" decl="DMR" />
+	<marker indicatif="F1ZNQ" locator="JN05LV" lat="45.901299" lng="0.975500"
+		HS="0" type="UHF" categorie="ana" canal="RU 238" qrg_in="431.3750"
+		qrg_out="432.9750" ville="Saint-Junien" nom="Saint-Brice-sur-Vienne"
+		dpt="87" alt="285" resp="cach&#xE9;" decl="squelch" infos="voie 145&amp;#46;2625 MHz" />
+	<marker indicatif="F1ZSN" locator="JN05MP" lat="45.649399" lng="1.039500"
+		HS="0" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="Bussi&#xE8;re-Galant" nom="Grelette" dpt="87"
+		alt="517" resp="F4FCE" decl="DMR" infos="En test" />
+	<marker indicatif="F5ZGM" locator="JN05VS" lat="45.783600" lng="1.810500"
+		HS="0" type="VHF" categorie="ana" canal="R2" qrg_in="145.0500"
+		qrg_out="145.6500" ville="Peyrat le Ch&#xE2;teau" nom="Pain Pot" dpt="87"
+		alt="760" resp="F5VMR" decl="CTCSS" infos="88&amp;#46;5 Hz" />
+	<marker indicatif="F5ZJC" locator="JN05LU" lat="45.838001" lng="0.949300"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="145.2875"
+		qrg_out="145.2875" ville="St-Martin de Jussac" nom="Les Combes" dpt="87"
+		alt="281" resp="F5GKW" decl="squelch" infos="Echolink" />
+	<marker indicatif="F5ZJE" locator="JN05VS" lat="45.783600" lng="1.810500"
+		HS="0" type="VHF" categorie="ana" canal="RF87" qrg_in="051.2700"
+		qrg_out="051.8700" ville="Peyrat le Ch&#xE2;teau" nom="Pain Pot" dpt="87"
+		alt="760" resp="F5VMR" decl="CTCSS" infos="88&amp;#46;5 Hz" />
+	<marker indicatif="F5ZLR" locator="JN05PV" lat="45.875999" lng="1.299000"
+		HS="0" type="UHF" categorie="num" canal="RU 19H" qrg_in="439.4750"
+		qrg_out="430.0750" ville="Limoges" nom="All&#xE9;e Fabre d&amp;#39;Eglantine"
+		dpt="87" alt="360" resp="F5VMR" decl="DMR" />
+	<marker indicatif="F5ZLW" locator="JN05VS" lat="45.783600" lng="1.810500"
+		HS="0" type="UHF" categorie="num" canal="RU 18XH" qrg_in="439.4625"
+		qrg_out="430.0625" ville="Peyrat le Ch&#xE2;teau" nom="Pain Pot" dpt="87"
+		alt="760" resp="F5VMR" decl="DMR" />
+	<marker indicatif="F5ZOD" locator="JN06RA" lat="46.010799" lng="1.443000"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2125"
+		qrg_out="431.3500" ville="La Jonch&#xE8;re" nom="Station Hertzienne"
+		dpt="87" alt="702" resp="F6AHP" decl="squelch" />
+	<marker indicatif="F1ZBU" locator="JN38MA" lat="48.035801" lng="7.008500"
+		HS="0" type="UHF" categorie="num" canal="FRU 17" qrg_in="431.4250"
+		qrg_out="433.0250" ville="G&#xE9;rardmer" nom="Pied du Hohneck" dpt="88"
+		alt="1270" resp="F8DSN" decl="D-STAR" />
+	<marker indicatif="F1ZBV" locator="JN38JA" lat="48.040501" lng="6.786100"
+		HS="0" type="VHF" categorie="ana" canal="R2x" qrg_in="145.0625"
+		qrg_out="145.6625" ville="Sapois" nom="La Soti&#xE8;re" dpt="88" alt="916"
+		resp="F4BKE" decl="1750 Hz" />
+	<marker indicatif="F1ZFW" locator="JN38JA" lat="48.040501" lng="6.766100"
+		HS="1" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2375"
+		qrg_out="433.5750" ville="Sapois" nom="La Soti&#xE8;re" dpt="88" alt="916"
+		resp="F4BKE" decl="squelch" infos="Arr&#xEA;t&#xE9;" />
+	<marker indicatif="F1ZSG" locator="JN38LA" lat="48.038601" lng="6.973400"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.4625"
+		qrg_out="432.5375" ville="La Bresse" nom="Le Chitelet" dpt="88" alt="1220"
+		resp="F1HBH" decl="squelch" infos="ADRASEC 88" />
+	<marker indicatif="F1ZAV" locator="JN17QO" lat="47.618000" lng="3.413300"
+		HS="0" type="UHF" categorie="ana" canal="FRU 3" qrg_in="431.6750"
+		qrg_out="430.0750" ville="Taingy" nom="Route d&amp;#39;Arcy" dpt="89"
+		alt="379" resp="F1UPL" decl="squelch" infos="bi-mode C4FM" />
+	<marker indicatif="F1ZAV" locator="JN17QO" lat="47.618000" lng="3.413300"
+		HS="0" type="UHF" categorie="num" canal="FRU 3" qrg_in="431.6750"
+		qrg_out="430.0750" ville="Taingy" nom="Route d&amp;#39;Arcy" dpt="89"
+		alt="379" resp="F1UPL" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F1ZCT" locator="JN17US" lat="47.755798" lng="3.723300"
+		HS="0" type="VHF" categorie="ana" canal="R7x" qrg_in="145.1875"
+		qrg_out="145.7875" ville="Chitry-le-Fort" nom="Le Radar" dpt="89" alt="358"
+		resp="F1AEA" decl="1750 Hz" />
+	<marker indicatif="F5ZFQ" locator="JN37KT" lat="47.817699" lng="6.843000"
+		HS="0" type="TRS" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.2625"
+		qrg_out="430.1250" ville="Belfort" nom="Ballon d&amp;#39;Alsace" dpt="90"
+		alt="1140" resp="F6IOH" decl="squelch" />
+	<marker indicatif="F1ZGL" locator="JN18DP" lat="48.626598" lng="2.263100"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3625"
+		qrg_out="432.5500" ville="Linas" nom="Ch&#xE2;teau d&amp;#39;eau" dpt="91"
+		alt="178" resp="F4CQA" decl="CTCSS" infos="85&amp;#46;4 Hz ADRASEC 91" />
+	<marker indicatif="F5ZDR" locator="JN18CP" lat="48.623600" lng="2.250800"
+		HS="0" type="UHF" categorie="num" canal="RU 8H" qrg_in="439.6000"
+		qrg_out="430.2000" ville="Linas" nom="Ch&#xE2;teau d&amp;#39;eau" dpt="91"
+		alt="178" resp="F4CQA" decl="DMR" />
+	<marker indicatif="F5ZIP" locator="JN18DP" lat="48.657501" lng="2.262100"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3125"
+		qrg_out="430.4500" ville="La Ville-du-Bois" nom="Chemin du Mesnil"
+		dpt="91" alt="120" resp="F6MPN" decl="squelch" />
+	<marker indicatif="F5ZIP" locator="JN18DP" lat="48.657501" lng="2.262100"
+		HS="0" type="UHF" categorie="num" canal="RU 18H" qrg_in="439.8500"
+		qrg_out="430.4500" ville="La Ville-du-Bois" nom="Chemin du Mesnil"
+		dpt="91" alt="120" resp="F6MPN" decl="C4FM" infos="Multi-mode" />
+	<marker indicatif="F5ZIP" locator="JN18DP" lat="48.657501" lng="2.262100"
+		HS="0" type="UHF" categorie="num" canal="RU 18H" qrg_in="439.8500"
+		qrg_out="430.4500" ville="La Ville-du-Bois" nom="Chemin du Mesnil"
+		dpt="91" alt="120" resp="F6MPN" decl="DMR" infos="Multi-mode" />
+	<marker indicatif="F5ZIP" locator="JN18DP" lat="48.657501" lng="2.262100"
+		HS="0" type="UHF" categorie="num" canal="RU 18H" qrg_in="439.8500"
+		qrg_out="430.4500" ville="La Ville-du-Bois" nom="Chemin du Mesnil"
+		dpt="91" alt="120" resp="F6MPN" decl="D-STAR" infos="Multi-mode" />
+	<marker indicatif="F5ZIW" locator="JN18BQ" lat="48.692299" lng="2.146100"
+		HS="0" type="UHF" categorie="num" canal="RU 8H" qrg_in="439.6000"
+		qrg_out="430.2000" ville="Bure-sur-Yvette" nom="Avenue Carnot" dpt="91"
+		alt="110" resp="F6CNB" decl="P25" />
+	<marker indicatif="F5ZLA" locator="JN18BR" lat="48.726299" lng="2.165100"
+		HS="0" type="UHF" categorie="num" canal="RU 20H" qrg_in="439.9000"
+		qrg_out="430.5000" ville="Saclay" nom="Ch&#xE2;teau d&amp;#39;eau RN 118"
+		dpt="91" alt="203" resp="F5IAB" decl="C4FM" />
+	<marker indicatif="F5ZMH" locator="JN18DP" lat="48.626598" lng="2.263100"
+		HS="0" type="VHF" categorie="ana" canal="R5x" qrg_in="145.1375"
+		qrg_out="145.7375" ville="Linas" nom="Ch&#xE2;teau d&amp;#39;eau" dpt="91"
+		alt="178" resp="F4CQA" decl="CTCSS" infos="82&amp;#46;5 Hz nouveau site" />
+	<marker indicatif="F1ZGI" locator="JN18CU" lat="48.864300" lng="2.193800"
+		HS="0" type="UHF" categorie="num" canal="RU 23H" qrg_in="439.9750"
+		qrg_out="430.5750" ville="Rueil-Malmaison" nom="Rue des Mazuri&#xE8;res"
+		dpt="92" alt="30" resp="F1TUV" decl="DMR" infos="Hardware RD625" />
+	<marker indicatif="F1ZGO" locator="JN18CS" lat="48.788502" lng="2.228800"
+		HS="0" type="UHF" categorie="num" canal="RU 2H" qrg_in="439.4500"
+		qrg_out="430.0500" ville="Meudon" nom="Meudon-la-For&#xEA;t" dpt="92"
+		alt="200" resp="F1TDI" decl="DMR" />
+	<marker indicatif="F1ZJC" locator="JN18DW" lat="48.921398" lng="2.259300"
+		HS="0" type="UHF" categorie="num" canal="RU 15H" qrg_in="439.7750"
+		qrg_out="430.3750" ville="Colombes" nom="Rue St-Vincent" dpt="92" alt="30"
+		resp="F1NWD" decl="C4FM" infos="d&#xE9;but 2016" />
+	<marker indicatif="F1ZLA" locator="JN18DV" lat="48.907299" lng="2.251500"
+		HS="0" type="UHF" categorie="num" canal="RU 8XH" qrg_in="439.6125"
+		qrg_out="430.2125" ville="La Garenne-Colombes" nom="Rue Jean Bonal"
+		dpt="92" alt="40" resp="cach&#xE9;" decl="DMR" />
+	<marker indicatif="F1ZLK" locator="JN18CU" lat="48.867100" lng="2.181300"
+		HS="0" type="UHF" categorie="num" canal="RU 16H" qrg_in="439.8000"
+		qrg_out="430.4000" ville="Rueil-Malmaison" nom="Domaine le la C&#xF4;te Noire"
+		dpt="92" alt="80" resp="F1PTL" decl="DMR" />
+	<marker indicatif="F1ZOI" locator="JN18CV" lat="48.889999" lng="2.235900"
+		HS="0" type="UHF" categorie="num" canal="RU 11XH" qrg_in="439.6875"
+		qrg_out="430.2875" ville="Puteaux" nom="Place des Degr&#xE9;s" dpt="92"
+		alt="80" resp="cach&#xE9;" decl="DMR" />
+	<marker indicatif="F1ZPQ" locator="JN18CV" lat="48.892700" lng="2.236700"
+		HS="0" type="UHF" categorie="num" canal="RU 17XH" qrg_in="439.8375"
+		qrg_out="430.2375" ville="Puteaux" nom="Arche de la Defense" dpt="92"
+		alt="111" resp="cach&#xE9;" decl="P25" />
+	<marker indicatif="F5ZAD" locator="JN18CS" lat="48.785801" lng="2.236900"
+		HS="0" type="VHF" categorie="ana" canal="R0" qrg_in="145.0000"
+		qrg_out="145.6000" ville="Clamart" nom="Rue Boileau" dpt="92" alt="205"
+		resp="F8QT" decl="1750 Hz" />
+	<marker indicatif="F5ZWH" locator="JN18CV" lat="48.897999" lng="2.216200"
+		HS="0" type="UHF" categorie="ana" canal="RU 12XH" qrg_in="439.7125"
+		qrg_out="430.3125" ville="Nanterre" nom="Pr&#xE9;fecture" dpt="92"
+		alt="50" resp="F1NCP" decl="CTCSS" infos="74&amp;#46;4 Hz ADRASEC 92" />
+	<marker indicatif="F6ZHF" locator="JN18CS" lat="48.785801" lng="2.236900"
+		HS="0" type="UHF" categorie="ana" canal="RU 5H" qrg_in="439.5250"
+		qrg_out="430.1250" ville="Clamart" nom="Rue Boileau" dpt="92" alt="205"
+		resp="F5OCI" decl="squelch" infos="bi-mode C4FM" />
+	<marker indicatif="F6ZHF" locator="JN18CS" lat="48.785801" lng="2.236900"
+		HS="0" type="UHF" categorie="num" canal="RU 5H" qrg_in="439.5250"
+		qrg_out="430.1250" ville="Clamart" nom="Rue Boileau" dpt="92" alt="205"
+		resp="F5OCI" decl="C4FM" infos="bi-mode FM" />
+	<marker indicatif="F1ZEI" locator="JN18FV" lat="48.885601" lng="2.425400"
+		HS="0" type="UHF" categorie="num" canal="RU 7H" qrg_in="439.5750"
+		qrg_out="430.1750" ville="Lilas (Les)" nom="Rue Guynemer" dpt="93"
+		alt="220" resp="F1TDI" decl="DMR" />
+	<marker indicatif="F1ZIT" locator="JN18GV" lat="48.882198" lng="2.537500"
+		HS="0" type="UHF" categorie="num" canal="RU 17H" qrg_in="439.8250"
+		qrg_out="430.4250" ville="Gagny" nom="Rue de Champagne" dpt="93" alt="60"
+		resp="F4ELP" decl="C4FM" />
+	<marker indicatif="F1ZUS" locator="JN18FV" lat="48.886101" lng="2.424900"
+		HS="0" type="TRP" categorie="ana" canal="sans r&#xE9;f" qrg_in="145.3625"
+		qrg_out="430.1000" ville="Lilas (Les)" nom="Rue Guynemer" dpt="93"
+		alt="220" resp="F1TDI" decl="CTCSS" infos="110&amp;#46;9 Hz -&amp;amp;gt; F1ZGO" />
+	<marker indicatif="F1ZUS" locator="JN18FV" lat="48.886101" lng="2.424900"
+		HS="0" type="UHF" categorie="ana" canal="RU 4H" qrg_in="439.5000"
+		qrg_out="430.1000" ville="Lilas (Les)" nom="Rue Guynemer" dpt="93"
+		alt="220" resp="F1TDI" decl="CTCSS" infos="110&amp;#46;9 Hz -&amp;amp;gt; F1ZGO" />
+	<marker indicatif="F5ZIO" locator="JN18FV" lat="48.878601" lng="2.457100"
+		HS="0" type="UHF" categorie="num" canal="RU 18H" qrg_in="439.8500"
+		qrg_out="430.4500" ville="Noisy-le-Sec" nom="Rue des Processions" dpt="93"
+		alt="70" resp="F6MPN" decl="DMR" />
+	<marker indicatif="F1ZHW" locator="JN18ET" lat="48.822300" lng="2.413400"
+		HS="0" type="UHF" categorie="num" canal="RU 21XH" qrg_in="439.9375"
+		qrg_out="430.5375" ville="Charenton-le-Pont" nom="Place Aristide Briand"
+		dpt="94" alt="85" resp="F1TUV" decl="DMR" />
+	<marker indicatif="F5ZWI" locator="JN18FS" lat="48.781700" lng="2.452200"
+		HS="0" type="UHF" categorie="ana" canal="RU 15H" qrg_in="439.7750"
+		qrg_out="430.3750" ville="Cr&#xE9;teil" nom="Pr&#xE9;fecture" dpt="94"
+		alt="40" resp="F1NCP" decl="CTCSS" infos="74&amp;#46;4 Hz ADRASEC 94" />
+	<marker indicatif="F1ZLJ" locator="JN19CA" lat="49.022202" lng="2.237200"
+		HS="0" type="VHF" categorie="ana" canal="sans r&#xE9;f" qrg_in="144.9750"
+		qrg_out="145.5750" ville="Taverny" nom="Rue de la Mar&#xE9;e" dpt="95"
+		alt="40" resp="F4GLJ" decl="squelch" />
+	<marker indicatif="F1ZLJ" locator="JN19CA" lat="49.022202" lng="2.237200"
+		HS="0" type="VHF" categorie="ana" canal="simplex" qrg_in="145.4500"
+		qrg_out="145.4500" ville="Taverny" nom="Rue de la Mar&#xE9;e" dpt="95"
+		alt="40" resp="F4GLJ" decl="squelch" infos="Echolink" />
+	<marker indicatif="F1ZLJ" locator="JN19CA" lat="49.022202" lng="2.237200"
+		HS="0" type="UHF" categorie="num" canal="RU 8XH" qrg_in="439.6125"
+		qrg_out="430.2125" ville="Taverny" nom="Rue de la Mar&#xE9;e" dpt="95"
+		alt="40" resp="F4GLJ" decl="C4FM" />
+	<marker indicatif="3A2UHF" locator="JN33RR" lat="43.731098" lng="7.424700"
+		HS="0" type="UHF" categorie="ana" canal="FRU 5" qrg_in="431.7250"
+		qrg_out="430.1250" ville="Monaco" nom="Lyc&#xE9;e Albert 1er" dpt="MC"
+		alt="100" resp="3A2LF" decl="squelch" infos="couvre la mer" />
+	<marker indicatif="3A2VHF" locator="JN33RR" lat="43.738602" lng="7.419700"
+		HS="0" type="VHF" categorie="ana" canal="R7" qrg_in="145.1750"
+		qrg_out="145.7750" ville="Monaco" nom="Bd de Suisse" dpt="MC" alt="120"
+		resp="3A2LF" decl="squelch" infos="couvre nord-est et sud" />
+</markers>
